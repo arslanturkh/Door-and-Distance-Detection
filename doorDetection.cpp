@@ -74,17 +74,16 @@ int main() {
 			cvtColor(frame, frame_gray, CV_BGR2GRAY);
 			cvtColor(frame, gray_distance, CV_BGR2GRAY);
 
-			// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-			// alttaki equalizeHisti kapali ve acik deneyin hangisi hosunuza giderse
+			
 			equalizeHist(frame_gray, frame_gray);
-			// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+			
 
-			//-- Detect faces
+			//-- Detect doors
 			door_cascade.detectMultiScale(frame_gray, doors, 16, 17, 0 | CV_HAAR_SCALE_IMAGE, Size(340,340));
 
 			for (size_t i = 0; i < doors.size(); i++) {
 				if (doors[i].x > 0) {
-					// kapi varsa
+					
 					int door_detect_left, door_detect_right, door_detect_up, door_detect_down;
 					int door_left = 1080, door_right = 0, door_up, door_down;
 					int door_width, door_height;
@@ -132,7 +131,7 @@ int main() {
 					door_left = (door_left + door_detect_left) / 2;
 					door_right = (door_right + door_detect_right) / 2;
 					
-					//genislik !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+					//width !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 					door_width = door_right - door_left;
 					//!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
 					door_height = door_down - door_up;
@@ -149,11 +148,7 @@ int main() {
 							Rect rect(door_left, door_up, door_width, door_height);
 							rectangle(frame, rect, cv::Scalar(255, 0, 0), 2, 8);
 
-							/*#########################################################################################
-							buraya gelecek senin kodun
-							genisligin piksel degeri  door_width degiskeninde
-
-							###########################################################################################*/
+							//-- detect distance
 
 
 							int array_x[10000];
