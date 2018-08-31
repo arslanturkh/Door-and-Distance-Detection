@@ -1,0 +1,3499 @@
+rawdata/pos-1.bmp 1 87 40 356 1000
+rawdata/pos-2.bmp 1 121 76 823 877
+rawdata/pos-3.bmp 1 116 31 682 912
+rawdata/pos-4.bmp 1 122 63 686 883
+rawdata/pos-5.bmp 1 161 26 691 911
+rawdata/pos-6.bmp 1 87 2 785 1005
+rawdata/pos-7.bmp 1 66 8 845 1003
+rawdata/pos-8.bmp 1 127 37 723 900
+rawdata/pos-9.bmp 1 133 88 737 890
+rawdata/pos-10.bmp 1 76 26 784 1040
+rawdata/pos-11.bmp 1 103 67 712 920
+rawdata/pos-12.bmp 1 174 89 681 917
+rawdata/pos-13.bmp 2 83 69 424 991 522 108 421 875
+rawdata/pos-14.bmp 1 102 46 685 959
+rawdata/pos-15.bmp 1 68 108 711 861
+rawdata/pos-16.bmp 1 86 41 834 1008
+rawdata/pos-17.bmp 1 143 63 832 972
+rawdata/pos-18.bmp 1 161 29 836 1007
+rawdata/pos-19.bmp 1 103 20 823 1013
+rawdata/pos-20.bmp 3 102 33 415 995 525 33 428 1028 353 510 124 161
+rawdata/pos-21.bmp 1 137 7 850 1016
+rawdata/pos-22.bmp 1 59 4 918 1008
+rawdata/pos-23.bmp 1 105 54 886 1001
+rawdata/pos-24.bmp 2 58 47 429 923 506 70 423 864
+rawdata/pos-25.bmp 1 121 32 914 1048
+rawdata/pos-26.bmp 1 107 35 789 1003
+rawdata/pos-27.bmp 1 102 33 769 1013
+rawdata/pos-28.bmp 1 146 94 794 897
+rawdata/pos-29.bmp 2 123 85 388 936 513 94 401 955
+rawdata/pos-30.bmp 1 142 28 783 1033
+rawdata/pos-31.bmp 1 123 70 795 949
+rawdata/pos-32.bmp 1 126 73 813 971
+rawdata/pos-33.bmp 1 74 52 802 918
+rawdata/pos-34.bmp 1 104 106 840 931
+rawdata/pos-35.bmp 1 71 26 856 859
+rawdata/pos-36.bmp 1 102 75 763 935
+rawdata/pos-37.bmp 1 117 55 747 946
+rawdata/pos-38.bmp 1 103 106 762 895
+rawdata/pos-39.bmp 1 94 168 666 841
+rawdata/pos-40.bmp 1 78 137 739 859
+rawdata/pos-41.bmp 1 103 108 653 788
+rawdata/pos-42.bmp 2 89 174 308 765 404 164 337 763
+rawdata/pos-43.bmp 2 109 87 408 800 531 117 311 754
+rawdata/pos-44.bmp 1 111 115 649 784
+rawdata/pos-45.bmp 1 86 69 816 892
+rawdata/pos-46.bmp 1 134 54 428 949
+rawdata/pos-47.bmp 1 64 42 779 919
+rawdata/pos-48.bmp 1 98 47 772 946
+rawdata/pos-49.bmp 1 102 67 746 960
+rawdata/pos-50.bmp 1 68 64 783 935
+rawdata/pos-51.bmp 1 84 103 750 950
+rawdata/pos-52.bmp 1 75 118 751 935
+rawdata/pos-53.bmp 1 60 90 790 961
+rawdata/pos-54.bmp 1 80 40 776 948
+rawdata/pos-55.bmp 1 67 87 732 881
+rawdata/pos-56.bmp 1 91 67 736 871
+rawdata/pos-57.bmp 1 231 26 432 1020
+rawdata/pos-58.bmp 1 90 41 860 1036
+rawdata/pos-59.bmp 2 270 43 403 955 683 43 402 938
+rawdata/pos-60.bmp 1 150 58 829 987
+rawdata/pos-61.bmp 2 66 33 460 1043 548 34 429 1029
+rawdata/pos-62.bmp 2 72 20 456 1047 560 25 416 1044
+rawdata/pos-63.bmp 2 60 17 449 1028 537 17 427 1041
+rawdata/pos-64.bmp 2 79 23 456 1014 580 16 421 1061
+rawdata/pos-65.bmp 2 115 35 382 907 536 67 321 864
+rawdata/pos-66.bmp 2 123 13 364 880 529 20 332 894
+rawdata/pos-67.bmp 2 112 36 384 937 536 76 360 922
+rawdata/pos-68.bmp 1 96 42 829 919
+rawdata/pos-69.bmp 2 103 20 378 906 522 43 357 939
+rawdata/pos-70.bmp 2 73 56 389 949 500 76 364 926
+rawdata/pos-71.bmp 2 55 35 410 928 501 52 383 939
+rawdata/pos-72.bmp 2 142 16 432 1055 624 17 437 1069
+rawdata/pos-73.bmp 2 135 29 449 1018 620 24 439 1043
+rawdata/pos-74.bmp 2 173 19 406 1027 622 6 451 1040
+rawdata/pos-75.bmp 2 163 33 462 979 665 25 429 1024
+rawdata/pos-76.bmp 1 131 32 901 1039
+rawdata/pos-77.bmp 1 151 62 812 977
+rawdata/pos-78.bmp 1 141 101 800 928
+rawdata/pos-79.bmp 1 90 75 805 899
+rawdata/pos-80.bmp 1 98 83 784 922
+rawdata/pos-81.bmp 1 75 71 801 987
+rawdata/pos-82.bmp 1 75 71 801 987
+rawdata/pos-83.bmp 1 158 41 415 927
+rawdata/pos-84.bmp 1 138 49 438 953
+rawdata/pos-85.bmp 1 145 31 451 965
+rawdata/pos-86.bmp 1 90 33 428 903
+rawdata/pos-87.bmp 1 101 73 386 855
+rawdata/pos-88.bmp 1 118 94 381 790
+rawdata/pos-89.bmp 1 67 93 747 906
+rawdata/pos-90.bmp 1 74 60 823 895
+rawdata/pos-91.bmp 1 121 89 590 844
+rawdata/pos-92.bmp 1 118 147 587 814
+rawdata/pos-93.bmp 1 32 24 675 977
+rawdata/pos-94.bmp 1 9 40 684 968
+rawdata/pos-95.bmp 1 16 39 682 946
+rawdata/pos-96.bmp 1 55 50 462 960
+rawdata/pos-97.bmp 1 67 64 403 887
+rawdata/pos-98.bmp 1 90 55 426 975
+rawdata/pos-99.bmp 1 98 40 460 1001
+rawdata/pos-100.bmp 1 93 0 521 1041
+rawdata/pos-101.bmp 1 49 24 846 951
+rawdata/pos-102.bmp 1 98 28 503 1001
+rawdata/pos-103.bmp 1 68 53 795 864
+rawdata/pos-104.bmp 1 91 26 548 1049
+rawdata/pos-105.bmp 1 64 29 422 1029
+rawdata/pos-106.bmp 1 104 58 431 937
+rawdata/pos-107.bmp 1 60 26 474 1052
+rawdata/pos-108.bmp 1 92 39 440 1018
+rawdata/pos-109.bmp 1 89 41 447 1009
+rawdata/pos-110.bmp 2 122 91 361 827 514 90 368 859
+rawdata/pos-111.bmp 2 70 72 354 797 450 75 349 811
+rawdata/pos-112.bmp 1 53 52 361 954
+rawdata/pos-113.bmp 1 68 132 909 924
+rawdata/pos-114.bmp 2 83 29 379 845 474 40 351 825
+rawdata/pos-115.bmp 2 102 71 371 795 488 66 362 811
+rawdata/pos-116.bmp 2 99 117 367 777 490 106 354 820
+rawdata/pos-117.bmp 2 87 105 386 800 482 103 355 819
+rawdata/pos-118.bmp 2 106 85 346 795 473 90 349 793
+rawdata/pos-119.bmp 2 143 84 352 791 522 81 329 811
+rawdata/pos-120.bmp 1 84 72 740 886
+rawdata/pos-121.bmp 1 194 84 685 829
+rawdata/pos-122.bmp 1 174 61 709 801
+rawdata/pos-123.bmp 1 98 133 757 877
+rawdata/pos-124.bmp 1 113 129 779 869
+rawdata/pos-125.bmp 1 99 84 745 838
+rawdata/pos-126.bmp 1 104 104 732 799
+rawdata/pos-127.bmp 1 120 57 424 1003
+rawdata/pos-128.bmp 1 112 55 784 939
+rawdata/pos-129.bmp 1 59 40 810 970
+rawdata/pos-130.bmp 1 102 53 788 940
+rawdata/pos-131.bmp 1 103 44 808 964
+rawdata/pos-132.bmp 1 126 74 802 962
+rawdata/pos-133.bmp 1 111 83 753 945
+rawdata/pos-134.bmp 1 135 49 794 950
+rawdata/pos-135.bmp 1 146 77 776 865
+rawdata/pos-136.bmp 1 160 53 773 931
+rawdata/pos-137.bmp 1 128 81 793 927
+rawdata/pos-138.bmp 1 127 69 714 895
+rawdata/pos-139.bmp 1 67 9 856 993
+rawdata/pos-140.bmp 1 138 65 713 944
+rawdata/pos-141.bmp 1 141 60 732 851
+rawdata/pos-142.bmp 2 100 39 396 956 530 46 368 940
+rawdata/pos-143.bmp 1 126 118 786 895
+rawdata/pos-144.bmp 1 117 78 732 838
+rawdata/pos-145.bmp 1 124 83 721 828
+rawdata/pos-146.bmp 1 165 28 675 1016
+rawdata/pos-147.bmp 1 129 74 724 839
+rawdata/pos-148.bmp 1 188 162 710 816
+rawdata/pos-149.bmp 2 113 43 391 895 531 38 370 901
+rawdata/pos-150.bmp 2 79 52 391 913 511 52 368 932
+rawdata/pos-151.bmp 2 93 90 387 892 516 94 376 900
+rawdata/pos-152.bmp 2 114 46 385 898 536 28 364 919
+rawdata/pos-153.bmp 1 103 29 375 934
+rawdata/pos-154.bmp 2 107 24 365 919 537 25 352 931
+rawdata/pos-155.bmp 1 148 32 422 929
+rawdata/pos-156.bmp 1 186 33 408 923
+rawdata/pos-157.bmp 1 108 46 686 941
+rawdata/pos-158.bmp 1 81 76 372 826
+rawdata/pos-159.bmp 1 132 54 339 814
+rawdata/pos-160.bmp 1 111 21 365 858
+rawdata/pos-161.bmp 2 98 51 390 924 518 35 386 945
+rawdata/pos-162.bmp 2 92 79 392 914 512 60 381 934
+rawdata/pos-163.bmp 1 102 75 706 979
+rawdata/pos-164.bmp 1 48 28 677 941
+rawdata/pos-165.bmp 2 95 58 407 953 522 47 402 973
+rawdata/pos-166.bmp 2 76 54 424 940 500 35 465 1024
+rawdata/pos-167.bmp 2 137 90 397 919 561 50 391 1004
+rawdata/pos-168.bmp 1 113 73 675 869
+rawdata/pos-169.bmp 2 74 58 396 970 504 78 377 958
+rawdata/pos-170.bmp 2 117 105 383 921 527 79 387 962
+rawdata/pos-171.bmp 2 93 71 387 864 511 69 353 886
+rawdata/pos-172.bmp 2 118 55 369 895 516 55 362 909
+rawdata/pos-173.bmp 2 136 52 367 888 533 50 375 887
+rawdata/pos-174.bmp 2 94 84 370 887 501 89 360 899
+rawdata/pos-175.bmp 2 88 81 355 866 482 76 350 892
+rawdata/pos-176.bmp 2 123 74 340 879 511 73 357 903
+rawdata/pos-177.bmp 1 88 5 971 994
+rawdata/pos-178.bmp 2 105 46 398 934 540 40 374 945
+rawdata/pos-179.bmp 1 105 61 680 908
+rawdata/pos-180.bmp 1 88 46 821 957
+rawdata/pos-181.bmp 1 119 53 650 797
+rawdata/pos-182.bmp 1 134 60 708 857
+rawdata/pos-183.bmp 1 107 50 781 872
+rawdata/pos-184.bmp 1 136 32 725 861
+rawdata/pos-185.bmp 1 138 40 749 889
+rawdata/pos-186.bmp 1 76 5 1137 1084
+rawdata/pos-187.bmp 1 67 44 905 1018
+rawdata/pos-188.bmp 1 131 29 846 992
+rawdata/pos-189.bmp 1 123 22 867 1015
+rawdata/pos-190.bmp 1 147 62 654 913
+rawdata/pos-191.bmp 1 219 45 384 1003
+rawdata/pos-192.bmp 2 139 81 400 923 567 77 392 938
+rawdata/pos-193.bmp 2 108 33 402 937 527 33 393 926
+rawdata/pos-194.bmp 2 78 42 420 945 509 37 394 942
+rawdata/pos-195.bmp 2 158 85 380 934 574 92 384 948
+rawdata/pos-196.bmp 2 125 42 412 953 572 53 382 947
+rawdata/pos-197.bmp 2 121 85 354 851 503 90 360 851
+rawdata/pos-198.bmp 1 122 55 346 852
+rawdata/pos-199.bmp 2 132 39 333 834 497 30 364 876
+rawdata/pos-200.bmp 2 101 66 354 854 491 65 348 876
+rawdata/pos-201.bmp 1 76 83 672 896
+rawdata/pos-202.bmp 1 104 74 836 810
+rawdata/pos-203.bmp 1 81 37 800 852
+rawdata/pos-204.bmp 1 85 30 802 815
+rawdata/pos-205.bmp 1 78 65 816 813
+rawdata/pos-206.bmp 1 62 59 818 822
+rawdata/pos-207.bmp 1 96 81 770 843
+rawdata/pos-208.bmp 1 102 59 747 838
+rawdata/pos-209.bmp 1 92 61 754 768
+rawdata/pos-210.bmp 1 99 16 825 870
+rawdata/pos-211.bmp 1 108 20 726 875
+rawdata/pos-212.bmp 1 69 50 748 924
+rawdata/pos-213.bmp 1 145 77 344 835
+rawdata/pos-214.bmp 1 291 86 362 831
+rawdata/pos-215.bmp 1 121 17 633 1048
+rawdata/pos-216.bmp 1 87 106 593 670
+rawdata/pos-217.bmp 1 108 30 901 991
+rawdata/pos-218.bmp 1 98 23 913 990
+rawdata/pos-219.bmp 1 132 4 860 984
+rawdata/pos-220.bmp 1 111 26 880 1007
+rawdata/pos-221.bmp 1 89 0 893 999
+rawdata/pos-222.bmp 1 112 3 892 999
+rawdata/pos-223.bmp 1 134 79 325 848
+rawdata/pos-224.bmp 1 45 66 791 981
+rawdata/pos-225.bmp 1 171 53 374 900
+rawdata/pos-226.bmp 1 125 10 431 1045
+rawdata/pos-227.bmp 1 99 35 447 1004
+rawdata/pos-228.bmp 1 73 23 771 830
+rawdata/pos-229.bmp 1 87 121 718 817
+rawdata/pos-230.bmp 1 78 50 682 774
+rawdata/pos-231.bmp 1 79 30 771 851
+rawdata/pos-232.bmp 2 66 73 755 819 457 335 66 115
+rawdata/pos-233.bmp 1 48 49 772 881
+rawdata/pos-234.bmp 1 73 83 868 977
+rawdata/pos-235.bmp 1 74 83 767 974
+rawdata/pos-236.bmp 1 81 43 748 886
+rawdata/pos-237.bmp 1 83 10 1045 1050
+rawdata/pos-238.bmp 1 126 34 827 969
+rawdata/pos-239.bmp 1 104 38 845 953
+rawdata/pos-240.bmp 1 100 16 745 900
+rawdata/pos-241.bmp 1 103 13 759 943
+rawdata/pos-242.bmp 1 115 27 731 898
+rawdata/pos-243.bmp 1 73 46 831 996
+rawdata/pos-244.bmp 1 134 38 820 980
+rawdata/pos-245.bmp 1 143 10 808 959
+rawdata/pos-246.bmp 1 39 29 733 1003
+rawdata/pos-247.bmp 1 87 16 874 981
+rawdata/pos-248.bmp 1 45 28 845 936
+rawdata/pos-249.bmp 1 111 22 859 938
+rawdata/pos-250.bmp 1 75 20 853 931
+rawdata/pos-251.bmp 1 161 34 488 1016
+rawdata/pos-252.bmp 1 135 24 776 894
+rawdata/pos-253.bmp 1 54 69 860 951
+rawdata/pos-254.bmp 1 92 24 882 975
+rawdata/pos-255.bmp 1 89 34 455 846
+rawdata/pos-256.bmp 1 135 29 455 871
+rawdata/pos-257.bmp 1 62 24 925 1028
+rawdata/pos-258.bmp 1 85 31 436 859
+rawdata/pos-259.bmp 1 73 55 912 963
+rawdata/pos-260.bmp 2 157 20 494 930 698 43 405 895
+rawdata/pos-261.bmp 2 136 54 397 893 572 56 394 945
+rawdata/pos-262.bmp 2 147 38 382 971 565 66 347 866
+rawdata/pos-263.bmp 2 96 14 362 979 501 65 343 883
+rawdata/pos-264.bmp 2 157 60 317 904 516 56 359 911
+rawdata/pos-265.bmp 2 134 6 351 833 527 13 323 943
+rawdata/pos-266.bmp 2 118 44 345 853 504 34 345 887
+rawdata/pos-267.bmp 2 114 122 330 815 486 114 322 809
+rawdata/pos-268.bmp 1 122 32 921 1044
+rawdata/pos-269.bmp 2 105 111 320 827 465 125 320 793
+rawdata/pos-270.bmp 2 105 123 326 773 466 116 321 798
+rawdata/pos-271.bmp 2 94 103 371 803 479 86 339 827
+rawdata/pos-272.bmp 2 139 112 338 786 481 106 361 806
+rawdata/pos-273.bmp 1 86 37 850 969
+rawdata/pos-274.bmp 1 107 50 845 1002
+rawdata/pos-275.bmp 1 91 20 847 1005
+rawdata/pos-276.bmp 1 126 18 764 900
+rawdata/pos-277.bmp 1 106 14 779 923
+rawdata/pos-278.bmp 1 99 108 703 902
+rawdata/pos-279.bmp 1 111 45 893 1014
+rawdata/pos-280.bmp 1 93 79 721 908
+rawdata/pos-281.bmp 1 104 75 753 852
+rawdata/pos-282.bmp 1 122 30 738 940
+rawdata/pos-283.bmp 1 123 60 736 917
+rawdata/pos-284.bmp 1 89 96 734 878
+rawdata/pos-285.bmp 1 247 69 327 962
+rawdata/pos-286.bmp 1 142 151 846 872
+rawdata/pos-287.bmp 1 126 122 878 882
+rawdata/pos-288.bmp 1 125 160 863 871
+rawdata/pos-289.bmp 1 83 87 876 853
+rawdata/pos-290.bmp 1 151 42 898 1011
+rawdata/pos-291.bmp 2 86 92 436 857 531 117 406 831
+rawdata/pos-292.bmp 2 96 14 663 1030 756 76 521 957
+rawdata/pos-293.bmp 1 125 71 947 976
+rawdata/pos-294.bmp 1 136 63 923 971
+rawdata/pos-295.bmp 2 113 103 424 877 554 103 460 939
+rawdata/pos-296.bmp 2 165 100 414 870 607 82 397 889
+rawdata/pos-297.bmp 1 106 49 414 995
+rawdata/pos-298.bmp 1 142 61 435 991
+rawdata/pos-299.bmp 2 137 73 459 922 618 68 452 922
+rawdata/pos-300.bmp 2 152 72 461 936 690 28 383 1003
+rawdata/pos-301.bmp 1 130 67 753 911
+rawdata/pos-302.bmp 1 127 48 933 941
+rawdata/pos-303.bmp 1 167 30 982 988
+rawdata/pos-304.bmp 1 176 56 923 990
+rawdata/pos-305.bmp 1 94 26 1122 985
+rawdata/pos-306.bmp 2 124 58 470 930 629 47 464 926
+rawdata/pos-307.bmp 2 117 81 464 930 616 88 448 911
+rawdata/pos-308.bmp 2 123 102 462 927 615 96 482 916
+rawdata/pos-309.bmp 2 93 72 461 942 594 91 465 910
+rawdata/pos-310.bmp 1 93 65 467 962
+rawdata/pos-311.bmp 1 80 97 465 940
+rawdata/pos-312.bmp 1 95 71 776 939
+rawdata/pos-313.bmp 1 73 118 448 926
+rawdata/pos-314.bmp 1 117 61 783 1010
+rawdata/pos-315.bmp 1 94 56 749 947
+rawdata/pos-316.bmp 1 75 76 754 981
+rawdata/pos-317.bmp 1 92 54 755 961
+rawdata/pos-318.bmp 1 83 69 764 953
+rawdata/pos-319.bmp 1 47 71 821 995
+rawdata/pos-320.bmp 1 92 60 819 1004
+rawdata/pos-321.bmp 1 88 100 695 932
+rawdata/pos-322.bmp 1 65 87 677 904
+rawdata/pos-323.bmp 1 143 51 493 909
+rawdata/pos-324.bmp 1 91 94 693 870
+rawdata/pos-325.bmp 1 99 87 681 943
+rawdata/pos-326.bmp 1 96 122 677 882
+rawdata/pos-327.bmp 1 73 106 685 868
+rawdata/pos-328.bmp 1 53 146 780 861
+rawdata/pos-329.bmp 1 67 85 759 903
+rawdata/pos-330.bmp 1 69 100 768 868
+rawdata/pos-331.bmp 1 105 122 787 872
+rawdata/pos-332.bmp 1 122 132 773 882
+rawdata/pos-333.bmp 2 49 72 418 927 496 158 359 839
+rawdata/pos-334.bmp 1 65 51 360 1009
+rawdata/pos-335.bmp 1 109 89 470 901
+rawdata/pos-336.bmp 2 232 131 357 858 611 131 358 841
+rawdata/pos-337.bmp 2 151 183 350 832 527 177 353 858
+rawdata/pos-338.bmp 2 148 132 348 831 522 140 371 825
+rawdata/pos-339.bmp 2 126 93 338 816 500 84 357 835
+rawdata/pos-340.bmp 2 246 109 307 826 621 95 295 841
+rawdata/pos-341.bmp 2 272 147 336 836 662 102 376 940
+rawdata/pos-342.bmp 2 233 133 330 830 591 109 336 938
+rawdata/pos-343.bmp 2 283 43 349 1016 681 98 338 882
+rawdata/pos-344.bmp 2 119 85 359 890 503 82 347 891
+rawdata/pos-345.bmp 2 117 46 408 989 550 43 400 998
+rawdata/pos-346.bmp 1 129 21 466 929
+rawdata/pos-347.bmp 2 171 28 371 894 565 33 347 889
+rawdata/pos-348.bmp 1 218 113 557 792
+rawdata/pos-349.bmp 1 181 76 600 874
+rawdata/pos-350.bmp 1 206 86 594 889
+rawdata/pos-351.bmp 1 203 53 614 894
+rawdata/pos-352.bmp 1 201 82 626 876
+rawdata/pos-353.bmp 1 100 65 689 973
+rawdata/pos-354.bmp 1 76 77 688 982
+rawdata/pos-355.bmp 1 97 43 718 1013
+rawdata/pos-356.bmp 1 73 65 699 947
+rawdata/pos-357.bmp 1 178 32 472 912
+rawdata/pos-358.bmp 1 121 64 662 923
+rawdata/pos-359.bmp 1 86 52 796 933
+rawdata/pos-360.bmp 1 85 44 904 1029
+rawdata/pos-361.bmp 1 88 31 885 1034
+rawdata/pos-362.bmp 1 89 28 1003 1042
+rawdata/pos-363.bmp 1 90 35 895 1054
+rawdata/pos-364.bmp 1 102 7 901 1031
+rawdata/pos-365.bmp 1 89 27 561 1011
+rawdata/pos-366.bmp 1 84 7 590 1024
+rawdata/pos-367.bmp 1 95 26 523 986
+rawdata/pos-368.bmp 1 77 83 728 934
+rawdata/pos-369.bmp 1 199 12 1113 954
+rawdata/pos-370.bmp 1 80 39 1019 969
+rawdata/pos-371.bmp 1 137 31 935 931
+rawdata/pos-372.bmp 2 165 34 439 948 587 60 612 885
+rawdata/pos-373.bmp 2 139 34 417 939 622 39 424 969
+rawdata/pos-374.bmp 1 140 37 593 979
+rawdata/pos-375.bmp 1 147 56 612 994
+rawdata/pos-376.bmp 1 132 47 584 994
+rawdata/pos-377.bmp 1 116 101 812 953
+rawdata/pos-378.bmp 1 64 113 832 917
+rawdata/pos-379.bmp 1 77 109 668 933
+rawdata/pos-380.bmp 1 79 98 798 922
+rawdata/pos-381.bmp 1 96 136 814 913
+rawdata/pos-382.bmp 1 105 143 775 896
+rawdata/pos-383.bmp 1 151 94 386 939
+rawdata/pos-384.bmp 1 123 36 398 937
+rawdata/pos-385.bmp 1 127 121 402 912
+rawdata/pos-386.bmp 2 65 51 382 836 492 55 382 809
+rawdata/pos-387.bmp 2 153 135 384 815 591 126 413 898
+rawdata/pos-388.bmp 2 108 155 381 825 529 100 389 903
+rawdata/pos-389.bmp 2 60 77 452 965 539 164 411 828
+rawdata/pos-390.bmp 1 127 70 707 1005
+rawdata/pos-391.bmp 2 129 75 392 886 540 88 401 837
+rawdata/pos-392.bmp 2 100 151 396 828 544 162 383 835
+rawdata/pos-393.bmp 2 101 192 401 853 523 206 381 819
+rawdata/pos-394.bmp 2 98 179 412 864 521 197 393 839
+rawdata/pos-395.bmp 2 106 177 417 856 541 171 409 833
+rawdata/pos-396.bmp 2 60 179 418 854 499 177 394 848
+rawdata/pos-397.bmp 1 67 155 698 819
+rawdata/pos-398.bmp 1 121 133 840 913
+rawdata/pos-399.bmp 1 132 134 758 903
+rawdata/pos-400.bmp 1 83 31 863 1038
+rawdata/pos-401.bmp 1 112 9 927 1034
+rawdata/pos-402.bmp 1 105 51 868 998
+rawdata/pos-403.bmp 1 124 56 854 1006
+rawdata/pos-404.bmp 1 126 46 508 1014
+rawdata/pos-405.bmp 1 163 24 434 1037
+rawdata/pos-406.bmp 1 131 76 418 941
+rawdata/pos-407.bmp 1 105 33 490 1043
+rawdata/pos-408.bmp 1 108 21 460 1041
+rawdata/pos-409.bmp 1 267 24 470 1042
+rawdata/pos-410.bmp 1 129 56 442 1004
+rawdata/pos-411.bmp 1 83 29 495 1050
+rawdata/pos-412.bmp 1 148 5 676 1009
+rawdata/pos-413.bmp 1 118 35 479 1043
+rawdata/pos-414.bmp 1 130 35 539 962
+rawdata/pos-415.bmp 1 83 54 809 871
+rawdata/pos-416.bmp 1 128 184 774 813
+rawdata/pos-417.bmp 1 127 226 756 796
+rawdata/pos-418.bmp 1 78 65 824 937
+rawdata/pos-419.bmp 1 95 136 761 851
+rawdata/pos-420.bmp 1 120 42 848 974
+rawdata/pos-421.bmp 1 113 113 845 897
+rawdata/pos-422.bmp 1 121 109 829 855
+rawdata/pos-423.bmp 1 103 57 740 974
+rawdata/pos-424.bmp 1 95 64 839 881
+rawdata/pos-425.bmp 1 34 23 862 875
+rawdata/pos-426.bmp 2 135 78 501 962 673 71 585 995
+rawdata/pos-427.bmp 2 84 92 495 975 685 89 464 1000
+rawdata/pos-428.bmp 2 104 111 471 980 622 100 603 982
+rawdata/pos-429.bmp 2 103 79 511 987 623 73 544 984
+rawdata/pos-430.bmp 2 69 77 504 969 591 69 490 1020
+rawdata/pos-431.bmp 2 88 43 463 917 566 96 422 866
+rawdata/pos-432.bmp 2 94 72 424 942 559 122 385 812
+rawdata/pos-433.bmp 2 96 95 418 861 533 106 400 848
+rawdata/pos-434.bmp 1 80 64 746 986
+rawdata/pos-435.bmp 2 46 87 426 864 497 63 444 1006
+rawdata/pos-436.bmp 2 103 105 420 878 554 53 381 952
+rawdata/pos-437.bmp 2 105 120 396 874 544 128 379 869
+rawdata/pos-438.bmp 1 101 64 477 908
+rawdata/pos-439.bmp 1 122 56 473 1006
+rawdata/pos-440.bmp 1 155 35 635 1035
+rawdata/pos-441.bmp 1 182 39 462 940
+rawdata/pos-442.bmp 1 117 94 459 902
+rawdata/pos-443.bmp 1 90 88 488 947
+rawdata/pos-444.bmp 1 113 52 743 982
+rawdata/pos-445.bmp 1 48 46 379 974
+rawdata/pos-446.bmp 2 56 56 305 845 380 63 315 841
+rawdata/pos-447.bmp 1 181 32 668 1040
+rawdata/pos-448.bmp 1 179 32 693 1017
+rawdata/pos-449.bmp 1 168 21 700 1048
+rawdata/pos-450.bmp 1 137 74 1063 1002
+rawdata/pos-451.bmp 1 156 58 993 1014
+rawdata/pos-452.bmp 1 135 83 992 978
+rawdata/pos-453.bmp 1 64 81 956 925
+rawdata/pos-454.bmp 1 65 13 1059 991
+rawdata/pos-455.bmp 1 137 76 1015 944
+rawdata/pos-456.bmp 1 66 24 1143 1026
+rawdata/pos-457.bmp 2 61 79 322 834 393 67 330 842
+rawdata/pos-458.bmp 1 108 31 1029 1051
+rawdata/pos-459.bmp 1 118 123 900 892
+rawdata/pos-460.bmp 1 79 63 997 986
+rawdata/pos-461.bmp 1 60 34 939 980
+rawdata/pos-462.bmp 1 82 29 944 950
+rawdata/pos-463.bmp 2 108 36 419 955 585 43 421 949
+rawdata/pos-464.bmp 2 72 75 457 932 550 70 469 935
+rawdata/pos-465.bmp 2 91 23 620 1004 749 48 526 951
+rawdata/pos-466.bmp 2 44 55 439 973 530 59 452 982
+rawdata/pos-467.bmp 2 89 70 440 928 559 65 445 970
+rawdata/pos-468.bmp 2 76 36 326 855 421 25 314 855
+rawdata/pos-469.bmp 2 71 52 453 941 558 41 440 935
+rawdata/pos-470.bmp 2 79 69 425 964 547 58 427 996
+rawdata/pos-471.bmp 2 104 89 426 935 589 96 415 915
+rawdata/pos-472.bmp 2 114 96 433 937 592 91 414 895
+rawdata/pos-473.bmp 2 128 74 434 907 613 82 416 906
+rawdata/pos-474.bmp 2 107 75 419 898 577 63 423 910
+rawdata/pos-475.bmp 2 106 69 434 941 571 65 437 920
+rawdata/pos-476.bmp 2 94 72 440 917 583 56 426 907
+rawdata/pos-477.bmp 2 116 38 463 1003 599 56 427 962
+rawdata/pos-478.bmp 2 131 38 425 1019 603 31 410 968
+rawdata/pos-479.bmp 2 106 61 362 976 489 65 363 982
+rawdata/pos-480.bmp 2 73 98 446 956 554 82 467 969
+rawdata/pos-481.bmp 2 110 97 424 970 571 69 413 986
+rawdata/pos-482.bmp 2 88 92 394 885 538 92 380 897
+rawdata/pos-483.bmp 2 124 59 381 871 576 64 355 897
+rawdata/pos-484.bmp 2 102 68 384 887 559 49 363 881
+rawdata/pos-485.bmp 2 68 35 403 926 504 29 407 898
+rawdata/pos-486.bmp 2 68 35 403 926 504 29 407 898
+rawdata/pos-487.bmp 2 68 35 403 926 504 29 407 898
+rawdata/pos-488.bmp 1 119 15 486 1007
+rawdata/pos-489.bmp 1 87 8 534 1025
+rawdata/pos-490.bmp 1 154 11 734 956
+rawdata/pos-491.bmp 1 103 30 499 1029
+rawdata/pos-492.bmp 1 113 39 536 1004
+rawdata/pos-493.bmp 1 126 34 559 988
+rawdata/pos-494.bmp 1 51 48 570 1002
+rawdata/pos-495.bmp 1 67 36 569 1069
+rawdata/pos-496.bmp 1 50 31 552 1007
+rawdata/pos-497.bmp 1 65 32 549 1016
+rawdata/pos-498.bmp 1 42 21 582 1013
+rawdata/pos-499.bmp 2 71 81 377 793 509 114 311 787
+rawdata/pos-500.bmp 1 63 132 360 796
+rawdata/pos-501.bmp 2 120 27 355 962 503 23 333 996
+rawdata/pos-502.bmp 2 57 119 372 789 468 137 328 787
+rawdata/pos-503.bmp 2 64 119 354 824 473 146 326 770
+rawdata/pos-504.bmp 2 59 129 362 797 473 143 326 786
+rawdata/pos-505.bmp 2 77 151 381 810 473 144 360 804
+rawdata/pos-506.bmp 2 100 222 357 822 494 229 386 839
+rawdata/pos-507.bmp 2 96 218 357 813 485 214 348 809
+rawdata/pos-508.bmp 2 138 153 386 851 559 178 323 817
+rawdata/pos-509.bmp 2 99 204 354 842 486 196 350 840
+rawdata/pos-510.bmp 1 87 109 763 922
+rawdata/pos-511.bmp 1 36 102 715 883
+rawdata/pos-512.bmp 1 252 61 549 963
+rawdata/pos-513.bmp 1 102 107 730 847
+rawdata/pos-514.bmp 1 53 81 786 923
+rawdata/pos-515.bmp 1 89 101 724 836
+rawdata/pos-516.bmp 1 108 37 907 1052
+rawdata/pos-517.bmp 1 84 44 945 1026
+rawdata/pos-518.bmp 1 67 57 931 1029
+rawdata/pos-519.bmp 1 111 34 941 1051
+rawdata/pos-520.bmp 1 128 55 913 1052
+rawdata/pos-521.bmp 1 123 86 496 993
+rawdata/pos-522.bmp 1 81 99 524 1001
+rawdata/pos-523.bmp 1 45 60 523 998
+rawdata/pos-524.bmp 1 79 86 515 994
+rawdata/pos-525.bmp 1 125 17 559 1062
+rawdata/pos-526.bmp 1 55 4 618 1075
+rawdata/pos-527.bmp 1 98 10 634 1086
+rawdata/pos-528.bmp 1 27 157 876 869
+rawdata/pos-529.bmp 1 64 41 795 1010
+rawdata/pos-530.bmp 1 20 13 820 969
+rawdata/pos-531.bmp 1 53 23 845 1042
+rawdata/pos-532.bmp 1 96 33 810 1028
+rawdata/pos-533.bmp 1 127 21 797 1026
+rawdata/pos-534.bmp 1 68 42 503 1020
+rawdata/pos-535.bmp 1 87 19 761 1026
+rawdata/pos-536.bmp 1 78 23 798 993
+rawdata/pos-537.bmp 1 72 65 804 987
+rawdata/pos-538.bmp 1 83 30 808 979
+rawdata/pos-539.bmp 1 107 20 780 1007
+rawdata/pos-540.bmp 2 72 49 773 959 63 55 751 945
+rawdata/pos-541.bmp 1 66 49 765 941
+rawdata/pos-542.bmp 1 120 96 811 978
+rawdata/pos-543.bmp 1 89 42 761 984
+rawdata/pos-544.bmp 2 168 72 491 963 671 54 493 1050
+rawdata/pos-545.bmp 1 99 45 407 943
+rawdata/pos-546.bmp 2 104 67 494 963 636 39 459 999
+rawdata/pos-547.bmp 2 118 22 498 1004 647 24 455 998
+rawdata/pos-548.bmp 2 104 15 505 951 611 15 478 954
+rawdata/pos-549.bmp 2 90 75 417 876 532 71 445 886
+rawdata/pos-550.bmp 2 73 63 434 868 544 66 412 934
+rawdata/pos-551.bmp 2 40 72 444 883 505 70 443 874
+rawdata/pos-552.bmp 2 58 47 460 873 519 29 453 867
+rawdata/pos-553.bmp 2 74 54 480 948 545 88 433 887
+rawdata/pos-554.bmp 2 93 49 433 925 541 70 441 887
+rawdata/pos-555.bmp 1 124 35 500 924
+rawdata/pos-556.bmp 1 56 59 394 1004
+rawdata/pos-557.bmp 1 118 41 362 885
+rawdata/pos-558.bmp 1 136 84 392 941
+rawdata/pos-559.bmp 1 84 17 596 987
+rawdata/pos-560.bmp 1 104 63 484 981
+rawdata/pos-561.bmp 1 95 114 358 776
+rawdata/pos-562.bmp 1 40 338 242 528
+rawdata/pos-563.bmp 1 169 12 579 1075
+rawdata/pos-564.bmp 1 109 6 592 1077
+rawdata/pos-565.bmp 1 98 8 605 1055
+rawdata/pos-566.bmp 1 89 26 550 1053
+rawdata/pos-567.bmp 1 92 32 426 1009
+rawdata/pos-568.bmp 1 153 27 429 1042
+rawdata/pos-569.bmp 1 127 71 453 988
+rawdata/pos-570.bmp 1 72 39 556 1003
+rawdata/pos-571.bmp 1 136 76 540 994
+rawdata/pos-572.bmp 1 92 29 569 1016
+rawdata/pos-573.bmp 1 75 93 453 878
+rawdata/pos-574.bmp 1 77 119 403 864
+rawdata/pos-575.bmp 1 85 145 426 808
+rawdata/pos-576.bmp 1 93 95 486 932
+rawdata/pos-577.bmp 1 102 95 456 943
+rawdata/pos-578.bmp 1 146 83 422 910
+rawdata/pos-579.bmp 1 189 49 411 1031
+rawdata/pos-580.bmp 1 35 15 1008 1053
+rawdata/pos-581.bmp 1 108 30 815 1015
+rawdata/pos-582.bmp 1 144 61 810 958
+rawdata/pos-583.bmp 1 97 93 834 926
+rawdata/pos-584.bmp 1 122 80 834 935
+rawdata/pos-585.bmp 1 135 34 834 944
+rawdata/pos-586.bmp 1 134 2 811 1013
+rawdata/pos-587.bmp 1 95 42 846 992
+rawdata/pos-588.bmp 1 148 22 834 997
+rawdata/pos-589.bmp 1 110 43 842 946
+rawdata/pos-590.bmp 1 98 38 413 1046
+rawdata/pos-591.bmp 1 104 51 797 970
+rawdata/pos-592.bmp 1 108 22 793 924
+rawdata/pos-593.bmp 1 131 38 436 962
+rawdata/pos-594.bmp 1 111 116 646 822
+rawdata/pos-595.bmp 1 67 70 785 972
+rawdata/pos-596.bmp 1 104 87 762 945
+rawdata/pos-597.bmp 1 134 53 772 951
+rawdata/pos-598.bmp 1 118 46 758 952
+rawdata/pos-599.bmp 1 133 34 776 964
+rawdata/pos-600.bmp 1 91 38 828 985
+rawdata/pos-601.bmp 1 89 101 426 921
+rawdata/pos-602.bmp 1 134 49 827 1016
+rawdata/pos-603.bmp 1 34 39 859 1009
+rawdata/pos-604.bmp 1 89 88 840 971
+rawdata/pos-605.bmp 1 102 95 841 957
+rawdata/pos-606.bmp 1 121 25 810 1023
+rawdata/pos-607.bmp 1 121 41 799 1030
+rawdata/pos-608.bmp 1 137 47 821 1023
+rawdata/pos-609.bmp 1 122 15 749 1018
+rawdata/pos-610.bmp 1 116 20 755 1001
+rawdata/pos-611.bmp 1 138 84 676 902
+rawdata/pos-612.bmp 1 44 90 386 918
+rawdata/pos-613.bmp 1 103 60 834 993
+rawdata/pos-614.bmp 1 86 40 937 1033
+rawdata/pos-615.bmp 1 91 83 854 988
+rawdata/pos-616.bmp 1 255 113 809 960
+rawdata/pos-617.bmp 1 88 67 373 873
+rawdata/pos-618.bmp 1 116 53 426 959
+rawdata/pos-619.bmp 1 160 19 498 1050
+rawdata/pos-620.bmp 1 101 109 339 759
+rawdata/pos-621.bmp 2 558 58 424 896
+rawdata/pos-622.bmp 1 72 91 350 753
+rawdata/pos-623.bmp 1 100 64 348 745
+rawdata/pos-624.bmp 1 139 97 483 956
+rawdata/pos-625.bmp 1 127 57 451 1001
+rawdata/pos-626.bmp 1 132 28 438 1007
+rawdata/pos-627.bmp 1 63 22 898 1012
+rawdata/pos-628.bmp 1 95 16 820 932
+rawdata/pos-629.bmp 1 109 36 807 912
+rawdata/pos-630.bmp 1 131 68 724 846
+rawdata/pos-631.bmp 1 133 73 701 814
+rawdata/pos-632.bmp 2 70 86 432 828 524 70 428 868
+rawdata/pos-633.bmp 1 98 103 698 925
+rawdata/pos-634.bmp 1 90 63 687 837
+rawdata/pos-635.bmp 1 81 35 898 1004
+rawdata/pos-636.bmp 1 78 50 895 959
+rawdata/pos-637.bmp 1 104 24 864 954
+rawdata/pos-638.bmp 1 107 25 863 949
+rawdata/pos-639.bmp 1 82 27 888 959
+rawdata/pos-640.bmp 1 63 20 879 974
+rawdata/pos-641.bmp 1 70 63 450 959
+rawdata/pos-642.bmp 1 71 39 431 917
+rawdata/pos-643.bmp 2 68 68 449 885 527 64 430 864
+rawdata/pos-644.bmp 1 54 43 426 884
+rawdata/pos-645.bmp 1 107 62 638 909
+rawdata/pos-646.bmp 1 145 112 603 878
+rawdata/pos-647.bmp 1 100 70 607 874
+rawdata/pos-648.bmp 1 99 69 603 935
+rawdata/pos-649.bmp 1 115 145 689 894
+rawdata/pos-650.bmp 1 160 146 611 812
+rawdata/pos-651.bmp 1 174 129 632 825
+rawdata/pos-652.bmp 1 184 119 607 807
+rawdata/pos-653.bmp 1 183 134 610 772
+rawdata/pos-654.bmp 1 81 79 357 940
+rawdata/pos-655.bmp 1 76 85 788 946
+rawdata/pos-656.bmp 1 118 25 466 992
+rawdata/pos-657.bmp 1 78 50 806 911
+rawdata/pos-658.bmp 1 119 43 450 980
+rawdata/pos-659.bmp 1 61 72 796 830
+rawdata/pos-660.bmp 1 96 24 519 1026
+rawdata/pos-661.bmp 1 72 35 399 950
+rawdata/pos-662.bmp 1 100 58 439 927
+rawdata/pos-663.bmp 1 74 29 487 1042
+rawdata/pos-664.bmp 1 61 23 496 1022
+rawdata/pos-665.bmp 1 59 17 513 1063
+rawdata/pos-666.bmp 1 90 41 735 936
+rawdata/pos-667.bmp 2 79 61 418 843 512 79 373 865
+rawdata/pos-668.bmp 2 60 58 373 829 451 71 370 825
+rawdata/pos-669.bmp 1 48 68 356 911
+rawdata/pos-670.bmp 1 78 128 887 884
+rawdata/pos-671.bmp 2 78 32 393 815 487 44 362 831
+rawdata/pos-672.bmp 2 86 61 393 835 486 63 358 814
+rawdata/pos-673.bmp 2 78 98 392 781 477 73 373 846
+rawdata/pos-674.bmp 2 87 102 381 812 472 77 374 841
+rawdata/pos-675.bmp 2 77 76 385 817 470 70 367 814
+rawdata/pos-676.bmp 2 130 68 370 798 515 83 346 805
+rawdata/pos-677.bmp 1 145 88 724 919
+rawdata/pos-678.bmp 1 79 72 742 836
+rawdata/pos-679.bmp 1 154 68 735 827
+rawdata/pos-680.bmp 1 152 65 723 780
+rawdata/pos-681.bmp 1 99 120 765 810
+rawdata/pos-682.bmp 1 93 104 793 885
+rawdata/pos-683.bmp 1 86 99 737 819
+rawdata/pos-684.bmp 1 89 95 746 829
+rawdata/pos-685.bmp 1 109 31 459 1029
+rawdata/pos-686.bmp 1 83 35 843 976
+rawdata/pos-687.bmp 1 57 44 826 970
+rawdata/pos-688.bmp 2 64 64 446 934 514 121 433 863
+rawdata/pos-689.bmp 1 82 56 809 955
+rawdata/pos-690.bmp 1 97 16 798 987
+rawdata/pos-691.bmp 1 121 81 793 931
+rawdata/pos-692.bmp 1 86 69 794 938
+rawdata/pos-693.bmp 1 127 58 802 933
+rawdata/pos-694.bmp 1 132 78 778 836
+rawdata/pos-695.bmp 1 143 46 803 924
+rawdata/pos-696.bmp 1 122 69 800 935
+rawdata/pos-697.bmp 1 107 73 745 881
+rawdata/pos-698.bmp 1 66 26 841 913
+rawdata/pos-699.bmp 1 92 69 709 960
+rawdata/pos-700.bmp 1 117 76 736 878
+rawdata/pos-701.bmp 1 127 48 747 864
+rawdata/pos-702.bmp 2 79 37 419 921 532 58 382 931
+rawdata/pos-703.bmp 1 90 102 827 915
+rawdata/pos-704.bmp 1 76 66 781 846
+rawdata/pos-705.bmp 1 93 63 772 867
+rawdata/pos-706.bmp 1 160 28 693 971
+rawdata/pos-707.bmp 1 115 56 766 860
+rawdata/pos-708.bmp 1 131 114 799 875
+rawdata/pos-709.bmp 2 97 28 415 910 528 41 399 904
+rawdata/pos-710.bmp 1 70 88 726 892
+rawdata/pos-711.bmp 2 60 40 420 927 505 45 391 920
+rawdata/pos-712.bmp 2 72 64 416 942 522 89 380 921
+rawdata/pos-713.bmp 2 89 35 417 902 541 37 380 901
+rawdata/pos-714.bmp 2 102 36 379 933 537 36 363 929
+rawdata/pos-715.bmp 2 89 16 387 955 525 19 377 946
+rawdata/pos-716.bmp 1 149 36 426 946
+rawdata/pos-717.bmp 1 169 26 436 936
+rawdata/pos-718.bmp 1 102 27 704 960
+rawdata/pos-719.bmp 1 89 90 365 814
+rawdata/pos-720.bmp 1 120 44 353 822
+rawdata/pos-721.bmp 3 84 43 836 1041 332 519 115 147 368 552 57 77
+rawdata/pos-722.bmp 1 107 17 381 848
+rawdata/pos-723.bmp 2 94 43 410 936 502 39 418 940
+rawdata/pos-724.bmp 2 104 77 384 896 516 36 391 964
+rawdata/pos-725.bmp 1 106 76 713 984
+rawdata/pos-726.bmp 1 58 33 666 932
+rawdata/pos-727.bmp 2 99 61 390 948 526 41 397 974
+rawdata/pos-728.bmp 2 83 55 413 942 494 38 476 1021
+rawdata/pos-729.bmp 2 129 82 409 939 549 60 414 1000
+rawdata/pos-730.bmp 1 98 71 682 918
+rawdata/pos-731.bmp 2 87 85 383 957 500 66 388 963
+rawdata/pos-732.bmp 1 162 58 809 985
+rawdata/pos-733.bmp 2 109 89 384 951 528 82 385 948
+rawdata/pos-734.bmp 2 107 92 365 883 502 59 376 896
+rawdata/pos-735.bmp 2 120 69 361 878 525 71 342 887
+rawdata/pos-736.bmp 2 126 42 383 903 533 44 361 921
+rawdata/pos-737.bmp 2 112 87 361 862 503 88 358 896
+rawdata/pos-738.bmp 2 92 78 365 888 483 64 361 911
+rawdata/pos-739.bmp 2 120 71 336 885 506 85 362 899
+rawdata/pos-740.bmp 2 99 19 533 1013 674 70 374 915
+rawdata/pos-741.bmp 2 107 49 400 944 505 47 406 957
+rawdata/pos-742.bmp 1 113 71 671 894
+rawdata/pos-743.bmp 1 145 28 823 997
+rawdata/pos-744.bmp 1 105 46 794 930
+rawdata/pos-745.bmp 1 117 64 645 776
+rawdata/pos-746.bmp 1 110 48 747 855
+rawdata/pos-747.bmp 2 113 59 762 875 512 223 208 421
+rawdata/pos-748.bmp 1 97 17 775 905
+rawdata/pos-749.bmp 1 119 41 743 883
+rawdata/pos-750.bmp 1 88 21 998 1060
+rawdata/pos-751.bmp 1 60 39 922 1040
+rawdata/pos-752.bmp 1 111 5 893 1052
+rawdata/pos-753.bmp 1 110 13 909 1027
+rawdata/pos-754.bmp 1 77 7 891 1021
+rawdata/pos-755.bmp 1 106 21 708 921
+rawdata/pos-756.bmp 1 188 18 438 1029
+rawdata/pos-757.bmp 2 123 58 420 945 556 75 416 952
+rawdata/pos-758.bmp 2 70 24 431 963 519 31 420 952
+rawdata/pos-759.bmp 2 59 22 438 956 507 25 424 959
+rawdata/pos-760.bmp 2 128 61 415 937 562 60 416 972
+rawdata/pos-761.bmp 2 113 38 427 955 563 48 398 969
+rawdata/pos-762.bmp 2 97 58 372 816 505 78 356 880
+rawdata/pos-763.bmp 2 92 35 373 869 500 60 367 873
+rawdata/pos-764.bmp 2 96 19 373 884 499 23 372 890
+rawdata/pos-765.bmp 2 93 47 445 884 556 69 402 884
+rawdata/pos-766.bmp 1 98 30 853 1015
+rawdata/pos-767.bmp 2 99 42 357 880 485 55 340 877
+rawdata/pos-768.bmp 1 81 68 671 874
+rawdata/pos-769.bmp 1 116 54 816 833
+rawdata/pos-770.bmp 1 75 44 809 830
+rawdata/pos-771.bmp 1 84 35 810 849
+rawdata/pos-772.bmp 1 70 69 817 813
+rawdata/pos-773.bmp 1 77 58 811 812
+rawdata/pos-774.bmp 1 109 80 753 812
+rawdata/pos-775.bmp 1 108 75 747 772
+rawdata/pos-776.bmp 1 101 67 737 769
+rawdata/pos-777.bmp 1 159 26 811 1019
+rawdata/pos-778.bmp 1 95 48 830 799
+rawdata/pos-779.bmp 1 100 57 736 818
+rawdata/pos-780.bmp 1 70 70 746 942
+rawdata/pos-781.bmp 1 139 86 349 837
+rawdata/pos-782.bmp 1 292 72 360 816
+rawdata/pos-783.bmp 1 133 35 613 1042
+rawdata/pos-784.bmp 1 95 112 571 654
+rawdata/pos-785.bmp 1 127 58 860 965
+rawdata/pos-786.bmp 1 139 32 829 983
+rawdata/pos-787.bmp 1 163 31 814 948
+rawdata/pos-788.bmp 1 115 24 805 993
+rawdata/pos-789.bmp 1 146 58 822 966
+rawdata/pos-790.bmp 1 132 15 824 1013
+rawdata/pos-791.bmp 1 146 29 825 952
+rawdata/pos-792.bmp 1 131 82 334 853
+rawdata/pos-793.bmp 1 100 79 742 953
+rawdata/pos-794.bmp 1 166 76 372 856
+rawdata/pos-795.bmp 1 114 10 425 1040
+rawdata/pos-796.bmp 1 121 44 426 1018
+rawdata/pos-797.bmp 1 69 6 792 870
+rawdata/pos-798.bmp 1 77 128 719 857
+rawdata/pos-799.bmp 1 101 65 869 966
+rawdata/pos-800.bmp 1 86 43 671 775
+rawdata/pos-801.bmp 1 85 29 752 875
+rawdata/pos-802.bmp 1 54 72 759 844
+rawdata/pos-803.bmp 1 67 74 737 880
+rawdata/pos-804.bmp 1 75 99 837 942
+rawdata/pos-805.bmp 1 57 94 779 957
+rawdata/pos-806.bmp 1 74 47 751 869
+rawdata/pos-807.bmp 2 81 50 961 976 599 254 322 403
+rawdata/pos-808.bmp 2 110 32 815 946 459 226 323 397
+rawdata/pos-809.bmp 1 98 40 835 928
+rawdata/pos-810.bmp 1 62 24 867 989
+rawdata/pos-811.bmp 1 85 13 762 907
+rawdata/pos-812.bmp 1 98 21 760 927
+rawdata/pos-813.bmp 1 99 18 764 903
+rawdata/pos-814.bmp 1 81 38 818 951
+rawdata/pos-815.bmp 1 124 28 823 929
+rawdata/pos-816.bmp 1 127 10 816 953
+rawdata/pos-817.bmp 1 28 32 720 980
+rawdata/pos-818.bmp 1 105 22 813 954
+rawdata/pos-819.bmp 1 55 36 822 936
+rawdata/pos-820.bmp 1 115 13 854 957
+rawdata/pos-821.bmp 1 115 13 854 957
+rawdata/pos-822.bmp 2 66 12 863 958 66 12 863 958
+rawdata/pos-823.bmp 1 174 30 467 1006
+rawdata/pos-824.bmp 1 134 18 777 883
+rawdata/pos-825.bmp 1 55 60 842 941
+rawdata/pos-826.bmp 1 86 14 858 956
+rawdata/pos-827.bmp 1 105 39 429 840
+rawdata/pos-828.bmp 1 129 26 459 888
+rawdata/pos-829.bmp 1 74 81 882 945
+rawdata/pos-830.bmp 1 87 36 434 825
+rawdata/pos-831.bmp 1 83 75 839 928
+rawdata/pos-832.bmp 1 98 72 813 961
+rawdata/pos-833.bmp 1 142 55 982 914
+rawdata/pos-834.bmp 2 121 48 432 925 567 57 403 890
+rawdata/pos-835.bmp 2 148 44 375 851 567 70 342 845
+rawdata/pos-836.bmp 2 111 70 338 827 490 77 361 855
+rawdata/pos-837.bmp 2 123 66 372 867 517 65 354 850
+rawdata/pos-838.bmp 2 124 31 359 874 527 26 346 883
+rawdata/pos-839.bmp 2 114 54 350 832 506 63 357 849
+rawdata/pos-840.bmp 2 115 100 331 780 479 117 320 759
+rawdata/pos-841.bmp 1 111 32 928 1014
+rawdata/pos-842.bmp 2 92 100 322 793 451 122 339 812
+rawdata/pos-843.bmp 1 98 65 772 964
+rawdata/pos-844.bmp 2 95 90 339 802 465 111 346 811
+rawdata/pos-845.bmp 2 101 101 345 795 465 113 354 806
+rawdata/pos-846.bmp 2 113 103 370 793 499 104 351 799
+rawdata/pos-847.bmp 1 91 44 855 993
+rawdata/pos-848.bmp 1 102 59 858 988
+rawdata/pos-849.bmp 1 89 13 850 999
+rawdata/pos-850.bmp 1 130 31 762 905
+rawdata/pos-851.bmp 1 110 7 750 940
+rawdata/pos-852.bmp 1 85 93 729 908
+rawdata/pos-853.bmp 1 94 32 935 1014
+rawdata/pos-854.bmp 1 125 86 815 913
+rawdata/pos-855.bmp 1 94 83 727 926
+rawdata/pos-856.bmp 1 104 73 771 869
+rawdata/pos-857.bmp 1 145 61 713 898
+rawdata/pos-858.bmp 1 110 76 734 873
+rawdata/pos-859.bmp 1 89 101 731 865
+rawdata/pos-860.bmp 1 188 64 403 952
+rawdata/pos-861.bmp 1 129 194 868 828
+rawdata/pos-862.bmp 1 128 122 856 874
+rawdata/pos-863.bmp 1 139 161 845 856
+rawdata/pos-864.bmp 1 126 157 839 787
+rawdata/pos-865.bmp 1 97 76 809 934
+rawdata/pos-866.bmp 1 95 42 990 983
+rawdata/pos-867.bmp 1 130 126 829 816
+rawdata/pos-868.bmp 1 114 24 1116 990
+rawdata/pos-869.bmp 1 114 73 982 967
+rawdata/pos-870.bmp 1 109 75 987 944
+rawdata/pos-871.bmp 1 88 98 912 862
+rawdata/pos-872.bmp 1 92 107 937 866
+rawdata/pos-873.bmp 1 107 42 440 1006
+rawdata/pos-874.bmp 1 138 60 447 985
+rawdata/pos-875.bmp 1 110 62 1026 943
+rawdata/pos-876.bmp 1 96 31 711 916
+rawdata/pos-877.bmp 1 124 90 822 927
+rawdata/pos-878.bmp 1 107 57 979 959
+rawdata/pos-879.bmp 1 109 71 792 907
+rawdata/pos-880.bmp 1 89 37 1000 958
+rawdata/pos-881.bmp 1 150 45 1073 965
+rawdata/pos-882.bmp 1 126 64 999 941
+rawdata/pos-883.bmp 2 113 52 1171 950 614 292 377 392
+rawdata/pos-884.bmp 2 84 38 530 942 637 57 428 920
+rawdata/pos-885.bmp 1 65 61 1062 968
+rawdata/pos-886.bmp 2 67 76 520 958 614 110 479 896
+rawdata/pos-887.bmp 2 100 63 466 938 596 74 442 916
+rawdata/pos-888.bmp 2 104 88 426 938 527 103 379 886
+rawdata/pos-889.bmp 1 79 62 493 988
+rawdata/pos-890.bmp 1 58 95 500 945
+rawdata/pos-891.bmp 1 68 93 799 890
+rawdata/pos-892.bmp 1 60 109 467 932
+rawdata/pos-893.bmp 1 103 50 807 1001
+rawdata/pos-894.bmp 1 79 28 763 973
+rawdata/pos-895.bmp 1 79 75 750 951
+rawdata/pos-896.bmp 1 86 51 777 951
+rawdata/pos-897.bmp 1 78 58 774 947
+rawdata/pos-898.bmp 1 66 79 770 991
+rawdata/pos-899.bmp 1 133 99 789 919
+rawdata/pos-900.bmp 1 92 71 782 964
+rawdata/pos-901.bmp 1 87 110 671 910
+rawdata/pos-902.bmp 1 101 114 633 849
+rawdata/pos-903.bmp 1 146 49 503 915
+rawdata/pos-904.bmp 1 92 108 685 854
+rawdata/pos-905.bmp 1 98 147 678 854
+rawdata/pos-906.bmp 1 116 148 627 844
+rawdata/pos-907.bmp 1 92 125 652 846
+rawdata/pos-908.bmp 1 41 164 764 847
+rawdata/pos-909.bmp 1 70 124 719 841
+rawdata/pos-910.bmp 1 84 71 751 889
+rawdata/pos-911.bmp 1 81 112 720 863
+rawdata/pos-912.bmp 1 108 142 730 863
+rawdata/pos-913.bmp 1 145 146 700 852
+rawdata/pos-914.bmp 1 65 122 800 870
+rawdata/pos-915.bmp 1 56 60 370 980
+rawdata/pos-916.bmp 1 111 99 460 882
+rawdata/pos-917.bmp 2 194 86 397 875 618 139 357 823
+rawdata/pos-918.bmp 2 154 171 352 863 530 193 366 842
+rawdata/pos-919.bmp 2 139 144 367 832 542 129 351 850
+rawdata/pos-920.bmp 2 130 90 336 851 511 110 348 826
+rawdata/pos-921.bmp 1 116 117 814 928
+rawdata/pos-922.bmp 2 210 110 346 806 615 100 289 834
+rawdata/pos-923.bmp 2 291 142 318 838 653 139 377 890
+rawdata/pos-924.bmp 2 236 130 339 828 583 125 353 898
+rawdata/pos-925.bmp 2 266 42 379 963 685 98 326 896
+rawdata/pos-926.bmp 2 119 96 335 893 506 86 336 870
+rawdata/pos-927.bmp 1 114 57 835 1024
+rawdata/pos-928.bmp 1 131 24 457 934
+rawdata/pos-929.bmp 1 187 34 739 912
+rawdata/pos-930.bmp 1 192 106 575 800
+rawdata/pos-931.bmp 1 181 91 606 860
+rawdata/pos-932.bmp 1 68 35 846 834
+rawdata/pos-933.bmp 1 194 96 620 895
+rawdata/pos-934.bmp 1 214 63 613 897
+rawdata/pos-935.bmp 1 210 73 609 914
+rawdata/pos-936.bmp 1 86 71 703 936
+rawdata/pos-937.bmp 1 91 89 689 953
+rawdata/pos-938.bmp 1 89 51 701 979
+rawdata/pos-939.bmp 1 92 61 689 971
+rawdata/pos-940.bmp 1 178 34 462 909
+rawdata/pos-941.bmp 1 126 52 674 946
+rawdata/pos-942.bmp 1 122 64 759 925
+rawdata/pos-943.bmp 1 107 75 761 880
+rawdata/pos-944.bmp 1 81 62 862 1004
+rawdata/pos-945.bmp 1 90 60 859 996
+rawdata/pos-946.bmp 1 104 31 976 1029
+rawdata/pos-947.bmp 1 109 64 843 996
+rawdata/pos-948.bmp 1 118 24 869 1034
+rawdata/pos-949.bmp 1 109 57 521 935
+rawdata/pos-950.bmp 1 92 26 560 990
+rawdata/pos-951.bmp 1 123 53 489 999
+rawdata/pos-952.bmp 1 112 104 667 915
+rawdata/pos-953.bmp 1 254 44 482 942
+rawdata/pos-954.bmp 1 145 54 718 919
+rawdata/pos-955.bmp 2 127 59 413 947 600 62 455 943
+rawdata/pos-956.bmp 2 177 76 412 941 667 62 408 887
+rawdata/pos-957.bmp 2 182 53 423 904 634 87 415 874
+rawdata/pos-958.bmp 2 158 36 392 926 580 33 453 977
+rawdata/pos-959.bmp 1 142 38 585 1018
+rawdata/pos-960.bmp 1 140 43 642 1010
+rawdata/pos-961.bmp 1 114 31 618 990
+rawdata/pos-962.bmp 1 102 50 840 1005
+rawdata/pos-963.bmp 1 74 77 817 948
+rawdata/pos-964.bmp 1 68 91 696 962
+rawdata/pos-965.bmp 1 115 93 760 887
+rawdata/pos-966.bmp 1 81 86 811 922
+rawdata/pos-967.bmp 1 93 123 821 933
+rawdata/pos-968.bmp 1 101 111 795 938
+rawdata/pos-969.bmp 1 159 83 378 938
+rawdata/pos-970.bmp 1 113 39 424 907
+rawdata/pos-971.bmp 1 109 106 424 938
+rawdata/pos-972.bmp 2 73 54 389 787 494 45 380 822
+rawdata/pos-973.bmp 2 153 143 389 796 586 132 412 880
+rawdata/pos-974.bmp 2 101 175 390 788 525 140 396 871
+rawdata/pos-975.bmp 2 75 90 442 914 540 176 401 797
+rawdata/pos-976.bmp 1 97 173 660 783
+rawdata/pos-977.bmp 1 129 88 719 982
+rawdata/pos-978.bmp 2 127 82 391 822 545 101 397 810
+rawdata/pos-979.bmp 2 86 143 423 865 517 154 422 836
+rawdata/pos-980.bmp 2 109 186 383 845 520 196 407 868
+rawdata/pos-981.bmp 2 109 200 379 848 531 206 406 828
+rawdata/pos-982.bmp 2 113 167 406 873 541 175 393 824
+rawdata/pos-983.bmp 2 78 178 399 820 503 196 397 810
+rawdata/pos-984.bmp 1 59 156 722 826
+rawdata/pos-985.bmp 1 116 123 836 916
+rawdata/pos-986.bmp 1 117 131 779 900
+rawdata/pos-987.bmp 1 140 129 664 791
+rawdata/pos-988.bmp 1 83 153 715 849
+rawdata/pos-989.bmp 1 64 42 870 1009
+rawdata/pos-990.bmp 1 128 50 898 988
+rawdata/pos-991.bmp 1 68 13 880 1034
+rawdata/pos-992.bmp 1 92 65 887 975
+rawdata/pos-993.bmp 1 118 82 504 954
+rawdata/pos-994.bmp 1 125 78 458 930
+rawdata/pos-995.bmp 1 165 102 391 873
+rawdata/pos-996.bmp 1 125 54 470 960
+rawdata/pos-997.bmp 1 93 49 465 999
+rawdata/pos-998.bmp 1 95 27 643 1012
+rawdata/pos-999.bmp 1 97 135 648 791
+rawdata/pos-1000.bmp 1 89 2 520 1072
+rawdata/pos-1001.bmp 1 50 2 562 1072
+rawdata/pos-1002.bmp 1 67 3 801 1067
+rawdata/pos-1003.bmp 1 79 3 558 1069
+rawdata/pos-1004.bmp 1 121 19 554 984
+rawdata/pos-1005.bmp 1 66 4 861 917
+rawdata/pos-1006.bmp 1 98 6 839 1015
+rawdata/pos-1007.bmp 1 102 22 829 1016
+rawdata/pos-1008.bmp 1 47 6 875 1032
+rawdata/pos-1009.bmp 1 74 3 806 1028
+rawdata/pos-1010.bmp 1 86 163 660 769
+rawdata/pos-1011.bmp 1 104 2 896 1061
+rawdata/pos-1012.bmp 1 89 9 903 1050
+rawdata/pos-1013.bmp 1 100 10 894 991
+rawdata/pos-1014.bmp 1 59 5 809 1068
+rawdata/pos-1015.bmp 1 67 30 883 916
+rawdata/pos-1016.bmp 1 28 6 905 901
+rawdata/pos-1017.bmp 1 55 12 1016 1057
+rawdata/pos-1018.bmp 1 55 12 1016 1057
+rawdata/pos-1019.bmp 1 61 18 1020 1059
+rawdata/pos-1020.bmp 1 68 4 1162 1078
+rawdata/pos-1021.bmp 1 117 50 740 884
+rawdata/pos-1022.bmp 1 49 10 1108 1065
+rawdata/pos-1023.bmp 1 77 6 914 1015
+rawdata/pos-1024.bmp 1 89 39 863 995
+rawdata/pos-1025.bmp 1 84 78 861 882
+rawdata/pos-1026.bmp 1 77 34 765 1031
+rawdata/pos-1027.bmp 1 38 0 903 1072
+rawdata/pos-1028.bmp 1 79 29 867 1032
+rawdata/pos-1029.bmp 1 75 90 857 905
+rawdata/pos-1030.bmp 1 64 31 535 941
+rawdata/pos-1031.bmp 1 68 2 560 1075
+rawdata/pos-1032.bmp 1 90 85 666 853
+rawdata/pos-1033.bmp 1 120 1 674 1075
+rawdata/pos-1034.bmp 1 159 4 505 984
+rawdata/pos-1035.bmp 1 89 10 522 1021
+rawdata/pos-1036.bmp 1 81 16 535 1021
+rawdata/pos-1037.bmp 1 112 23 744 1023
+rawdata/pos-1038.bmp 1 40 11 404 1024
+rawdata/pos-1039.bmp 1 52 25 676 896
+rawdata/pos-1040.bmp 1 194 23 680 1067
+rawdata/pos-1041.bmp 1 161 6 712 1065
+rawdata/pos-1042.bmp 1 127 7 740 1057
+rawdata/pos-1043.bmp 1 67 23 826 945
+rawdata/pos-1044.bmp 1 70 10 1201 1069
+rawdata/pos-1045.bmp 1 107 11 1231 1056
+rawdata/pos-1046.bmp 1 52 20 1232 1061
+rawdata/pos-1047.bmp 1 38 15 1024 1016
+rawdata/pos-1048.bmp 1 60 12 1028 1053
+rawdata/pos-1049.bmp 1 84 17 1162 1014
+rawdata/pos-1050.bmp 1 62 2 1050 1075
+rawdata/pos-1051.bmp 1 36 35 705 908
+rawdata/pos-1052.bmp 1 60 3 1051 1069
+rawdata/pos-1053.bmp 1 52 13 969 1059
+rawdata/pos-1054.bmp 1 110 27 480 994
+rawdata/pos-1055.bmp 1 46 23 1064 1050
+rawdata/pos-1056.bmp 1 64 28 930 1044
+rawdata/pos-1057.bmp 1 51 9 977 965
+rawdata/pos-1058.bmp 1 73 3 944 998
+rawdata/pos-1059.bmp 2 67 36 465 1043 555 57 466 986
+rawdata/pos-1060.bmp 2 71 1 652 1060 748 53 403 957
+rawdata/pos-1061.bmp 2 48 33 448 1035 536 6 474 1077
+rawdata/pos-1062.bmp 2 82 63 454 967 561 54 440 998
+rawdata/pos-1063.bmp 2 86 24 313 851 423 19 311 876
+rawdata/pos-1064.bmp 2 71 49 456 978 545 33 448 981
+rawdata/pos-1065.bmp 1 57 33 794 932
+rawdata/pos-1066.bmp 2 58 54 452 996 543 56 427 1010
+rawdata/pos-1067.bmp 2 91 72 446 949 586 75 409 946
+rawdata/pos-1068.bmp 2 109 75 436 961 595 75 423 943
+rawdata/pos-1069.bmp 2 131 59 430 944 612 57 404 944
+rawdata/pos-1070.bmp 2 86 47 452 945 572 55 435 931
+rawdata/pos-1071.bmp 2 85 52 455 934 573 37 423 947
+rawdata/pos-1072.bmp 2 92 48 460 947 580 47 424 954
+rawdata/pos-1073.bmp 2 93 16 489 1024 603 51 427 990
+rawdata/pos-1074.bmp 2 120 23 437 1032 596 36 413 978
+rawdata/pos-1075.bmp 2 98 53 371 984 471 48 383 1013
+rawdata/pos-1076.bmp 1 80 32 799 949
+rawdata/pos-1077.bmp 2 85 87 426 977 557 10 460 1060
+rawdata/pos-1078.bmp 2 96 82 440 977 574 22 418 1035
+rawdata/pos-1079.bmp 3 93 89 400 915 537 71 381 925 272 259 197 436
+rawdata/pos-1080.bmp 2 126 56 383 917 589 78 336 890
+rawdata/pos-1081.bmp 2 103 63 388 899 567 62 352 895
+rawdata/pos-1082.bmp 2 66 32 412 925 513 8 387 926
+rawdata/pos-1083.bmp 2 78 55 427 908 534 24 393 935
+rawdata/pos-1084.bmp 1 156 5 452 1033
+rawdata/pos-1085.bmp 1 117 5 487 1030
+rawdata/pos-1086.bmp 1 95 1 517 1051
+rawdata/pos-1087.bmp 1 82 48 765 957
+rawdata/pos-1088.bmp 1 152 3 732 968
+rawdata/pos-1089.bmp 1 94 10 509 1056
+rawdata/pos-1090.bmp 1 103 33 525 1015
+rawdata/pos-1091.bmp 1 114 34 569 985
+rawdata/pos-1092.bmp 1 49 43 564 1026
+rawdata/pos-1093.bmp 1 64 32 549 1045
+rawdata/pos-1094.bmp 1 47 31 570 1005
+rawdata/pos-1095.bmp 1 68 29 557 1010
+rawdata/pos-1096.bmp 1 48 29 573 1004
+rawdata/pos-1097.bmp 2 96 82 344 812 520 112 301 792
+rawdata/pos-1098.bmp 1 155 23 689 905
+rawdata/pos-1099.bmp 1 83 67 746 940
+rawdata/pos-1100.bmp 2 57 121 366 834 471 142 319 801
+rawdata/pos-1101.bmp 1 121 17 728 1043
+rawdata/pos-1102.bmp 2 97 140 336 788 471 133 333 785
+rawdata/pos-1103.bmp 2 61 118 360 848 469 132 327 808
+rawdata/pos-1104.bmp 2 90 147 331 793 465 143 337 803
+rawdata/pos-1105.bmp 2 67 133 389 827 478 145 351 811
+rawdata/pos-1106.bmp 2 90 205 363 834 494 223 417 857
+rawdata/pos-1107.bmp 2 80 195 372 825 495 180 335 880
+rawdata/pos-1108.bmp 2 128 126 391 939 557 174 353 845
+rawdata/pos-1109.bmp 2 84 191 365 864 486 199 351 822
+rawdata/pos-1110.bmp 1 77 96 769 956
+rawdata/pos-1111.bmp 1 97 115 745 961
+rawdata/pos-1112.bmp 1 35 52 730 970
+rawdata/pos-1113.bmp 1 103 4 714 1061
+rawdata/pos-1114.bmp 1 97 98 738 842
+rawdata/pos-1115.bmp 1 49 51 794 988
+rawdata/pos-1116.bmp 1 84 83 720 920
+rawdata/pos-1117.bmp 1 60 3 985 1077
+rawdata/pos-1118.bmp 1 41 6 1072 1069
+rawdata/pos-1119.bmp 1 52 28 1003 1044
+rawdata/pos-1120.bmp 2 116 27 481 1052 677 51 415 1026
+rawdata/pos-1121.bmp 1 86 105 750 955
+rawdata/pos-1122.bmp 2 131 26 461 1051 667 51 373 1037
+rawdata/pos-1123.bmp 1 116 78 492 1000
+rawdata/pos-1124.bmp 1 97 95 478 985
+rawdata/pos-1125.bmp 1 81 88 470 971
+rawdata/pos-1126.bmp 1 94 83 476 996
+rawdata/pos-1127.bmp 1 128 5 538 1067
+rawdata/pos-1128.bmp 1 88 8 558 1058
+rawdata/pos-1129.bmp 1 120 12 573 1058
+rawdata/pos-1130.bmp 1 49 140 860 939
+rawdata/pos-1131.bmp 1 72 47 793 1007
+rawdata/pos-1132.bmp 1 75 77 770 978
+rawdata/pos-1133.bmp 1 53 31 796 963
+rawdata/pos-1134.bmp 1 84 22 816 1034
+rawdata/pos-1135.bmp 1 118 19 796 1045
+rawdata/pos-1136.bmp 1 160 13 755 1022
+rawdata/pos-1137.bmp 1 81 22 482 1041
+rawdata/pos-1138.bmp 1 59 5 785 1043
+rawdata/pos-1139.bmp 1 82 13 796 998
+rawdata/pos-1140.bmp 1 82 59 774 950
+rawdata/pos-1141.bmp 1 96 26 772 992
+rawdata/pos-1142.bmp 1 119 30 737 976
+rawdata/pos-1143.bmp 1 97 57 757 939
+rawdata/pos-1144.bmp 1 77 59 772 1014
+rawdata/pos-1145.bmp 1 77 49 757 978
+rawdata/pos-1146.bmp 1 139 96 778 938
+rawdata/pos-1147.bmp 1 84 46 775 970
+rawdata/pos-1148.bmp 2 168 65 491 1011 699 62 461 1004
+rawdata/pos-1149.bmp 1 114 53 393 939
+rawdata/pos-1150.bmp 2 94 50 507 997 611 33 488 1002
+rawdata/pos-1151.bmp 2 126 29 492 997 653 16 417 1006
+rawdata/pos-1152.bmp 2 96 17 514 948 632 13 462 948
+rawdata/pos-1153.bmp 2 83 73 428 875 528 53 584 1007
+rawdata/pos-1154.bmp 1 60 88 743 887
+rawdata/pos-1155.bmp 2 76 62 436 892 543 12 422 1049
+rawdata/pos-1156.bmp 2 44 72 439 873 501 52 445 910
+rawdata/pos-1157.bmp 2 59 46 453 871 521 27 452 883
+rawdata/pos-1158.bmp 2 115 86 432 882 558 91 447 894
+rawdata/pos-1159.bmp 2 91 75 429 957 545 65 443 887
+rawdata/pos-1160.bmp 1 123 31 493 942
+rawdata/pos-1161.bmp 1 70 55 377 1000
+rawdata/pos-1162.bmp 1 123 42 361 877
+rawdata/pos-1163.bmp 1 136 71 396 964
+rawdata/pos-1164.bmp 1 83 4 601 1062
+rawdata/pos-1165.bmp 1 93 69 729 867
+rawdata/pos-1166.bmp 1 89 55 509 983
+rawdata/pos-1167.bmp 1 87 94 377 812
+rawdata/pos-1168.bmp 1 31 320 251 549
+rawdata/pos-1169.bmp 1 136 4 660 1074
+rawdata/pos-1170.bmp 1 56 7 663 1071
+rawdata/pos-1171.bmp 1 59 1 660 1072
+rawdata/pos-1172.bmp 1 75 3 579 1062
+rawdata/pos-1173.bmp 1 78 35 462 1044
+rawdata/pos-1174.bmp 1 141 12 447 1060
+rawdata/pos-1175.bmp 1 108 61 459 1010
+rawdata/pos-1176.bmp 1 240 35 430 1014
+rawdata/pos-1177.bmp 1 83 38 547 1012
+rawdata/pos-1178.bmp 1 133 76 514 1007
+rawdata/pos-1179.bmp 1 108 31 541 1005
+rawdata/pos-1180.bmp 1 89 60 444 969
+rawdata/pos-1181.bmp 1 57 107 432 878
+rawdata/pos-1182.bmp 1 86 146 430 805
+rawdata/pos-1183.bmp 1 56 51 544 955
+rawdata/pos-1184.bmp 1 59 54 563 1002
+rawdata/pos-1185.bmp 1 84 28 537 985
+rawdata/pos-1186.bmp 1 192 56 415 1028
+rawdata/pos-1187.bmp 1 83 44 846 1008
+rawdata/pos-1188.bmp 1 299 73 761 925
+rawdata/pos-1189.bmp 1 85 27 867 1049
+rawdata/pos-1190.bmp 1 141 63 823 940
+rawdata/pos-1191.bmp 1 112 99 824 957
+rawdata/pos-1192.bmp 1 129 81 822 935
+rawdata/pos-1193.bmp 1 140 48 828 937
+rawdata/pos-1194.bmp 1 109 6 854 1067
+rawdata/pos-1195.bmp 1 100 37 838 1000
+rawdata/pos-1196.bmp 1 141 21 838 998
+rawdata/pos-1197.bmp 1 103 46 857 976
+rawdata/pos-1198.bmp 1 287 38 817 948
+rawdata/pos-1199.bmp 1 110 51 411 1045
+rawdata/pos-1200.bmp 1 104 46 803 975
+rawdata/pos-1201.bmp 1 96 13 793 956
+rawdata/pos-1202.bmp 1 134 25 442 983
+rawdata/pos-1203.bmp 1 104 119 663 824
+rawdata/pos-1204.bmp 1 83 71 767 964
+rawdata/pos-1205.bmp 1 100 82 774 933
+rawdata/pos-1206.bmp 1 141 9 769 1057
+rawdata/pos-1207.bmp 1 114 29 771 1001
+rawdata/pos-1208.bmp 1 148 17 759 948
+rawdata/pos-1209.bmp 1 98 4 774 976
+rawdata/pos-1210.bmp 1 155 57 832 1000
+rawdata/pos-1211.bmp 1 112 27 817 1025
+rawdata/pos-1212.bmp 1 111 115 389 929
+rawdata/pos-1213.bmp 1 137 18 820 1034
+rawdata/pos-1214.bmp 1 41 35 835 1012
+rawdata/pos-1215.bmp 1 80 60 856 1007
+rawdata/pos-1216.bmp 1 103 73 842 986
+rawdata/pos-1217.bmp 1 112 8 823 1032
+rawdata/pos-1218.bmp 1 108 32 814 1028
+rawdata/pos-1219.bmp 1 136 34 818 1036
+rawdata/pos-1220.bmp 1 123 16 750 1042
+rawdata/pos-1221.bmp 2 72 23 451 1038 554 26 435 1043
+rawdata/pos-1222.bmp 2 135 23 369 1007 513 33 360 1001
+rawdata/pos-1223.bmp 1 143 75 674 933
+rawdata/pos-1224.bmp 1 57 64 369 948
+rawdata/pos-1225.bmp 1 70 6 883 1036
+rawdata/pos-1226.bmp 1 52 13 945 1036
+rawdata/pos-1227.bmp 1 57 23 920 1050
+rawdata/pos-1228.bmp 1 263 63 897 1009
+rawdata/pos-1229.bmp 1 95 46 371 875
+rawdata/pos-1230.bmp 1 123 52 417 962
+rawdata/pos-1231.bmp 1 166 8 483 1054
+rawdata/pos-1232.bmp 2 85 7 451 1063 567 22 409 1037
+rawdata/pos-1233.bmp 1 108 114 318 777
+rawdata/pos-1234.bmp 2 76 53 478 926 557 54 452 895
+rawdata/pos-1235.bmp 1 84 91 345 753
+rawdata/pos-1236.bmp 1 115 54 327 759
+rawdata/pos-1237.bmp 1 143 110 475 967
+rawdata/pos-1238.bmp 1 132 81 441 992
+rawdata/pos-1239.bmp 1 130 15 439 1023
+rawdata/pos-1240.bmp 1 62 17 884 987
+rawdata/pos-1241.bmp 1 104 6 818 980
+rawdata/pos-1242.bmp 1 118 8 815 987
+rawdata/pos-1243.bmp 2 65 13 449 1048 550 7 416 1045
+rawdata/pos-1244.bmp 1 134 27 738 927
+rawdata/pos-1245.bmp 1 129 78 717 814
+rawdata/pos-1246.bmp 2 87 82 412 861 522 80 429 865
+rawdata/pos-1247.bmp 1 94 49 700 968
+rawdata/pos-1248.bmp 1 77 51 708 855
+rawdata/pos-1249.bmp 1 72 16 925 1034
+rawdata/pos-1250.bmp 2 99 84 745 838 123 77 829 958
+rawdata/pos-1251.bmp 1 98 17 849 973
+rawdata/pos-1252.bmp 1 101 23 849 980
+rawdata/pos-1253.bmp 1 90 15 852 976
+rawdata/pos-1254.bmp 2 74 16 470 1065 577 9 424 1044
+rawdata/pos-1255.bmp 1 113 42 792 919
+rawdata/pos-1256.bmp 1 106 86 396 952
+rawdata/pos-1257.bmp 1 102 68 385 930
+rawdata/pos-1258.bmp 2 94 76 423 871 541 81 403 869
+rawdata/pos-1259.bmp 1 76 49 386 873
+rawdata/pos-1260.bmp 1 125 64 615 930
+rawdata/pos-1261.bmp 1 146 103 597 908
+rawdata/pos-1262.bmp 1 110 49 575 904
+rawdata/pos-1263.bmp 1 114 62 585 915
+rawdata/pos-1264.bmp 1 147 177 634 821
+rawdata/pos-1265.bmp 2 149 49 339 881 527 58 331 885
+rawdata/pos-1266.bmp 1 158 156 596 839
+rawdata/pos-1267.bmp 1 185 118 615 842
+rawdata/pos-1268.bmp 1 191 128 603 793
+rawdata/pos-1269.bmp 1 193 142 603 780
+rawdata/pos-1270.bmp 2 133 24 346 895 520 39 326 850
+rawdata/pos-1271.bmp 2 134 70 363 919 538 78 362 919
+rawdata/pos-1272.bmp 1 91 61 817 890
+rawdata/pos-1273.bmp 2 121 32 357 930 524 45 355 926
+rawdata/pos-1274.bmp 1 91 3 826 1032
+rawdata/pos-1275.bmp 2 83 59 382 935 500 70 376 942
+rawdata/pos-1276.bmp 2 91 36 380 935 507 54 357 936
+rawdata/pos-1277.bmp 1 139 5 873 1062
+rawdata/pos-1278.bmp 1 149 10 880 1048
+rawdata/pos-1279.bmp 1 172 2 874 1045
+rawdata/pos-1280.bmp 1 197 9 851 1024
+rawdata/pos-1281.bmp 1 190 59 837 1014
+rawdata/pos-1282.bmp 1 153 60 810 957
+rawdata/pos-1283.bmp 1 125 87 817 955
+rawdata/pos-1284.bmp 1 94 61 802 899
+rawdata/pos-1285.bmp 1 133 39 704 893
+rawdata/pos-1286.bmp 1 103 88 771 919
+rawdata/pos-1287.bmp 1 77 45 800 986
+rawdata/pos-1288.bmp 1 148 44 796 1031
+rawdata/pos-1289.bmp 1 161 26 404 932
+rawdata/pos-1290.bmp 1 136 22 450 993
+rawdata/pos-1291.bmp 1 154 14 433 965
+rawdata/pos-1292.bmp 1 71 6 429 1002
+rawdata/pos-1293.bmp 1 108 10 385 918
+rawdata/pos-1294.bmp 1 121 48 386 882
+rawdata/pos-1295.bmp 1 91 62 734 974
+rawdata/pos-1296.bmp 1 148 68 725 913
+rawdata/pos-1297.bmp 1 79 42 825 909
+rawdata/pos-1298.bmp 1 122 75 591 867
+rawdata/pos-1299.bmp 1 118 143 585 827
+rawdata/pos-1300.bmp 1 35 21 680 988
+rawdata/pos-1301.bmp 1 20 32 691 981
+rawdata/pos-1302.bmp 1 12 30 683 961
+rawdata/pos-1303.bmp 1 76 42 435 981
+rawdata/pos-1304.bmp 1 65 23 391 1003
+rawdata/pos-1305.bmp 1 94 49 429 1003
+rawdata/pos-1306.bmp 1 113 38 436 999
+rawdata/pos-1307.bmp 1 104 48 341 1008
+rawdata/pos-1308.bmp 1 85 90 769 962
+rawdata/pos-1309.bmp 1 137 41 439 968
+rawdata/pos-1310.bmp 1 73 55 787 928
+rawdata/pos-1311.bmp 1 126 56 446 948
+rawdata/pos-1312.bmp 1 70 72 786 839
+rawdata/pos-1313.bmp 1 110 44 486 1022
+rawdata/pos-1314.bmp 1 79 37 404 995
+rawdata/pos-1315.bmp 1 107 61 427 929
+rawdata/pos-1316.bmp 1 93 57 434 995
+rawdata/pos-1317.bmp 1 91 39 439 1007
+rawdata/pos-1318.bmp 1 96 48 436 1014
+rawdata/pos-1319.bmp 1 107 32 699 949
+rawdata/pos-1320.bmp 2 104 93 385 841 514 86 376 851
+rawdata/pos-1321.bmp 2 72 85 352 787 441 63 359 797
+rawdata/pos-1322.bmp 1 61 50 343 932
+rawdata/pos-1323.bmp 1 60 143 916 887
+rawdata/pos-1324.bmp 2 107 58 359 810 477 67 360 800
+rawdata/pos-1325.bmp 2 99 84 372 788 482 64 385 819
+rawdata/pos-1326.bmp 2 87 111 390 814 486 111 370 789
+rawdata/pos-1327.bmp 2 96 116 371 797 472 108 358 798
+rawdata/pos-1328.bmp 2 96 82 348 792 473 87 366 806
+rawdata/pos-1329.bmp 2 141 87 345 788 516 80 344 804
+rawdata/pos-1330.bmp 1 170 89 698 890
+rawdata/pos-1331.bmp 1 84 75 752 921
+rawdata/pos-1332.bmp 1 166 70 730 823
+rawdata/pos-1333.bmp 1 167 71 717 800
+rawdata/pos-1334.bmp 1 93 119 755 895
+rawdata/pos-1335.bmp 1 111 132 795 865
+rawdata/pos-1336.bmp 1 89 86 745 870
+rawdata/pos-1337.bmp 1 115 95 726 836
+rawdata/pos-1338.bmp 1 116 43 439 1014
+rawdata/pos-1339.bmp 1 101 56 816 946
+rawdata/pos-1340.bmp 1 65 57 814 940
+rawdata/pos-1341.bmp 1 94 36 855 938
+rawdata/pos-1342.bmp 1 101 54 775 943
+rawdata/pos-1343.bmp 1 97 37 802 956
+rawdata/pos-1344.bmp 1 127 73 783 947
+rawdata/pos-1345.bmp 1 86 78 793 943
+rawdata/pos-1346.bmp 1 132 57 793 945
+rawdata/pos-1347.bmp 1 132 81 779 847
+rawdata/pos-1348.bmp 1 161 51 778 926
+rawdata/pos-1349.bmp 1 125 78 789 946
+rawdata/pos-1350.bmp 1 124 64 728 891
+rawdata/pos-1351.bmp 1 57 9 848 992
+rawdata/pos-1352.bmp 1 98 69 695 919
+rawdata/pos-1353.bmp 1 139 89 724 885
+rawdata/pos-1354.bmp 1 145 59 722 852
+rawdata/pos-1355.bmp 1 111 47 799 941
+rawdata/pos-1356.bmp 1 110 112 807 912
+rawdata/pos-1357.bmp 1 99 78 758 845
+rawdata/pos-1358.bmp 1 114 78 732 828
+rawdata/pos-1359.bmp 1 159 26 697 1025
+rawdata/pos-1360.bmp 1 120 63 734 838
+rawdata/pos-1361.bmp 1 165 144 741 846
+rawdata/pos-1362.bmp 2 109 44 385 902 536 43 377 918
+rawdata/pos-1363.bmp 1 76 100 709 897
+rawdata/pos-1364.bmp 2 70 46 391 930 504 57 363 909
+rawdata/pos-1365.bmp 2 90 97 380 876 512 96 386 921
+rawdata/pos-1366.bmp 2 107 41 398 920 535 45 377 908
+rawdata/pos-1367.bmp 2 99 36 369 930 523 47 372 944
+rawdata/pos-1368.bmp 2 109 38 366 880 530 45 362 917
+rawdata/pos-1369.bmp 1 147 27 433 971
+rawdata/pos-1370.bmp 1 166 20 431 980
+rawdata/pos-1371.bmp 1 101 29 733 960
+rawdata/pos-1372.bmp 1 100 94 347 822
+rawdata/pos-1373.bmp 1 137 52 323 807
+rawdata/pos-1374.bmp 1 97 48 822 995
+rawdata/pos-1375.bmp 1 113 32 378 852
+rawdata/pos-1376.bmp 2 83 50 406 884 529 38 376 974
+rawdata/pos-1377.bmp 2 88 66 401 930 516 68 382 918
+rawdata/pos-1378.bmp 1 106 75 702 980
+rawdata/pos-1379.bmp 1 47 31 679 934
+rawdata/pos-1380.bmp 2 99 56 392 953 524 39 395 981
+rawdata/pos-1381.bmp 2 75 58 412 938 500 35 456 1014
+rawdata/pos-1382.bmp 2 137 82 404 957 566 70 385 952
+rawdata/pos-1383.bmp 1 104 71 693 880
+rawdata/pos-1384.bmp 2 87 77 380 907 502 75 379 956
+rawdata/pos-1385.bmp 1 144 41 843 1009
+rawdata/pos-1386.bmp 2 115 83 373 952 533 85 384 955
+rawdata/pos-1387.bmp 2 113 77 358 880 503 60 364 897
+rawdata/pos-1388.bmp 2 121 66 363 872 516 62 352 891
+rawdata/pos-1389.bmp 2 140 61 367 872 537 50 374 899
+rawdata/pos-1390.bmp 2 108 99 362 867 507 94 351 903
+rawdata/pos-1391.bmp 2 90 79 349 866 479 80 354 898
+rawdata/pos-1392.bmp 2 118 76 352 891 510 79 352 924
+rawdata/pos-1393.bmp 2 87 4 550 973 696 42 414 932
+rawdata/pos-1394.bmp 2 99 27 405 1002 522 47 394 951
+rawdata/pos-1395.bmp 1 100 71 685 890
+rawdata/pos-1396.bmp 2 162 21 401 955 615 16 361 1016
+rawdata/pos-1397.bmp 1 92 37 821 978
+rawdata/pos-1398.bmp 1 111 61 657 778
+rawdata/pos-1399.bmp 1 115 44 749 872
+rawdata/pos-1400.bmp 1 97 33 767 910
+rawdata/pos-1401.bmp 1 97 10 778 916
+rawdata/pos-1402.bmp 1 124 37 766 905
+rawdata/pos-1403.bmp 1 85 4 1098 1058
+rawdata/pos-1404.bmp 1 78 40 891 1038
+rawdata/pos-1405.bmp 1 140 25 900 1009
+rawdata/pos-1406.bmp 1 140 25 904 996
+rawdata/pos-1407.bmp 1 110 29 818 1005
+rawdata/pos-1408.bmp 1 122 36 701 915
+rawdata/pos-1409.bmp 1 217 46 386 1003
+rawdata/pos-1410.bmp 2 133 71 402 950 570 67 372 941
+rawdata/pos-1411.bmp 2 99 28 414 956 523 26 390 947
+rawdata/pos-1412.bmp 2 72 31 403 951 519 46 407 934
+rawdata/pos-1413.bmp 2 141 70 407 951 579 54 386 968
+rawdata/pos-1414.bmp 2 140 55 391 943 566 43 385 964
+rawdata/pos-1415.bmp 2 134 84 349 862 509 83 351 865
+rawdata/pos-1416.bmp 2 134 57 335 854 508 60 346 847
+rawdata/pos-1417.bmp 2 135 34 344 856 507 36 345 863
+rawdata/pos-1418.bmp 2 127 74 396 845 555 75 408 862
+rawdata/pos-1419.bmp 2 110 36 406 1016 527 34 418 1006
+rawdata/pos-1420.bmp 2 101 76 357 843 493 71 346 843
+rawdata/pos-1421.bmp 1 79 32 677 919
+rawdata/pos-1422.bmp 1 112 59 831 839
+rawdata/pos-1423.bmp 1 70 38 821 852
+rawdata/pos-1424.bmp 1 78 27 816 855
+rawdata/pos-1425.bmp 1 65 53 826 826
+rawdata/pos-1426.bmp 1 70 57 812 818
+rawdata/pos-1427.bmp 1 104 79 756 829
+rawdata/pos-1428.bmp 1 96 57 749 795
+rawdata/pos-1429.bmp 1 100 57 745 758
+rawdata/pos-1430.bmp 1 140 15 832 1017
+rawdata/pos-1431.bmp 1 106 24 813 825
+rawdata/pos-1432.bmp 1 101 21 738 875
+rawdata/pos-1433.bmp 1 56 58 772 944
+rawdata/pos-1434.bmp 1 139 77 342 849
+rawdata/pos-1435.bmp 1 299 83 357 833
+rawdata/pos-1436.bmp 1 143 25 600 1028
+rawdata/pos-1437.bmp 1 91 117 585 656
+rawdata/pos-1438.bmp 1 111 36 889 980
+rawdata/pos-1439.bmp 1 98 22 897 990
+rawdata/pos-1440.bmp 1 150 20 821 990
+rawdata/pos-1441.bmp 1 109 16 818 999
+rawdata/pos-1442.bmp 1 133 55 827 996
+rawdata/pos-1443.bmp 1 123 28 830 976
+rawdata/pos-1444.bmp 1 146 21 844 986
+rawdata/pos-1445.bmp 1 131 89 334 871
+rawdata/pos-1446.bmp 1 84 75 760 954
+rawdata/pos-1447.bmp 1 173 51 353 897
+rawdata/pos-1448.bmp 1 133 7 428 1071
+rawdata/pos-1449.bmp 1 114 46 447 996
+rawdata/pos-1450.bmp 1 81 23 772 851
+rawdata/pos-1451.bmp 1 88 124 704 807
+rawdata/pos-1452.bmp 1 125 56 874 1005
+rawdata/pos-1453.bmp 1 94 59 670 768
+rawdata/pos-1454.bmp 1 93 21 748 852
+rawdata/pos-1455.bmp 1 60 66 750 852
+rawdata/pos-1456.bmp 1 60 80 737 844
+rawdata/pos-1457.bmp 1 94 103 826 952
+rawdata/pos-1458.bmp 1 82 100 754 947
+rawdata/pos-1459.bmp 1 80 59 764 853
+rawdata/pos-1460.bmp 1 98 24 1080 1032
+rawdata/pos-1461.bmp 1 130 46 842 960
+rawdata/pos-1462.bmp 1 114 48 846 959
+rawdata/pos-1463.bmp 1 52 47 889 872
+rawdata/pos-1464.bmp 1 100 16 758 901
+rawdata/pos-1465.bmp 1 111 14 746 888
+rawdata/pos-1466.bmp 1 120 30 727 860
+rawdata/pos-1467.bmp 1 92 56 817 963
+rawdata/pos-1468.bmp 1 145 41 801 955
+rawdata/pos-1469.bmp 1 144 20 806 908
+rawdata/pos-1470.bmp 1 100 54 649 978
+rawdata/pos-1471.bmp 1 118 30 816 955
+rawdata/pos-1472.bmp 1 89 79 768 897
+rawdata/pos-1473.bmp 1 158 58 776 897
+rawdata/pos-1474.bmp 1 149 45 864 1028
+rawdata/pos-1475.bmp 1 115 51 789 889
+rawdata/pos-1476.bmp 1 197 65 441 989
+rawdata/pos-1477.bmp 1 173 45 719 860
+rawdata/pos-1478.bmp 1 102 105 780 900
+rawdata/pos-1479.bmp 1 110 28 837 957
+rawdata/pos-1480.bmp 1 127 50 403 831
+rawdata/pos-1481.bmp 1 179 59 379 829
+rawdata/pos-1482.bmp 1 95 67 879 1009
+rawdata/pos-1483.bmp 1 115 55 384 828
+rawdata/pos-1484.bmp 1 120 124 798 895
+rawdata/pos-1485.bmp 1 111 43 788 994
+rawdata/pos-1486.bmp 2 210 30 428 998 691 73 378 953
+rawdata/pos-1487.bmp 2 123 58 418 913 574 56 389 926
+rawdata/pos-1488.bmp 2 159 50 366 917 568 60 341 861
+rawdata/pos-1489.bmp 2 116 59 346 912 498 71 344 859
+rawdata/pos-1490.bmp 3 531 38 370 901 129 58 359 875 516 56 335 873
+rawdata/pos-1491.bmp 2 131 14 357 844 525 8 350 903
+rawdata/pos-1492.bmp 2 117 52 366 839 513 53 343 857
+rawdata/pos-1493.bmp 2 116 110 323 829 483 116 322 781
+rawdata/pos-1494.bmp 1 137 34 897 1020
+rawdata/pos-1495.bmp 2 112 107 317 803 470 130 330 767
+rawdata/pos-1496.bmp 1 102 27 770 1013
+rawdata/pos-1497.bmp 2 90 101 334 818 472 111 318 802
+rawdata/pos-1498.bmp 2 100 112 354 758 482 101 331 815
+rawdata/pos-1499.bmp 2 126 111 353 797 499 104 340 821
+rawdata/pos-1500.bmp 1 80 33 860 998
+rawdata/pos-1501.bmp 1 105 40 856 1004
+rawdata/pos-1502.bmp 1 86 21 861 1002
+rawdata/pos-1503.bmp 1 141 16 760 923
+rawdata/pos-1504.bmp 1 101 8 780 944
+rawdata/pos-1505.bmp 1 77 88 736 944
+rawdata/pos-1506.bmp 1 110 33 905 1042
+rawdata/pos-1507.bmp 1 147 87 794 925
+rawdata/pos-1508.bmp 1 94 66 727 934
+rawdata/pos-1509.bmp 1 111 67 740 860
+rawdata/pos-1510.bmp 1 131 17 745 949
+rawdata/pos-1511.bmp 1 120 67 733 911
+rawdata/pos-1512.bmp 1 92 95 724 868
+rawdata/pos-1513.bmp 1 245 62 338 967
+rawdata/pos-1514.bmp 2 153 186 425 836 588 208 404 802
+rawdata/pos-1515.bmp 2 131 119 416 868 587 142 411 842
+rawdata/pos-1516.bmp 2 138 158 410 861 577 167 415 853
+rawdata/pos-1517.bmp 2 125 134 402 836 558 110 403 841
+rawdata/pos-1518.bmp 1 122 92 778 935
+rawdata/pos-1519.bmp 1 137 42 911 1017
+rawdata/pos-1520.bmp 1 130 125 805 822
+rawdata/pos-1521.bmp 2 97 8 656 1025 755 91 516 929
+rawdata/pos-1522.bmp 2 138 75 452 966 601 78 469 937
+rawdata/pos-1523.bmp 1 124 59 935 952
+rawdata/pos-1524.bmp 1 95 99 916 943
+rawdata/pos-1525.bmp 1 154 69 848 913
+rawdata/pos-1526.bmp 1 101 48 429 1007
+rawdata/pos-1527.bmp 1 137 55 449 1009
+rawdata/pos-1528.bmp 1 130 67 1005 952
+rawdata/pos-1529.bmp 1 118 32 687 938
+rawdata/pos-1530.bmp 1 136 92 776 938
+rawdata/pos-1531.bmp 1 140 80 949 968
+rawdata/pos-1532.bmp 1 126 68 791 941
+rawdata/pos-1533.bmp 1 118 41 945 940
+rawdata/pos-1534.bmp 1 174 53 895 965
+rawdata/pos-1535.bmp 1 159 21 909 1042
+rawdata/pos-1536.bmp 1 117 20 1283 993
+rawdata/pos-1537.bmp 2 124 39 468 924 617 48 456 921
+rawdata/pos-1538.bmp 2 108 90 475 911 617 104 447 896
+rawdata/pos-1539.bmp 2 113 102 474 937 628 101 467 936
+rawdata/pos-1540.bmp 2 106 69 455 941 614 81 438 925
+rawdata/pos-1541.bmp 1 118 96 788 939
+rawdata/pos-1542.bmp 1 98 69 457 974
+rawdata/pos-1543.bmp 1 87 98 454 919
+rawdata/pos-1544.bmp 1 94 91 778 932
+rawdata/pos-1545.bmp 1 65 115 464 932
+rawdata/pos-1546.bmp 1 111 51 773 999
+rawdata/pos-1547.bmp 1 113 50 720 964
+rawdata/pos-1548.bmp 1 74 73 758 962
+rawdata/pos-1549.bmp 1 87 53 753 964
+rawdata/pos-1550.bmp 1 91 69 752 950
+rawdata/pos-1551.bmp 1 71 98 778 971
+rawdata/pos-1552.bmp 1 160 76 769 993
+rawdata/pos-1553.bmp 1 133 85 741 969
+rawdata/pos-1554.bmp 1 119 121 639 932
+rawdata/pos-1555.bmp 1 76 98 662 884
+rawdata/pos-1556.bmp 1 157 53 468 910
+rawdata/pos-1557.bmp 1 106 115 662 856
+rawdata/pos-1558.bmp 1 130 138 645 877
+rawdata/pos-1559.bmp 1 112 139 643 857
+rawdata/pos-1560.bmp 1 92 125 651 843
+rawdata/pos-1561.bmp 1 59 178 733 856
+rawdata/pos-1562.bmp 1 69 125 740 848
+rawdata/pos-1563.bmp 1 87 77 761 877
+rawdata/pos-1564.bmp 1 97 134 704 855
+rawdata/pos-1565.bmp 1 137 171 717 849
+rawdata/pos-1566.bmp 1 160 171 716 833
+rawdata/pos-1567.bmp 2 64 96 407 893 503 157 363 857
+rawdata/pos-1568.bmp 1 66 55 358 987
+rawdata/pos-1569.bmp 1 112 86 455 889
+rawdata/pos-1570.bmp 2 236 139 358 848 616 134 361 867
+rawdata/pos-1571.bmp 2 147 177 352 852 532 175 351 852
+rawdata/pos-1572.bmp 2 147 130 352 853 528 135 355 861
+rawdata/pos-1573.bmp 2 131 91 340 853 505 99 357 837
+rawdata/pos-1574.bmp 1 98 115 769 927
+rawdata/pos-1575.bmp 2 237 107 311 849 576 82 323 855
+rawdata/pos-1576.bmp 2 279 132 327 842 622 127 423 884
+rawdata/pos-1577.bmp 2 229 134 344 837 591 124 350 862
+rawdata/pos-1578.bmp 2 278 31 357 1020 673 98 344 887
+rawdata/pos-1579.bmp 2 119 74 353 890 492 76 364 884
+rawdata/pos-1580.bmp 2 124 54 406 994 543 49 416 971
+rawdata/pos-1581.bmp 1 123 18 478 916
+rawdata/pos-1582.bmp 2 172 21 368 928 549 25 367 893
+rawdata/pos-1583.bmp 1 222 118 548 791
+rawdata/pos-1584.bmp 1 185 85 598 858
+rawdata/pos-1585.bmp 1 69 27 856 870
+rawdata/pos-1586.bmp 1 191 93 607 899
+rawdata/pos-1587.bmp 1 199 47 617 914
+rawdata/pos-1588.bmp 1 204 90 612 841
+rawdata/pos-1589.bmp 1 103 70 687 941
+rawdata/pos-1590.bmp 1 87 74 693 962
+rawdata/pos-1591.bmp 1 103 41 713 986
+rawdata/pos-1592.bmp 1 81 49 681 956
+rawdata/pos-1593.bmp 1 178 22 474 947
+rawdata/pos-1594.bmp 1 133 47 663 960
+rawdata/pos-1595.bmp 1 82 53 809 933
+rawdata/pos-1596.bmp 1 101 79 762 908
+rawdata/pos-1597.bmp 1 85 50 889 1017
+rawdata/pos-1598.bmp 1 91 42 852 1030
+rawdata/pos-1599.bmp 1 114 38 1036 1018
+rawdata/pos-1600.bmp 1 101 60 861 1005
+rawdata/pos-1601.bmp 1 117 19 859 1032
+rawdata/pos-1602.bmp 1 125 45 512 985
+rawdata/pos-1603.bmp 1 132 44 516 1000
+rawdata/pos-1604.bmp 1 121 46 474 989
+rawdata/pos-1605.bmp 1 104 93 690 930
+rawdata/pos-1606.bmp 2 224 9 493 1003 735 22 479 943
+rawdata/pos-1607.bmp 1 119 48 750 961
+rawdata/pos-1608.bmp 1 121 56 423 991
+rawdata/pos-1609.bmp 2 180 58 430 945 621 55 452 917
+rawdata/pos-1610.bmp 2 210 46 384 937 628 71 429 884
+rawdata/pos-1611.bmp 2 151 40 427 942 624 42 405 971
+rawdata/pos-1612.bmp 1 143 32 596 1020
+rawdata/pos-1613.bmp 1 156 55 600 996
+rawdata/pos-1614.bmp 1 153 55 569 964
+rawdata/pos-1615.bmp 1 112 53 816 980
+rawdata/pos-1616.bmp 1 70 102 799 939
+rawdata/pos-1617.bmp 1 72 114 681 956
+rawdata/pos-1618.bmp 1 105 99 767 904
+rawdata/pos-1619.bmp 1 88 65 798 945
+rawdata/pos-1620.bmp 1 111 104 778 961
+rawdata/pos-1621.bmp 1 108 150 789 896
+rawdata/pos-1622.bmp 1 144 81 408 942
+rawdata/pos-1623.bmp 1 128 35 412 937
+rawdata/pos-1624.bmp 1 135 116 386 913
+rawdata/pos-1625.bmp 2 72 53 390 822 491 50 386 825
+rawdata/pos-1626.bmp 2 157 136 398 821 583 126 407 854
+rawdata/pos-1627.bmp 2 90 155 408 814 519 149 390 835
+rawdata/pos-1628.bmp 2 76 98 442 904 538 161 401 811
+rawdata/pos-1629.bmp 1 105 168 643 810
+rawdata/pos-1630.bmp 1 118 64 727 1008
+rawdata/pos-1631.bmp 2 124 87 395 837 545 88 397 841
+rawdata/pos-1632.bmp 2 101 134 404 872 535 133 393 854
+rawdata/pos-1633.bmp 2 100 179 403 862 524 183 404 858
+rawdata/pos-1634.bmp 2 110 155 395 883 532 178 387 859
+rawdata/pos-1635.bmp 2 113 169 406 850 529 150 422 848
+rawdata/pos-1636.bmp 2 85 169 397 860 497 167 400 813
+rawdata/pos-1637.bmp 1 52 148 719 831
+rawdata/pos-1638.bmp 1 118 119 835 905
+rawdata/pos-1639.bmp 1 131 123 756 908
+rawdata/pos-1640.bmp 1 125 56 681 907
+rawdata/pos-1641.bmp 1 84 138 729 899
+rawdata/pos-1642.bmp 1 78 5 870 1041
+rawdata/pos-1643.bmp 1 124 10 904 1046
+rawdata/pos-1644.bmp 1 93 46 906 997
+rawdata/pos-1645.bmp 1 121 50 879 1016
+rawdata/pos-1646.bmp 1 116 77 526 997
+rawdata/pos-1647.bmp 1 165 98 410 956
+rawdata/pos-1648.bmp 1 138 62 420 984
+rawdata/pos-1649.bmp 1 118 38 472 1050
+rawdata/pos-1650.bmp 1 109 32 462 1017
+rawdata/pos-1651.bmp 1 283 34 455 1043
+rawdata/pos-1652.bmp 1 104 121 642 786
+rawdata/pos-1653.bmp 1 122 52 458 1012
+rawdata/pos-1654.bmp 1 82 23 496 1061
+rawdata/pos-1655.bmp 1 133 8 718 973
+rawdata/pos-1656.bmp 1 109 33 489 1030
+rawdata/pos-1657.bmp 1 119 37 555 935
+rawdata/pos-1658.bmp 1 88 54 810 886
+rawdata/pos-1659.bmp 1 130 191 781 811
+rawdata/pos-1660.bmp 1 119 212 778 843
+rawdata/pos-1661.bmp 1 68 69 810 876
+rawdata/pos-1662.bmp 1 97 131 753 835
+rawdata/pos-1663.bmp 2 98 172 303 765 408 162 333 780
+rawdata/pos-1664.bmp 1 129 49 849 972
+rawdata/pos-1665.bmp 1 108 93 841 917
+rawdata/pos-1666.bmp 1 124 102 825 856
+rawdata/pos-1667.bmp 1 133 53 732 1016
+rawdata/pos-1668.bmp 1 88 62 833 869
+rawdata/pos-1669.bmp 1 59 27 835 880
+rawdata/pos-1670.bmp 2 180 83 454 966 669 65 553 967
+rawdata/pos-1671.bmp 2 90 63 501 1015 678 97 394 946
+rawdata/pos-1672.bmp 2 100 75 491 992 668 87 412 990
+rawdata/pos-1673.bmp 2 140 79 466 959 635 65 470 995
+rawdata/pos-1674.bmp 2 124 87 399 800 536 111 305 756
+rawdata/pos-1675.bmp 2 102 57 484 1006 661 65 459 1011
+rawdata/pos-1676.bmp 2 69 43 501 913 586 109 411 877
+rawdata/pos-1677.bmp 2 99 94 404 918 535 101 399 866
+rawdata/pos-1678.bmp 2 104 94 402 865 545 95 387 867
+rawdata/pos-1679.bmp 1 103 63 729 1029
+rawdata/pos-1680.bmp 2 43 82 434 873 487 88 446 938
+rawdata/pos-1681.bmp 2 98 91 421 885 550 28 393 1015
+rawdata/pos-1682.bmp 2 99 114 398 884 544 131 385 862
+rawdata/pos-1683.bmp 1 104 71 469 901
+rawdata/pos-1684.bmp 1 119 26 481 1034
+rawdata/pos-1685.bmp 2 104 113 325 804 434 112 328 774
+rawdata/pos-1686.bmp 1 149 53 634 1025
+rawdata/pos-1687.bmp 1 182 27 455 932
+rawdata/pos-1688.bmp 1 130 80 437 896
+rawdata/pos-1689.bmp 1 106 75 480 924
+rawdata/pos-1690.bmp 1 98 39 753 998
+rawdata/pos-1691.bmp 1 55 36 353 991
+rawdata/pos-1692.bmp 2 66 54 299 841 394 58 301 848
+rawdata/pos-1693.bmp 1 177 30 685 1031
+rawdata/pos-1694.bmp 1 156 22 705 1038
+rawdata/pos-1695.bmp 1 160 15 693 1058
+rawdata/pos-1696.bmp 1 90 58 781 921
+rawdata/pos-1697.bmp 1 134 50 1055 1010
+rawdata/pos-1698.bmp 1 128 49 1071 1013
+rawdata/pos-1699.bmp 1 129 90 1050 986
+rawdata/pos-1700.bmp 1 74 80 958 939
+rawdata/pos-1701.bmp 1 88 36 997 978
+rawdata/pos-1702.bmp 1 132 60 1042 1019
+rawdata/pos-1703.bmp 1 42 9 1115 1074
+rawdata/pos-1704.bmp 2 59 73 329 838 396 73 328 855
+rawdata/pos-1705.bmp 1 83 2 1102 1070
+rawdata/pos-1706.bmp 1 55 16 948 1042
+rawdata/pos-1707.bmp 1 139 45 426 1000
+rawdata/pos-1708.bmp 1 74 36 1024 1026
+rawdata/pos-1709.bmp 1 59 30 932 975
+rawdata/pos-1710.bmp 1 78 29 946 951
+rawdata/pos-1711.bmp 2 111 45 416 915 592 40 417 939
+rawdata/pos-1712.bmp 2 83 75 441 932 555 54 446 962
+rawdata/pos-1713.bmp 2 75 4 630 995 761 51 352 939
+rawdata/pos-1714.bmp 2 80 54 413 1005 535 59 458 1012
+rawdata/pos-1715.bmp 2 89 79 444 953 548 44 454 998
+rawdata/pos-1716.bmp 2 76 29 322 846 422 30 313 866
+rawdata/pos-1717.bmp 2 69 63 458 945 537 38 451 960
+rawdata/pos-1718.bmp 1 60 35 795 917
+rawdata/pos-1719.bmp 2 88 74 416 958 545 69 429 992
+rawdata/pos-1720.bmp 2 106 93 426 929 577 87 431 929
+rawdata/pos-1721.bmp 2 118 86 421 931 594 67 430 949
+rawdata/pos-1722.bmp 2 140 78 428 918 615 65 402 937
+rawdata/pos-1723.bmp 2 94 75 451 918 578 64 419 913
+rawdata/pos-1724.bmp 2 97 68 443 925 574 54 426 918
+rawdata/pos-1725.bmp 2 109 70 431 908 579 61 415 908
+rawdata/pos-1726.bmp 2 124 48 449 995 610 58 441 956
+rawdata/pos-1727.bmp 2 133 36 425 974 601 38 405 963
+rawdata/pos-1728.bmp 2 107 60 365 981 477 51 374 979
+rawdata/pos-1729.bmp 1 106 49 771 929
+rawdata/pos-1730.bmp 2 85 96 424 959 554 74 470 997
+rawdata/pos-1731.bmp 2 114 93 413 957 568 50 414 1023
+rawdata/pos-1732.bmp 2 91 89 397 905 531 76 396 893
+rawdata/pos-1733.bmp 2 132 58 379 915 573 62 358 903
+rawdata/pos-1734.bmp 2 106 63 380 891 552 67 368 890
+rawdata/pos-1735.bmp 2 60 40 423 917 513 16 391 895
+rawdata/pos-1736.bmp 2 82 58 411 917 527 38 410 927
+rawdata/pos-1737.bmp 1 167 28 448 991
+rawdata/pos-1738.bmp 1 126 13 475 1023
+rawdata/pos-1739.bmp 1 116 9 505 1004
+rawdata/pos-1740.bmp 1 97 50 746 963
+rawdata/pos-1741.bmp 1 154 18 729 951
+rawdata/pos-1742.bmp 1 91 26 509 1024
+rawdata/pos-1743.bmp 1 116 32 523 1019
+rawdata/pos-1744.bmp 1 126 42 549 965
+rawdata/pos-1745.bmp 1 62 48 553 1007
+rawdata/pos-1746.bmp 1 70 38 554 1055
+rawdata/pos-1747.bmp 1 88 77 499 957
+rawdata/pos-1748.bmp 1 100 62 504 945
+rawdata/pos-1749.bmp 1 93 53 493 964
+rawdata/pos-1750.bmp 2 98 91 346 797 519 119 300 795
+rawdata/pos-1751.bmp 1 157 24 688 921
+rawdata/pos-1752.bmp 1 73 63 763 930
+rawdata/pos-1753.bmp 2 61 133 361 802 477 154 348 789
+rawdata/pos-1754.bmp 2 137 26 334 953 495 16 347 974
+rawdata/pos-1755.bmp 2 78 138 348 782 476 140 318 776
+rawdata/pos-1756.bmp 2 61 128 365 805 472 132 347 826
+rawdata/pos-1757.bmp 2 89 157 329 768 463 150 367 797
+rawdata/pos-1758.bmp 2 83 152 373 813 469 138 359 793
+rawdata/pos-1759.bmp 2 107 225 346 801 494 220 387 838
+rawdata/pos-1760.bmp 2 104 221 343 808 489 207 350 844
+rawdata/pos-1761.bmp 2 134 162 398 832 563 177 344 806
+rawdata/pos-1762.bmp 2 98 203 352 827 487 207 353 826
+rawdata/pos-1763.bmp 1 89 104 753 925
+rawdata/pos-1764.bmp 1 99 108 743 931
+rawdata/pos-1765.bmp 1 34 113 724 871
+rawdata/pos-1766.bmp 1 279 60 518 944
+rawdata/pos-1767.bmp 1 101 98 732 836
+rawdata/pos-1768.bmp 1 43 65 803 893
+rawdata/pos-1769.bmp 1 93 99 718 864
+rawdata/pos-1770.bmp 1 99 38 922 1037
+rawdata/pos-1771.bmp 1 107 38 937 1030
+rawdata/pos-1772.bmp 1 75 61 961 1007
+rawdata/pos-1773.bmp 1 132 57 922 1013
+rawdata/pos-1774.bmp 1 93 120 743 944
+rawdata/pos-1775.bmp 1 124 46 915 1011
+rawdata/pos-1776.bmp 1 127 99 487 956
+rawdata/pos-1777.bmp 1 105 101 483 961
+rawdata/pos-1778.bmp 1 72 87 467 948
+rawdata/pos-1779.bmp 1 85 95 484 980
+rawdata/pos-1780.bmp 1 131 13 551 1057
+rawdata/pos-1781.bmp 1 84 18 564 1054
+rawdata/pos-1782.bmp 1 110 19 568 1057
+rawdata/pos-1783.bmp 1 46 181 864 867
+rawdata/pos-1784.bmp 1 81 61 773 988
+rawdata/pos-1785.bmp 1 71 102 768 942
+rawdata/pos-1786.bmp 1 70 47 735 959
+rawdata/pos-1787.bmp 1 86 36 793 996
+rawdata/pos-1788.bmp 1 112 40 782 1004
+rawdata/pos-1789.bmp 1 172 47 738 994
+rawdata/pos-1790.bmp 1 97 50 472 1000
+rawdata/pos-1791.bmp 1 120 37 720 994
+rawdata/pos-1792.bmp 1 116 32 764 971
+rawdata/pos-1793.bmp 1 95 81 763 937
+rawdata/pos-1794.bmp 1 102 53 757 935
+rawdata/pos-1795.bmp 1 118 33 755 989
+rawdata/pos-1796.bmp 1 97 62 749 933
+rawdata/pos-1797.bmp 1 80 57 761 961
+rawdata/pos-1798.bmp 1 74 50 765 974
+rawdata/pos-1799.bmp 1 142 91 782 971
+rawdata/pos-1800.bmp 1 83 49 764 946
+rawdata/pos-1801.bmp 2 111 40 534 1010 696 51 395 1010
+rawdata/pos-1802.bmp 1 109 55 388 929
+rawdata/pos-1803.bmp 2 93 55 510 980 694 44 392 987
+rawdata/pos-1804.bmp 2 136 32 480 989 635 44 546 986
+rawdata/pos-1805.bmp 2 100 36 501 940 612 23 522 940
+rawdata/pos-1806.bmp 2 60 57 461 896 545 68 568 982
+rawdata/pos-1807.bmp 1 73 97 727 892
+rawdata/pos-1808.bmp 2 71 60 433 910 543 50 427 970
+rawdata/pos-1809.bmp 2 49 75 435 833 502 49 443 896
+rawdata/pos-1810.bmp 2 56 46 458 866 518 27 456 856
+rawdata/pos-1811.bmp 2 86 79 470 915 551 88 459 875
+rawdata/pos-1812.bmp 2 90 66 441 940 547 57 432 897
+rawdata/pos-1813.bmp 1 124 47 490 941
+rawdata/pos-1814.bmp 1 60 47 375 1005
+rawdata/pos-1815.bmp 1 120 40 371 885
+rawdata/pos-1816.bmp 1 127 66 417 963
+rawdata/pos-1817.bmp 1 85 57 598 938
+rawdata/pos-1818.bmp 1 90 73 749 862
+rawdata/pos-1819.bmp 1 108 116 485 889
+rawdata/pos-1820.bmp 1 89 100 378 785
+rawdata/pos-1821.bmp 1 45 314 241 555
+rawdata/pos-1822.bmp 1 179 14 568 1047
+rawdata/pos-1823.bmp 1 104 19 575 1057
+rawdata/pos-1824.bmp 1 97 9 580 1045
+rawdata/pos-1825.bmp 1 106 33 532 1007
+rawdata/pos-1826.bmp 1 81 54 435 1003
+rawdata/pos-1827.bmp 1 151 33 439 1047
+rawdata/pos-1828.bmp 1 171 77 444 977
+rawdata/pos-1829.bmp 1 248 38 416 988
+rawdata/pos-1830.bmp 1 87 52 535 963
+rawdata/pos-1831.bmp 1 143 81 500 980
+rawdata/pos-1832.bmp 1 114 53 543 993
+rawdata/pos-1833.bmp 1 93 109 432 866
+rawdata/pos-1834.bmp 1 57 118 415 850
+rawdata/pos-1835.bmp 1 105 164 395 774
+rawdata/pos-1836.bmp 1 105 68 465 934
+rawdata/pos-1837.bmp 1 123 114 451 893
+rawdata/pos-1838.bmp 1 139 92 437 903
+rawdata/pos-1839.bmp 1 189 63 400 1010
+rawdata/pos-1840.bmp 1 85 39 864 1007
+rawdata/pos-1841.bmp 1 56 14 1122 1057
+rawdata/pos-1842.bmp 1 123 27 808 1037
+rawdata/pos-1843.bmp 1 142 74 811 897
+rawdata/pos-1844.bmp 1 98 104 844 916
+rawdata/pos-1845.bmp 1 125 91 834 930
+rawdata/pos-1846.bmp 1 156 53 815 912
+rawdata/pos-1847.bmp 1 118 25 835 1002
+rawdata/pos-1848.bmp 1 101 57 842 948
+rawdata/pos-1849.bmp 1 152 36 838 987
+rawdata/pos-1850.bmp 1 117 54 837 936
+rawdata/pos-1851.bmp 2 285 35 394 964 693 43 433 961
+rawdata/pos-1852.bmp 1 117 60 407 1015
+rawdata/pos-1853.bmp 1 104 39 795 972
+rawdata/pos-1854.bmp 1 124 21 767 916
+rawdata/pos-1855.bmp 1 130 33 445 994
+rawdata/pos-1856.bmp 1 109 111 670 842
+rawdata/pos-1857.bmp 1 79 72 760 938
+rawdata/pos-1858.bmp 1 98 79 778 958
+rawdata/pos-1859.bmp 1 149 41 753 1034
+rawdata/pos-1860.bmp 1 109 33 765 976
+rawdata/pos-1861.bmp 1 155 21 753 942
+rawdata/pos-1862.bmp 1 94 8 769 942
+rawdata/pos-1863.bmp 1 160 61 821 991
+rawdata/pos-1864.bmp 1 115 32 821 1002
+rawdata/pos-1865.bmp 1 109 105 388 918
+rawdata/pos-1866.bmp 1 145 21 814 1018
+rawdata/pos-1867.bmp 1 46 33 840 987
+rawdata/pos-1868.bmp 1 98 94 834 959
+rawdata/pos-1869.bmp 1 101 105 852 978
+rawdata/pos-1870.bmp 1 133 38 800 968
+rawdata/pos-1871.bmp 1 118 63 814 997
+rawdata/pos-1872.bmp 1 139 45 818 990
+rawdata/pos-1873.bmp 1 120 25 759 1002
+rawdata/pos-1874.bmp 2 67 37 459 1039 549 33 441 1036
+rawdata/pos-1875.bmp 1 128 22 749 988
+rawdata/pos-1876.bmp 1 151 73 667 902
+rawdata/pos-1877.bmp 1 67 101 343 915
+rawdata/pos-1878.bmp 1 118 49 872 1005
+rawdata/pos-1879.bmp 1 97 47 917 1019
+rawdata/pos-1880.bmp 1 93 61 905 1019
+rawdata/pos-1881.bmp 1 260 65 848 1014
+rawdata/pos-1882.bmp 1 87 60 380 875
+rawdata/pos-1883.bmp 1 121 88 420 904
+rawdata/pos-1884.bmp 1 171 7 468 1037
+rawdata/pos-1885.bmp 2 89 17 441 1046 558 18 439 1054
+rawdata/pos-1886.bmp 1 101 106 342 782
+rawdata/pos-1887.bmp 2 73 72 474 903 557 64 455 868
+rawdata/pos-1888.bmp 1 85 95 331 768
+rawdata/pos-1889.bmp 1 96 59 341 741
+rawdata/pos-1890.bmp 1 153 117 474 971
+rawdata/pos-1891.bmp 1 118 70 446 1006
+rawdata/pos-1892.bmp 1 129 20 446 1022
+rawdata/pos-1893.bmp 1 50 42 901 973
+rawdata/pos-1894.bmp 1 99 30 808 918
+rawdata/pos-1895.bmp 1 114 34 803 958
+rawdata/pos-1896.bmp 2 56 5 442 1054 549 14 420 1055
+rawdata/pos-1897.bmp 1 139 68 718 839
+rawdata/pos-1898.bmp 1 125 84 707 799
+rawdata/pos-1899.bmp 2 86 75 417 856 520 78 453 889
+rawdata/pos-1900.bmp 1 111 131 679 847
+rawdata/pos-1901.bmp 1 96 70 668 830
+rawdata/pos-1902.bmp 1 111 60 857 1001
+rawdata/pos-1903.bmp 1 137 87 815 920
+rawdata/pos-1904.bmp 1 136 62 797 940
+rawdata/pos-1905.bmp 1 143 61 793 931
+rawdata/pos-1906.bmp 1 131 65 797 914
+rawdata/pos-1907.bmp 1 93 27 440 1045
+rawdata/pos-1908.bmp 1 107 51 804 936
+rawdata/pos-1909.bmp 1 99 88 414 938
+rawdata/pos-1910.bmp 1 106 63 376 903
+rawdata/pos-1911.bmp 2 99 85 424 897 535 85 409 894
+rawdata/pos-1912.bmp 2 64 56 406 870 64 56 406 870
+rawdata/pos-1913.bmp 1 101 66 635 916
+rawdata/pos-1914.bmp 1 139 108 604 899
+rawdata/pos-1915.bmp 1 100 70 585 880
+rawdata/pos-1916.bmp 1 109 68 599 878
+rawdata/pos-1917.bmp 1 142 153 648 880
+rawdata/pos-1918.bmp 2 149 57 336 887 527 70 339 867
+rawdata/pos-1919.bmp 1 157 156 604 812
+rawdata/pos-1920.bmp 1 189 136 603 792
+rawdata/pos-1921.bmp 1 182 129 614 819
+rawdata/pos-1922.bmp 1 190 142 604 797
+rawdata/pos-1923.bmp 2 127 29 355 847 524 39 342 865
+rawdata/pos-1924.bmp 2 140 84 353 897 533 86 371 930
+rawdata/pos-1925.bmp 1 122 63 783 910
+rawdata/pos-1926.bmp 2 117 35 356 916 527 36 347 937
+rawdata/pos-1927.bmp 1 93 6 820 980
+rawdata/pos-1928.bmp 2 94 64 370 924 505 78 364 916
+rawdata/pos-1929.bmp 2 97 55 372 914 490 45 393 940
+rawdata/pos-1930.bmp 2 149 20 422 1011 633 20 420 1042
+rawdata/pos-1931.bmp 2 137 31 468 1001 660 52 403 1011
+rawdata/pos-1932.bmp 2 172 12 420 1012 663 33 393 1002
+rawdata/pos-1933.bmp 1 218 8 377 1001
+rawdata/pos-1934.bmp 1 195 66 837 993
+rawdata/pos-1935.bmp 1 160 70 805 968
+rawdata/pos-1936.bmp 1 116 91 829 953
+rawdata/pos-1937.bmp 1 110 77 797 930
+rawdata/pos-1938.bmp 1 124 50 732 877
+rawdata/pos-1939.bmp 1 93 93 791 894
+rawdata/pos-1940.bmp 1 68 114 804 909
+rawdata/pos-1941.bmp 1 153 107 788 952
+rawdata/pos-1942.bmp 1 161 31 415 942
+rawdata/pos-1943.bmp 1 139 29 434 964
+rawdata/pos-1944.bmp 1 162 37 420 949
+rawdata/pos-1945.bmp 1 86 32 400 936
+rawdata/pos-1946.bmp 1 116 37 382 901
+rawdata/pos-1947.bmp 1 128 60 362 858
+rawdata/pos-1948.bmp 1 83 77 750 949
+rawdata/pos-1949.bmp 1 153 79 724 894
+rawdata/pos-1950.bmp 1 73 71 819 888
+rawdata/pos-1951.bmp 1 114 89 604 841
+rawdata/pos-1952.bmp 1 121 144 570 808
+rawdata/pos-1953.bmp 1 39 35 681 943
+rawdata/pos-1954.bmp 1 39 46 665 961
+rawdata/pos-1955.bmp 1 34 48 660 929
+rawdata/pos-1956.bmp 1 50 48 449 950
+rawdata/pos-1957.bmp 1 66 32 395 927
+rawdata/pos-1958.bmp 1 78 44 447 981
+rawdata/pos-1959.bmp 1 104 43 447 997
+rawdata/pos-1960.bmp 4 58 31 397 1014
+rawdata/pos-1961.bmp 1 40 11 849 1068
+rawdata/pos-1962.bmp 1 90 1 529 1057
+rawdata/pos-1963.bmp 1 41 15 858 970
+rawdata/pos-1964.bmp 1 89 10 533 1027
+rawdata/pos-1965.bmp 1 48 36 833 881
+rawdata/pos-1966.bmp 1 77 13 550 1067
+rawdata/pos-1967.bmp 1 57 12 443 1060
+rawdata/pos-1968.bmp 1 90 29 467 975
+rawdata/pos-1969.bmp 1 46 0 524 1081
+rawdata/pos-1970.bmp 1 42 0 530 1059
+rawdata/pos-1971.bmp 1 53 7 517 1073
+rawdata/pos-1972.bmp 1 72 18 770 1010
+rawdata/pos-1973.bmp 2 74 49 432 910 505 18 435 959
+rawdata/pos-1974.bmp 2 34 25 400 860 437 20 407 884
+rawdata/pos-1975.bmp 1 34 38 397 987
+rawdata/pos-1976.bmp 1 45 5 951 1058
+rawdata/pos-1977.bmp 2 74 15 398 870 471 9 401 877
+rawdata/pos-1978.bmp 2 66 37 422 861 481 11 414 925
+rawdata/pos-1979.bmp 2 67 67 414 873 475 60 415 901
+rawdata/pos-1980.bmp 2 63 69 412 862 465 57 421 877
+rawdata/pos-1981.bmp 2 56 37 408 855 458 26 406 882
+rawdata/pos-1982.bmp 2 97 38 402 863 504 30 398 876
+rawdata/pos-1983.bmp 1 134 27 757 1013
+rawdata/pos-1984.bmp 1 52 38 809 965
+rawdata/pos-1985.bmp 1 131 40 803 909
+rawdata/pos-1986.bmp 1 136 45 769 818
+rawdata/pos-1987.bmp 1 71 93 819 949
+rawdata/pos-1988.bmp 1 72 16 888 1016
+rawdata/pos-1989.bmp 1 68 36 806 951
+rawdata/pos-1990.bmp 1 80 65 793 861
+rawdata/pos-1991.bmp 1 87 15 501 1067
+rawdata/pos-1992.bmp 1 71 11 874 1017
+rawdata/pos-1993.bmp 1 24 15 879 1012
+rawdata/pos-1994.bmp 1 35 5 969 1076
+rawdata/pos-1995.bmp 1 52 8 882 1006
+rawdata/pos-1996.bmp 1 58 12 887 1003
+rawdata/pos-1997.bmp 1 92 21 869 1025
+rawdata/pos-1998.bmp 1 57 20 866 1034
+rawdata/pos-1999.bmp 1 95 7 887 1012
+rawdata/pos-2000.bmp 1 103 18 846 923
+rawdata/pos-2001.bmp 1 118 11 858 991
+rawdata/pos-2002.bmp 1 87 15 891 1051
+rawdata/pos-2003.bmp 1 69 10 825 1031
+rawdata/pos-2004.bmp 1 42 2 893 1068
+rawdata/pos-2005.bmp 1 63 13 767 1029
+rawdata/pos-2006.bmp 1 96 27 786 1006
+rawdata/pos-2007.bmp 1 102 16 804 927
+rawdata/pos-2008.bmp 1 71 7 883 1018
+rawdata/pos-2009.bmp 1 69 54 892 992
+rawdata/pos-2010.bmp 1 72 24 829 936
+rawdata/pos-2011.bmp 1 84 42 804 888
+rawdata/pos-2012.bmp 1 138 13 738 1064
+rawdata/pos-2013.bmp 1 83 17 816 905
+rawdata/pos-2014.bmp 1 135 100 818 909
+rawdata/pos-2015.bmp 1 71 2 884 988
+rawdata/pos-2016.bmp 1 37 55 785 958
+rawdata/pos-2017.bmp 2 48 11 436 973 486 2 431 1006
+rawdata/pos-2018.bmp 2 60 44 443 983 508 44 428 994
+rawdata/pos-2019.bmp 2 66 7 454 973 514 8 443 970
+rawdata/pos-2020.bmp 2 68 6 422 971 496 5 447 989
+rawdata/pos-2021.bmp 2 67 0 431 973 504 5 450 976
+rawdata/pos-2022.bmp 1 126 4 470 1010
+rawdata/pos-2023.bmp 1 147 7 463 971
+rawdata/pos-2024.bmp 1 75 15 776 1023
+rawdata/pos-2025.bmp 1 55 48 425 862
+rawdata/pos-2026.bmp 1 102 16 393 872
+rawdata/pos-2027.bmp 1 49 13 917 1055
+rawdata/pos-2028.bmp 1 100 5 407 871
+rawdata/pos-2029.bmp 2 57 5 458 997 499 14 455 1045
+rawdata/pos-2030.bmp 2 48 29 451 994 495 18 453 988
+rawdata/pos-2031.bmp 2 46 1 811 1084 369 213 289 486
+rawdata/pos-2032.bmp 1 28 6 739 1018
+rawdata/pos-2033.bmp 2 53 11 456 1012 510 6 460 1025
+rawdata/pos-2034.bmp 2 23 9 479 1002 474 3 552 1072
+rawdata/pos-2035.bmp 2 83 24 471 1029 537 3 474 1082
+rawdata/pos-2036.bmp 1 65 27 782 957
+rawdata/pos-2037.bmp 2 33 11 453 1091 489 28 453 1019
+rawdata/pos-2038.bmp 1 101 6 918 1058
+rawdata/pos-2039.bmp 2 70 40 441 1046 515 41 455 1016
+rawdata/pos-2040.bmp 2 56 20 441 968 485 12 436 1008
+rawdata/pos-2041.bmp 2 68 5 429 970 499 0 443 992
+rawdata/pos-2042.bmp 2 92 3 432 948 517 3 430 961
+rawdata/pos-2043.bmp 2 65 41 418 953 482 33 426 973
+rawdata/pos-2044.bmp 2 42 30 424 954 457 16 418 976
+rawdata/pos-2045.bmp 2 61 21 426 959 486 18 433 981
+rawdata/pos-2046.bmp 1 66 1 1028 1075
+rawdata/pos-2047.bmp 1 68 15 884 1073
+rawdata/pos-2048.bmp 1 72 31 749 942
+rawdata/pos-2049.bmp 1 126 6 887 1039
+rawdata/pos-2050.bmp 1 62 14 878 987
+rawdata/pos-2051.bmp 1 68 9 742 868
+rawdata/pos-2052.bmp 2 81 8 828 937 494 181 212 470
+rawdata/pos-2053.bmp 2 70 8 849 961 514 186 212 491
+rawdata/pos-2054.bmp 1 84 0 845 930
+rawdata/pos-2055.bmp 1 84 0 845 930
+rawdata/pos-2056.bmp 1 58 0 1106 1088
+rawdata/pos-2057.bmp 1 43 3 979 1096
+rawdata/pos-2058.bmp 1 98 0 938 1075
+rawdata/pos-2059.bmp 1 89 0 958 1064
+rawdata/pos-2060.bmp 1 60 7 916 1032
+rawdata/pos-2061.bmp 1 94 3 770 1023
+rawdata/pos-2062.bmp 1 169 10 487 1066
+rawdata/pos-2063.bmp 2 100 26 460 1018 550 24 446 1025
+rawdata/pos-2064.bmp 2 69 1 451 994 516 0 460 1023
+rawdata/pos-2065.bmp 2 55 6 448 995 499 7 450 1033
+rawdata/pos-2066.bmp 2 107 24 454 1016 562 27 441 1034
+rawdata/pos-2067.bmp 2 106 6 443 1020 543 3 462 1039
+rawdata/pos-2068.bmp 3 74 26 419 930 493 24 404 938 526 205 203 463
+rawdata/pos-2069.bmp 4 80 13 406 922 490 7 393 942 521 174 210 469 258 173 96 491
+rawdata/pos-2070.bmp 3 73 2 419 913 481 3 407 917 523 153 211 498
+rawdata/pos-2071.bmp 1 82 34 903 938
+rawdata/pos-2072.bmp 2 59 7 936 1065 384 540 71 89
+rawdata/pos-2073.bmp 3 53 7 417 928 472 2 415 962 495 183 207 476
+rawdata/pos-2074.bmp 1 30 10 777 1033
+rawdata/pos-2075.bmp 1 58 8 949 880
+rawdata/pos-2076.bmp 2 33 4 917 902 653 215 164 321
+rawdata/pos-2077.bmp 1 36 1 923 884
+rawdata/pos-2078.bmp 2 21 12 914 896 289 221 191 299
+rawdata/pos-2079.bmp 1 24 15 894 886
+rawdata/pos-2080.bmp 2 55 13 834 947 491 265 209 226
+rawdata/pos-2081.bmp 2 57 1 834 905 488 255 103 202
+rawdata/pos-2082.bmp 1 53 13 833 831
+rawdata/pos-2083.bmp 2 85 2 930 1060 452 519 33 82
+rawdata/pos-2084.bmp 1 60 10 885 922
+rawdata/pos-2085.bmp 1 50 9 839 902
+rawdata/pos-2086.bmp 1 25 15 820 1015
+rawdata/pos-2087.bmp 1 99 28 430 912
+rawdata/pos-2088.bmp 1 251 31 434 888
+rawdata/pos-2089.bmp 1 87 4 697 1091
+rawdata/pos-2090.bmp 1 56 83 648 708
+rawdata/pos-2091.bmp 1 79 4 958 1051
+rawdata/pos-2092.bmp 1 72 1 958 1051
+rawdata/pos-2093.bmp 1 87 4 923 1019
+rawdata/pos-2094.bmp 1 68 9 905 1019
+rawdata/pos-2095.bmp 1 81 0 944 1075
+rawdata/pos-2096.bmp 1 60 1 939 1039
+rawdata/pos-2097.bmp 1 87 5 933 1034
+rawdata/pos-2098.bmp 1 101 57 381 901
+rawdata/pos-2099.bmp 1 33 54 838 1003
+rawdata/pos-2100.bmp 1 133 18 451 947
+rawdata/pos-2101.bmp 1 89 3 510 1091
+rawdata/pos-2102.bmp 1 55 1 547 1068
+rawdata/pos-2103.bmp 2 48 2 833 904 472 232 152 181
+rawdata/pos-2104.bmp 2 31 60 785 936 407 326 150 204
+rawdata/pos-2105.bmp 1 70 11 971 1068
+rawdata/pos-2106.bmp 1 60 21 731 821
+rawdata/pos-2107.bmp 1 66 6 829 950
+rawdata/pos-2108.bmp 1 31 22 816 928
+rawdata/pos-2109.bmp 2 32 27 802 920 380 333 150 150
+rawdata/pos-2110.bmp 1 57 49 905 1030
+rawdata/pos-2111.bmp 1 45 68 837 1009
+rawdata/pos-2112.bmp 1 34 4 828 967
+rawdata/pos-2113.bmp 2 55 3 1082 1076 562 223 390 468
+rawdata/pos-2114.bmp 2 81 8 878 1031 439 184 370 450
+rawdata/pos-2115.bmp 1 78 13 877 1034
+rawdata/pos-2116.bmp 2 33 17 950 1029 329 297 160 331
+rawdata/pos-2117.bmp 1 65 0 831 981
+rawdata/pos-2118.bmp 1 80 6 814 1003
+rawdata/pos-2119.bmp 1 82 0 807 941
+rawdata/pos-2120.bmp 1 46 8 894 1080
+rawdata/pos-2121.bmp 2 99 3 909 1013 561 333 86 97
+rawdata/pos-2122.bmp 1 94 3 917 990
+rawdata/pos-2123.bmp 1 28 21 757 1049
+rawdata/pos-2124.bmp 1 72 2 926 998
+rawdata/pos-2125.bmp 1 29 13 882 989
+rawdata/pos-2126.bmp 1 107 0 886 987
+rawdata/pos-2127.bmp 1 103 11 942 1076
+rawdata/pos-2128.bmp 1 59 0 876 987
+rawdata/pos-2129.bmp 1 147 7 538 1068
+rawdata/pos-2130.bmp 2 116 1 839 941 576 316 85 97
+rawdata/pos-2131.bmp 1 34 39 908 981
+rawdata/pos-2132.bmp 1 71 4 934 1007
+rawdata/pos-2133.bmp 1 91 8 468 910
+rawdata/pos-2134.bmp 1 131 2 471 914
+rawdata/pos-2135.bmp 1 131 2 471 914
+rawdata/pos-2136.bmp 1 75 10 461 891
+rawdata/pos-2137.bmp 1 64 34 955 998
+rawdata/pos-2138.bmp 1 61 10 876 1073
+rawdata/pos-2139.bmp 2 109 13 553 1058 661 10 555 1063
+rawdata/pos-2140.bmp 2 102 21 454 970 556 20 449 961
+rawdata/pos-2141.bmp 2 101 8 442 1048 546 30 422 912
+rawdata/pos-2142.bmp 2 59 7 427 1031 480 17 419 953
+rawdata/pos-2143.bmp 2 96 14 414 1016 483 10 440 954
+rawdata/pos-2144.bmp 2 97 1 411 871 507 6 409 1024
+rawdata/pos-2145.bmp 2 82 14 411 898 487 9 408 941
+rawdata/pos-2146.bmp 2 79 78 386 859 467 79 382 864
+rawdata/pos-2147.bmp 1 78 7 1020 1090
+rawdata/pos-2148.bmp 2 65 71 385 860 441 85 401 859
+rawdata/pos-2149.bmp 1 52 7 866 1088
+rawdata/pos-2150.bmp 2 63 64 393 880 442 71 399 883
+rawdata/pos-2151.bmp 2 57 49 415 885 446 59 407 877
+rawdata/pos-2152.bmp 2 91 69 401 837 486 71 391 875
+rawdata/pos-2153.bmp 1 58 15 910 1019
+rawdata/pos-2154.bmp 1 83 19 913 1052
+rawdata/pos-2155.bmp 1 66 8 913 1042
+rawdata/pos-2156.bmp 1 117 7 800 937
+rawdata/pos-2157.bmp 1 83 4 824 951
+rawdata/pos-2158.bmp 1 51 38 797 961
+rawdata/pos-2159.bmp 1 72 10 979 1084
+rawdata/pos-2160.bmp 1 108 54 883 979
+rawdata/pos-2161.bmp 1 67 11 800 1028
+rawdata/pos-2162.bmp 1 78 13 801 950
+rawdata/pos-2163.bmp 1 103 10 808 1027
+rawdata/pos-2164.bmp 1 92 9 778 1045
+rawdata/pos-2165.bmp 1 62 43 788 960
+rawdata/pos-2166.bmp 1 211 20 390 1048
+rawdata/pos-2167.bmp 2 96 123 484 906 568 117 481 919
+rawdata/pos-2168.bmp 2 86 72 470 944 559 68 469 940
+rawdata/pos-2169.bmp 2 67 93 489 939 552 106 475 923
+rawdata/pos-2170.bmp 2 62 74 471 910 523 44 504 941
+rawdata/pos-2171.bmp 1 78 5 871 1075
+rawdata/pos-2172.bmp 1 82 15 1034 1074
+rawdata/pos-2173.bmp 2 56 22 482 968 521 22 503 983
+rawdata/pos-2174.bmp 1 25 4 1285 1074
+rawdata/pos-2175.bmp 1 50 11 1087 1087
+rawdata/pos-2176.bmp 1 58 2 1055 1061
+rawdata/pos-2177.bmp 1 54 37 982 984
+rawdata/pos-2178.bmp 1 92 2 966 1033
+rawdata/pos-2179.bmp 1 91 20 462 1049
+rawdata/pos-2180.bmp 1 121 26 498 1039
+rawdata/pos-2181.bmp 2 68 12 1098 1083 660 288 212 421
+rawdata/pos-2182.bmp 2 76 2 768 953 468 290 185 424
+rawdata/pos-2183.bmp 1 83 11 875 1073
+rawdata/pos-2184.bmp 1 74 12 1086 1074
+rawdata/pos-2185.bmp 1 111 32 826 965
+rawdata/pos-2186.bmp 1 57 2 1062 984
+rawdata/pos-2187.bmp 1 99 11 1126 1071
+rawdata/pos-2188.bmp 1 79 6 1088 1080
+rawdata/pos-2189.bmp 3 64 2 1384 1080 596 297 208 382 804 297 211 391
+rawdata/pos-2190.bmp 2 74 6 536 996 600 5 543 1004
+rawdata/pos-2191.bmp 2 50 25 549 1006 585 15 547 1028
+rawdata/pos-2192.bmp 2 58 46 542 1001 593 34 540 1020
+rawdata/pos-2193.bmp 2 59 14 510 1003 577 24 509 1012
+rawdata/pos-2194.bmp 1 69 22 895 1057
+rawdata/pos-2195.bmp 2 40 12 947 1078 211 232 340 731
+rawdata/pos-2196.bmp 1 46 25 516 1064
+rawdata/pos-2197.bmp 1 52 42 861 966
+rawdata/pos-2198.bmp 1 48 78 510 1008
+rawdata/pos-2199.bmp 1 58 11 901 1076
+rawdata/pos-2200.bmp 1 57 8 826 1034
+rawdata/pos-2201.bmp 1 35 19 838 1033
+rawdata/pos-2202.bmp 1 56 4 835 1015
+rawdata/pos-2203.bmp 1 47 11 843 1023
+rawdata/pos-2204.bmp 1 38 44 845 1040
+rawdata/pos-2205.bmp 1 110 38 855 1062
+rawdata/pos-2206.bmp 1 73 35 856 1047
+rawdata/pos-2207.bmp 1 74 23 740 1036
+rawdata/pos-2208.bmp 1 50 67 714 960
+rawdata/pos-2209.bmp 1 126 24 548 968
+rawdata/pos-2210.bmp 1 76 69 721 932
+rawdata/pos-2211.bmp 1 84 72 732 1012
+rawdata/pos-2212.bmp 1 69 88 720 948
+rawdata/pos-2213.bmp 1 61 93 712 875
+rawdata/pos-2214.bmp 1 41 137 800 896
+rawdata/pos-2215.bmp 1 44 57 809 940
+rawdata/pos-2216.bmp 1 52 48 837 948
+rawdata/pos-2217.bmp 1 49 71 822 928
+rawdata/pos-2218.bmp 1 94 99 804 923
+rawdata/pos-2219.bmp 1 118 106 791 913
+rawdata/pos-2220.bmp 2 36 67 460 1021 484 131 403 895
+rawdata/pos-2221.bmp 1 51 22 399 1035
+rawdata/pos-2222.bmp 1 87 58 511 959
+rawdata/pos-2223.bmp 2 189 74 419 953 605 118 386 872
+rawdata/pos-2224.bmp 2 137 171 380 873 515 161 381 890
+rawdata/pos-2225.bmp 2 126 117 391 877 517 55 389 961
+rawdata/pos-2226.bmp 2 102 74 383 877 489 24 386 952
+rawdata/pos-2227.bmp 1 55 37 930 1049
+rawdata/pos-2228.bmp 2 183 73 380 890 559 71 379 877
+rawdata/pos-2229.bmp 2 242 114 385 861 603 13 462 1062
+rawdata/pos-2230.bmp 2 207 108 385 877 576 33 386 1016
+rawdata/pos-2231.bmp 2 244 2 407 1087 659 74 390 951
+rawdata/pos-2232.bmp 2 103 22 382 1005 475 53 401 935
+rawdata/pos-2233.bmp 1 79 29 907 1038
+rawdata/pos-2234.bmp 1 118 2 491 977
+rawdata/pos-2235.bmp 1 149 3 793 937
+rawdata/pos-2236.bmp 1 185 86 597 842
+rawdata/pos-2237.bmp 1 154 9 655 992
+rawdata/pos-2238.bmp 1 45 9 924 891
+rawdata/pos-2239.bmp 1 153 10 678 1044
+rawdata/pos-2240.bmp 1 147 6 714 1038
+rawdata/pos-2241.bmp 1 182 41 673 1000
+rawdata/pos-2242.bmp 1 58 25 763 1043
+rawdata/pos-2243.bmp 1 39 14 772 1065
+rawdata/pos-2244.bmp 1 70 12 767 1041
+rawdata/pos-2245.bmp 1 60 21 756 1011
+rawdata/pos-2246.bmp 1 168 5 510 982
+rawdata/pos-2247.bmp 1 92 20 730 1010
+rawdata/pos-2248.bmp 1 52 9 880 1000
+rawdata/pos-2249.bmp 1 70 16 817 1019
+rawdata/pos-2250.bmp 1 49 4 988 1102
+rawdata/pos-2251.bmp 1 52 4 927 1070
+rawdata/pos-2252.bmp 2 67 1 1098 1085 368 259 250 567
+rawdata/pos-2253.bmp 1 61 9 966 1081
+rawdata/pos-2254.bmp 1 87 2 949 1075
+rawdata/pos-2255.bmp 1 86 1 582 1041
+rawdata/pos-2256.bmp 1 89 14 597 1077
+rawdata/pos-2257.bmp 1 76 7 561 1120
+rawdata/pos-2258.bmp 1 78 38 767 1004
+rawdata/pos-2259.bmp 3 147 6 589 1116 728 10 508 973 318 132 315 703
+rawdata/pos-2260.bmp 1 87 19 809 1019
+rawdata/pos-2261.bmp 2 79 20 476 1054 545 22 553 1036
+rawdata/pos-2262.bmp 2 128 16 474 1015 593 11 547 982
+rawdata/pos-2263.bmp 2 128 12 481 996 596 7 631 1083
+rawdata/pos-2264.bmp 2 99 0 474 1000 581 9 498 1084
+rawdata/pos-2265.bmp 1 99 13 675 1069
+rawdata/pos-2266.bmp 1 126 25 681 1049
+rawdata/pos-2267.bmp 1 101 5 659 1065
+rawdata/pos-2268.bmp 1 54 54 936 1013
+rawdata/pos-2269.bmp 1 47 23 907 1043
+rawdata/pos-2270.bmp 1 47 63 740 1010
+rawdata/pos-2271.bmp 1 92 68 819 951
+rawdata/pos-2272.bmp 1 38 50 900 994
+rawdata/pos-2273.bmp 1 47 61 939 1014
+rawdata/pos-2274.bmp 1 34 84 933 1003
+rawdata/pos-2275.bmp 1 110 63 473 991
+rawdata/pos-2276.bmp 1 99 11 474 997
+rawdata/pos-2277.bmp 1 102 76 452 969
+rawdata/pos-2278.bmp 1 49 23 870 855
+rawdata/pos-2279.bmp 2 137 92 874 885 594 243 291 599
+rawdata/pos-2280.bmp 1 69 115 870 933
+rawdata/pos-2281.bmp 1 30 45 950 983
+rawdata/pos-2282.bmp 1 70 114 701 910
+rawdata/pos-2283.bmp 1 89 19 810 1064
+rawdata/pos-2284.bmp 1 96 51 905 967
+rawdata/pos-2285.bmp 2 62 67 451 970 510 87 457 941
+rawdata/pos-2286.bmp 2 51 130 468 935 510 129 457 936
+rawdata/pos-2287.bmp 2 63 110 455 958 499 110 466 949
+rawdata/pos-2288.bmp 2 80 95 453 970 520 85 471 977
+rawdata/pos-2289.bmp 2 44 103 461 942 482 99 448 948
+rawdata/pos-2290.bmp 1 33 115 776 891
+rawdata/pos-2291.bmp 1 96 80 877 972
+rawdata/pos-2292.bmp 1 61 67 858 996
+rawdata/pos-2293.bmp 1 97 22 757 955
+rawdata/pos-2294.bmp 1 57 86 786 969
+rawdata/pos-2295.bmp 1 62 10 929 1068
+rawdata/pos-2296.bmp 1 95 5 973 1070
+rawdata/pos-2297.bmp 1 59 15 965 1066
+rawdata/pos-2298.bmp 1 86 8 951 1070
+rawdata/pos-2299.bmp 1 90 9 577 1090
+rawdata/pos-2300.bmp 1 134 36 484 1039
+rawdata/pos-2301.bmp 1 101 31 485 1008
+rawdata/pos-2302.bmp 1 76 16 566 1085
+rawdata/pos-2303.bmp 1 66 5 557 1086
+rawdata/pos-2304.bmp 1 255 12 543 1091
+rawdata/pos-2305.bmp 1 79 67 702 895
+rawdata/pos-2306.bmp 1 94 17 491 1065
+rawdata/pos-2307.bmp 1 58 10 553 1077
+rawdata/pos-2308.bmp 1 98 6 778 1066
+rawdata/pos-2309.bmp 1 91 8 537 1077
+rawdata/pos-2310.bmp 1 117 4 584 1019
+rawdata/pos-2311.bmp 1 49 21 907 924
+rawdata/pos-2312.bmp 1 94 150 855 899
+rawdata/pos-2313.bmp 1 67 174 879 870
+rawdata/pos-2314.bmp 1 46 72 923 970
+rawdata/pos-2315.bmp 1 59 86 836 918
+rawdata/pos-2316.bmp 1 68 145 684 805
+rawdata/pos-2317.bmp 1 79 29 946 1031
+rawdata/pos-2318.bmp 1 64 41 936 1000
+rawdata/pos-2319.bmp 2 77 35 925 960 638 343 91 182
+rawdata/pos-2320.bmp 1 73 16 796 1048
+rawdata/pos-2321.bmp 1 70 14 903 960
+rawdata/pos-2322.bmp 1 19 10 923 917
+rawdata/pos-2323.bmp 2 77 22 572 1065 623 9 574 1067
+rawdata/pos-2324.bmp 2 62 66 535 1011 595 41 571 1040
+rawdata/pos-2325.bmp 2 75 74 518 998 598 66 571 1009
+rawdata/pos-2326.bmp 2 51 25 573 1041 597 11 580 1082
+rawdata/pos-2327.bmp 1 84 22 793 931
+rawdata/pos-2328.bmp 2 33 21 578 1059 586 16 559 1072
+rawdata/pos-2329.bmp 1 72 2 950 1027
+rawdata/pos-2330.bmp 1 89 66 885 972
+rawdata/pos-2331.bmp 1 81 65 890 906
+rawdata/pos-2332.bmp 1 52 10 808 1088
+rawdata/pos-2333.bmp 1 29 59 926 971
+rawdata/pos-2334.bmp 1 83 40 904 1050
+rawdata/pos-2335.bmp 1 76 80 895 973
+rawdata/pos-2336.bmp 1 54 27 582 899
+rawdata/pos-2337.bmp 1 49 12 611 1080
+rawdata/pos-2338.bmp 1 44 38 741 924
+rawdata/pos-2339.bmp 1 132 9 690 1097
+rawdata/pos-2340.bmp 1 141 13 557 989
+rawdata/pos-2341.bmp 1 70 42 562 1005
+rawdata/pos-2342.bmp 1 72 45 546 1011
+rawdata/pos-2343.bmp 1 91 32 798 1023
+rawdata/pos-2344.bmp 1 30 13 424 1052
+rawdata/pos-2345.bmp 2 33 13 347 903 381 31 355 885
+rawdata/pos-2346.bmp 1 164 24 730 1033
+rawdata/pos-2347.bmp 1 105 13 809 1103
+rawdata/pos-2348.bmp 1 86 8 821 1077
+rawdata/pos-2349.bmp 1 62 9 839 1016
+rawdata/pos-2350.bmp 1 64 24 1193 1043
+rawdata/pos-2351.bmp 1 81 20 1175 1053
+rawdata/pos-2352.bmp 1 45 28 1207 1051
+rawdata/pos-2353.bmp 1 32 31 1028 1008
+rawdata/pos-2354.bmp 1 145 7 1034 990
+rawdata/pos-2355.bmp 1 62 25 1141 1074
+rawdata/pos-2356.bmp 1 47 1 1218 1094
+rawdata/pos-2357.bmp 2 57 58 337 868 385 43 360 901
+rawdata/pos-2358.bmp 1 64 1 1130 1087
+rawdata/pos-2359.bmp 1 15 21 1026 1033
+rawdata/pos-2360.bmp 1 39 19 562 1039
+rawdata/pos-2361.bmp 1 41 12 1066 1075
+rawdata/pos-2362.bmp 1 23 6 1009 1094
+rawdata/pos-2363.bmp 1 55 12 1004 1048
+rawdata/pos-2364.bmp 1 87 13 962 992
+rawdata/pos-2365.bmp 1 50 31 993 1070
+rawdata/pos-2366.bmp 1 84 3 1150 1076
+rawdata/pos-2367.bmp 3 32 26 479 1001 513 19 516 1024 569 239 229 479
+rawdata/pos-2368.bmp 2 61 40 497 995 545 20 484 1037
+rawdata/pos-2369.bmp 2 57 13 351 876 406 7 343 898
+rawdata/pos-2370.bmp 2 50 32 487 985 528 18 497 994
+rawdata/pos-2371.bmp 1 33 22 853 971
+rawdata/pos-2372.bmp 2 50 44 477 1011 530 25 487 1041
+rawdata/pos-2373.bmp 2 42 26 513 999 562 38 468 1003
+rawdata/pos-2374.bmp 2 74 48 500 1012 564 45 489 994
+rawdata/pos-2375.bmp 2 91 35 494 984 581 29 481 986
+rawdata/pos-2376.bmp 2 57 34 509 991 553 16 484 988
+rawdata/pos-2377.bmp 2 46 1 517 1018 551 5 474 1008
+rawdata/pos-2378.bmp 2 61 13 511 998 548 0 497 1006
+rawdata/pos-2379.bmp 2 66 11 522 1032 577 36 488 1018
+rawdata/pos-2380.bmp 2 78 6 494 1112 572 16 459 1009
+rawdata/pos-2381.bmp 2 68 31 795 1092 480 372 123 294
+rawdata/pos-2382.bmp 1 56 4 842 1004
+rawdata/pos-2383.bmp 2 29 54 497 1024 525 27 509 1069
+rawdata/pos-2384.bmp 2 56 52 490 1042 547 8 475 1104
+rawdata/pos-2385.bmp 3 47 37 469 1000 534 49 431 953 268 250 207 461
+rawdata/pos-2386.bmp 2 87 17 458 969 544 39 427 948
+rawdata/pos-2387.bmp 2 51 16 465 973 520 26 448 962
+rawdata/pos-2388.bmp 2 33 17 455 974 472 4 495 957
+rawdata/pos-2389.bmp 2 39 14 466 988 489 5 471 978
+rawdata/pos-2390.bmp 1 149 5 500 1068
+rawdata/pos-2391.bmp 1 105 5 514 1039
+rawdata/pos-2392.bmp 1 51 10 583 1067
+rawdata/pos-2393.bmp 1 62 11 814 1018
+rawdata/pos-2394.bmp 1 131 2 774 985
+rawdata/pos-2395.bmp 1 71 3 552 1098
+rawdata/pos-2396.bmp 1 82 18 569 1135
+rawdata/pos-2397.bmp 1 99 22 599 1014
+rawdata/pos-2398.bmp 1 38 7 616 1108
+rawdata/pos-2399.bmp 1 48 11 578 1097
+rawdata/pos-2400.bmp 1 69 31 557 1019
+rawdata/pos-2401.bmp 1 83 21 547 1023
+rawdata/pos-2402.bmp 1 67 16 554 1039
+rawdata/pos-2403.bmp 2 103 85 357 817 481 88 367 832
+rawdata/pos-2404.bmp 1 120 8 762 923
+rawdata/pos-2405.bmp 1 39 21 827 1053
+rawdata/pos-2406.bmp 3 30 92 420 877 450 108 376 856 236 276 166 369
+rawdata/pos-2407.bmp 1 93 7 775 1081
+rawdata/pos-2408.bmp 2 46 107 413 837 445 95 410 841
+rawdata/pos-2409.bmp 2 42 102 401 852 446 112 389 857
+rawdata/pos-2410.bmp 2 36 116 421 835 438 98 405 849
+rawdata/pos-2411.bmp 2 50 119 437 847 468 114 375 861
+rawdata/pos-2412.bmp 1 58 188 864 901
+rawdata/pos-2413.bmp 1 60 178 809 935
+rawdata/pos-2414.bmp 1 115 141 847 951
+rawdata/pos-2415.bmp 2 77 178 396 906 473 183 384 884
+rawdata/pos-2416.bmp 1 58 59 828 1022
+rawdata/pos-2417.bmp 1 422 82 438 1027
+rawdata/pos-2418.bmp 1 370 53 400 990
+rawdata/pos-2419.bmp 1 377 26 453 1019
+rawdata/pos-2420.bmp 1 445 40 407 928
+rawdata/pos-2421.bmp 1 51 68 475 1000
+rawdata/pos-2422.bmp 1 71 60 424 924
+rawdata/pos-2423.bmp 1 55 1 1042 1099
+rawdata/pos-2424.bmp 1 55 11 1064 1085
+rawdata/pos-2425.bmp 1 30 12 1057 1069
+rawdata/pos-2426.bmp 1 84 13 1034 1074
+rawdata/pos-2427.bmp 1 55 64 812 1039
+rawdata/pos-2428.bmp 1 82 8 1027 1092
+rawdata/pos-2429.bmp 1 75 38 593 1063
+rawdata/pos-2430.bmp 1 55 48 580 1054
+rawdata/pos-2431.bmp 1 43 74 518 990
+rawdata/pos-2432.bmp 1 42 33 587 1052
+rawdata/pos-2433.bmp 1 117 11 585 1067
+rawdata/pos-2434.bmp 1 63 32 607 1045
+rawdata/pos-2435.bmp 1 108 12 629 1072
+rawdata/pos-2436.bmp 1 27 126 899 944
+rawdata/pos-2437.bmp 1 63 35 815 1038
+rawdata/pos-2438.bmp 1 52 55 820 1016
+rawdata/pos-2439.bmp 1 28 15 835 1000
+rawdata/pos-2440.bmp 1 47 11 876 1052
+rawdata/pos-2441.bmp 1 73 7 866 1065
+rawdata/pos-2442.bmp 1 144 15 795 1040
+rawdata/pos-2443.bmp 1 63 12 506 1072
+rawdata/pos-2444.bmp 1 52 10 821 1032
+rawdata/pos-2445.bmp 1 60 22 855 999
+rawdata/pos-2446.bmp 1 33 15 864 1023
+rawdata/pos-2447.bmp 1 62 17 847 1013
+rawdata/pos-2448.bmp 1 86 13 812 1032
+rawdata/pos-2449.bmp 1 56 15 828 999
+rawdata/pos-2450.bmp 1 58 28 818 1048
+rawdata/pos-2451.bmp 1 60 39 804 1024
+rawdata/pos-2452.bmp 1 138 95 834 1042
+rawdata/pos-2453.bmp 1 60 10 827 1066
+rawdata/pos-2454.bmp 2 102 24 572 1048 669 11 555 1058
+rawdata/pos-2455.bmp 1 90 12 434 1022
+rawdata/pos-2456.bmp 2 47 15 579 1046 594 11 555 1031
+rawdata/pos-2457.bmp 2 85 19 552 1029 632 6 540 1016
+rawdata/pos-2458.bmp 2 75 16 566 979 607 1 529 1004
+rawdata/pos-2459.bmp 1 74 59 1046 988
+rawdata/pos-2460.bmp 1 60 70 770 918
+rawdata/pos-2461.bmp 1 40 22 957 1054
+rawdata/pos-2462.bmp 1 30 44 938 925
+rawdata/pos-2463.bmp 1 40 16 953 904
+rawdata/pos-2464.bmp 1 59 59 958 948
+rawdata/pos-2465.bmp 1 45 30 958 1011
+rawdata/pos-2466.bmp 1 83 4 587 1005
+rawdata/pos-2467.bmp 1 49 37 402 1027
+rawdata/pos-2468.bmp 1 103 24 403 924
+rawdata/pos-2469.bmp 1 87 27 493 1029
+rawdata/pos-2470.bmp 1 99 5 620 1075
+rawdata/pos-2471.bmp 1 73 23 772 931
+rawdata/pos-2472.bmp 1 64 42 560 1014
+rawdata/pos-2473.bmp 1 73 58 409 845
+rawdata/pos-2475.bmp 1 175 3 590 1082
+rawdata/pos-2476.bmp 1 106 19 534 1104
+rawdata/pos-2477.bmp 2 97 0 626 1126 286 298 274 577
+rawdata/pos-2478.bmp 1 64 6 615 1090
+rawdata/pos-2479.bmp 1 52 18 517 1118
+rawdata/pos-2480.bmp 1 131 10 498 1078
+rawdata/pos-2481.bmp 1 96 50 510 1044
+rawdata/pos-2482.bmp 1 221 8 485 1057
+rawdata/pos-2483.bmp 1 49 9 618 1066
+rawdata/pos-2484.bmp 1 87 19 596 1066
+rawdata/pos-2485.bmp 1 70 4 624 1058
+rawdata/pos-2486.bmp 1 66 88 485 955
+rawdata/pos-2487.bmp 1 22 40 500 999
+rawdata/pos-2488.bmp 1 47 102 498 875
+rawdata/pos-2489.bmp 1 60 18 547 1078
+rawdata/pos-2490.bmp 1 61 52 562 1025
+rawdata/pos-2491.bmp 1 120 64 475 942
+rawdata/pos-2492.bmp 1 179 28 455 1069
+rawdata/pos-2493.bmp 1 63 15 919 1032
+rawdata/pos-2494.bmp 1 61 7 1068 1095
+rawdata/pos-2495.bmp 1 74 12 891 1055
+rawdata/pos-2496.bmp 1 113 33 886 990
+rawdata/pos-2497.bmp 1 79 60 893 992
+rawdata/pos-2498.bmp 1 95 44 907 1001
+rawdata/pos-2499.bmp 1 108 1 922 996
+rawdata/pos-2500.bmp 1 99 7 881 1090
+rawdata/pos-2501.bmp 1 77 15 891 1011
+rawdata/pos-2502.bmp 1 113 6 896 1018
+rawdata/pos-2503.bmp 1 74 5 945 1012
+rawdata/pos-2504.bmp 1 212 3 933 1023
+rawdata/pos-2505.bmp 1 84 6 454 1087
+rawdata/pos-2506.bmp 1 63 0 881 1095
+rawdata/pos-2507.bmp 1 68 3 876 967
+rawdata/pos-2508.bmp 1 101 10 498 1022
+rawdata/pos-2509.bmp 1 77 64 704 910
+rawdata/pos-2510.bmp 1 58 30 802 1040
+rawdata/pos-2511.bmp 1 77 32 822 990
+rawdata/pos-2512.bmp 1 112 19 838 1037
+rawdata/pos-2513.bmp 1 90 19 836 1043
+rawdata/pos-2514.bmp 1 121 15 823 968
+rawdata/pos-2515.bmp 1 88 18 800 1042
+rawdata/pos-2516.bmp 1 129 42 881 1040
+rawdata/pos-2517.bmp 1 67 7 897 1073
+rawdata/pos-2518.bmp 1 73 54 465 986
+rawdata/pos-2519.bmp 1 92 6 923 1062
+rawdata/pos-2520.bmp 1 6 5 924 1081
+rawdata/pos-2521.bmp 1 47 21 934 1073
+rawdata/pos-2522.bmp 1 61 31 938 1067
+rawdata/pos-2523.bmp 1 70 5 887 1056
+rawdata/pos-2524.bmp 1 51 1 908 1074
+rawdata/pos-2525.bmp 1 111 10 872 1084
+rawdata/pos-2526.bmp 1 83 9 821 1061
+rawdata/pos-2527.bmp 2 40 9 498 1080 533 7 490 1087
+rawdata/pos-2528.bmp 1 97 1 800 1051
+rawdata/pos-2529.bmp 1 87 30 778 971
+rawdata/pos-2530.bmp 1 37 46 428 992
+rawdata/pos-2531.bmp 1 79 25 897 1059
+rawdata/pos-2532.bmp 1 67 11 935 1081
+rawdata/pos-2533.bmp 1 26 17 1022 1100
+rawdata/pos-2534.bmp 1 183 33 986 1082
+rawdata/pos-2535.bmp 1 64 28 419 929
+rawdata/pos-2536.bmp 1 89 23 480 1005
+rawdata/pos-2537.bmp 1 131 8 563 1067
+rawdata/pos-2538.bmp 1 57 7 980 1092
+rawdata/pos-2539.bmp 1 71 78 389 841
+rawdata/pos-2540.bmp 1 30 25 1012 977
+rawdata/pos-2541.bmp 1 40 48 416 832
+rawdata/pos-2542.bmp 1 69 14 406 826
+rawdata/pos-2543.bmp 1 103 34 556 1081
+rawdata/pos-2544.bmp 1 85 28 535 1084
+rawdata/pos-2545.bmp 1 88 8 521 1062
+rawdata/pos-2546.bmp 1 51 18 922 1023
+rawdata/pos-2547.bmp 1 91 16 862 984
+rawdata/pos-2548.bmp 1 112 18 848 992
+rawdata/pos-2549.bmp 2 60 6 464 1070 526 2 462 1084
+rawdata/pos-2550.bmp 1 97 19 774 950
+rawdata/pos-2551.bmp 1 93 49 772 873
+rawdata/pos-2552.bmp 1 36 43 957 938
+rawdata/pos-2553.bmp 2 68 83 757 958 312 333 269 310
+rawdata/pos-2554.bmp 1 55 27 746 886
+rawdata/pos-2555.bmp 2 58 4 955 1079 435 492 118 135
+rawdata/pos-2556.bmp 2 80 37 916 994 423 473 117 138
+rawdata/pos-2557.bmp 2 84 3 900 1025 425 451 113 135
+rawdata/pos-2558.bmp 2 88 1 907 1038 425 456 108 133
+rawdata/pos-2559.bmp 1 70 2 917 1012
+rawdata/pos-2560.bmp 2 70 7 479 1100 555 2 480 1093
+rawdata/pos-2561.bmp 1 59 5 899 1031
+rawdata/pos-2562.bmp 1 51 19 484 1066
+rawdata/pos-2563.bmp 1 58 12 460 1001
+rawdata/pos-2564.bmp 1 47 35 930 965
+rawdata/pos-2565.bmp 1 40 10 448 960
+rawdata/pos-2566.bmp 1 77 47 698 964
+rawdata/pos-2567.bmp 1 121 84 710 949
+rawdata/pos-2568.bmp 1 29 23 704 941
+rawdata/pos-2569.bmp 1 26 27 712 973
+rawdata/pos-2570.bmp 3 95 98 731 910 389 482 168 196 454 522 74 90
+rawdata/pos-2571.bmp 2 124 18 377 945 498 35 400 921
+rawdata/pos-2572.bmp 3 139 117 661 917 327 493 166 196 383 530 77 95
+rawdata/pos-2573.bmp 2 165 95 667 917 411 495 75 85
+rawdata/pos-2574.bmp 1 167 91 657 855
+rawdata/pos-2575.bmp 1 166 111 657 813
+rawdata/pos-2576.bmp 2 113 6 388 913 510 16 381 942
+rawdata/pos-2577.bmp 2 105 36 403 977 520 52 418 966
+rawdata/pos-2578.bmp 1 62 37 896 969
+rawdata/pos-2579.bmp 2 89 2 402 987 489 12 435 986
+rawdata/pos-2580.bmp 2 72 18 872 1063 322 341 341 408
+rawdata/pos-2581.bmp 3 50 17 426 1013 480 27 435 1020 615 301 118 270
+rawdata/pos-2582.bmp 2 45 2 443 1006 492 4 415 1018
+rawdata/pos-2583.bmp 2 109 10 474 1074 599 9 514 1101
+rawdata/pos-2584.bmp 2 89 8 505 1107 602 9 530 1084
+rawdata/pos-2585.bmp 2 95 9 518 1083 604 10 498 1056
+rawdata/pos-2586.bmp 2 151 10 498 1035 646 7 538 1095
+rawdata/pos-2587.bmp 1 130 36 919 1055
+rawdata/pos-2588.bmp 1 118 26 873 1031
+rawdata/pos-2589.bmp 1 87 40 876 1021
+rawdata/pos-2590.bmp 1 70 49 855 917
+rawdata/pos-2591.bmp 1 110 24 760 923
+rawdata/pos-2592.bmp 1 66 45 822 990
+rawdata/pos-2593.bmp 1 42 53 859 1021
+rawdata/pos-2594.bmp 1 113 50 854 1018
+rawdata/pos-2595.bmp 1 146 5 438 1006
+rawdata/pos-2596.bmp 1 129 9 479 1028
+rawdata/pos-2597.bmp 1 142 5 489 1013
+rawdata/pos-2598.bmp 2 55 6 486 1054 244 244 176 374
+rawdata/pos-2599.bmp 1 87 11 426 994
+rawdata/pos-2600.bmp 1 98 16 419 931
+rawdata/pos-2601.bmp 1 50 56 804 1021
+rawdata/pos-2602.bmp 1 106 61 795 918
+rawdata/pos-2603.bmp 1 60 40 855 945
+rawdata/pos-2604.bmp 1 100 62 634 862
+rawdata/pos-2605.bmp 1 98 112 624 864
+rawdata/pos-2606.bmp 1 20 4 721 1017
+rawdata/pos-2607.bmp 1 5 6 716 1018
+rawdata/pos-2608.bmp 1 8 12 717 989
+rawdata/pos-2609.bmp 1 29 5 503 1031
+rawdata/pos-2610.bmp 1 25 10 467 964
+rawdata/pos-2611.bmp 1 49 1 519 1063
+rawdata/pos-2612.bmp 1 70 4 525 1069
+rawdata/pos-2613.bmp 1 75 49 398 985
+rawdata/pos-2614.bmp 1 66 71 795 988
+rawdata/pos-2615.bmp 1 88 16 532 1040
+rawdata/pos-2616.bmp 1 51 52 818 931
+rawdata/pos-2617.bmp 1 91 20 520 984
+rawdata/pos-2618.bmp 1 42 36 837 857
+rawdata/pos-2619.bmp 1 70 22 561 1025
+rawdata/pos-2620.bmp 1 53 15 441 1008
+rawdata/pos-2621.bmp 1 97 37 469 953
+rawdata/pos-2622.bmp 1 81 30 459 1054
+rawdata/pos-2623.bmp 1 71 15 479 1059
+rawdata/pos-2624.bmp 1 78 29 470 1035
+rawdata/pos-2625.bmp 1 62 35 772 965
+rawdata/pos-2626.bmp 2 80 42 420 916 479 40 463 950
+rawdata/pos-2627.bmp 2 33 26 404 853 429 20 428 875
+rawdata/pos-2628.bmp 1 39 41 379 949
+rawdata/pos-2629.bmp 1 44 91 884 930
+rawdata/pos-2630.bmp 2 87 31 389 851 472 36 404 857
+rawdata/pos-2631.bmp 2 80 44 413 846 468 44 430 849
+rawdata/pos-2632.bmp 2 60 70 425 864 472 69 436 848
+rawdata/pos-2633.bmp 2 69 74 409 853 467 72 393 876
+rawdata/pos-2634.bmp 2 67 54 405 825 453 27 403 874
+rawdata/pos-2635.bmp 2 117 57 378 840 491 49 404 866
+rawdata/pos-2636.bmp 1 138 49 775 985
+rawdata/pos-2637.bmp 1 58 52 788 871
+rawdata/pos-2638.bmp 1 162 41 760 842
+rawdata/pos-2639.bmp 1 139 33 772 824
+rawdata/pos-2640.bmp 1 75 83 796 872
+rawdata/pos-2641.bmp 1 85 79 844 908
+rawdata/pos-2642.bmp 1 69 55 802 899
+rawdata/pos-2643.bmp 1 82 61 788 852
+rawdata/pos-2644.bmp 1 88 12 503 1061
+rawdata/pos-2645.bmp 1 76 20 864 981
+rawdata/pos-2646.bmp 2 38 13 858 994 165 187 299 642
+rawdata/pos-2647.bmp 1 74 43 902 952
+rawdata/pos-2648.bmp 1 73 11 836 994
+rawdata/pos-2649.bmp 1 77 24 855 983
+rawdata/pos-2650.bmp 1 106 40 843 987
+rawdata/pos-2651.bmp 1 70 42 839 1000
+rawdata/pos-2652.bmp 1 113 16 838 982
+rawdata/pos-2653.bmp 1 127 48 812 863
+rawdata/pos-2654.bmp 1 140 21 815 967
+rawdata/pos-2655.bmp 2 101 45 830 963 514 336 228 262
+rawdata/pos-2656.bmp 1 92 39 780 895
+rawdata/pos-2657.bmp 1 75 28 855 920
+rawdata/pos-2658.bmp 1 101 50 710 942
+rawdata/pos-2659.bmp 1 99 60 789 895
+rawdata/pos-2660.bmp 1 95 20 815 910
+rawdata/pos-2661.bmp 1 86 17 838 988
+rawdata/pos-2662.bmp 1 70 66 887 964
+rawdata/pos-2663.bmp 1 74 42 808 894
+rawdata/pos-2664.bmp 1 91 45 793 888
+rawdata/pos-2665.bmp 1 144 24 737 974
+rawdata/pos-2666.bmp 1 89 16 805 891
+rawdata/pos-2667.bmp 1 136 96 798 899
+rawdata/pos-2668.bmp 2 86 14 429 948 513 17 435 949
+rawdata/pos-2669.bmp 1 51 82 764 905
+rawdata/pos-2670.bmp 2 55 23 436 958 482 19 446 976
+rawdata/pos-2671.bmp 2 70 61 426 971 496 60 426 963
+rawdata/pos-2672.bmp 2 79 13 440 952 510 24 444 942
+rawdata/pos-2673.bmp 2 71 7 420 978 508 22 436 945
+rawdata/pos-2674.bmp 2 74 7 427 934 507 13 446 952
+rawdata/pos-2675.bmp 1 115 12 491 997
+rawdata/pos-2676.bmp 1 150 12 465 994
+rawdata/pos-2677.bmp 1 78 18 749 965
+rawdata/pos-2678.bmp 1 63 56 418 865
+rawdata/pos-2679.bmp 1 99 9 397 869
+rawdata/pos-2680.bmp 3 55 26 909 1027 320 506 140 154 365 549 66 76
+rawdata/pos-2681.bmp 1 97 9 413 877
+rawdata/pos-2682.bmp 1 51 14 903 1034
+rawdata/pos-2683.bmp 1 48 27 890 954
+rawdata/pos-2684.bmp 1 51 16 779 1004
+rawdata/pos-2685.bmp 1 10 9 740 935
+rawdata/pos-2686.bmp 1 70 18 888 1035
+rawdata/pos-2687.bmp 2 45 18 459 978 477 23 499 1029
+rawdata/pos-2688.bmp 2 106 58 453 969 540 35 449 1017
+rawdata/pos-2689.bmp 1 85 42 740 924
+rawdata/pos-2690.bmp 2 40 30 437 998 485 52 436 995
+rawdata/pos-2691.bmp 1 113 15 909 1052
+rawdata/pos-2692.bmp 2 86 53 424 986 516 45 426 1000
+rawdata/pos-2693.bmp 2 82 33 418 958 480 39 433 927
+rawdata/pos-2694.bmp 2 95 23 411 938 504 20 389 938
+rawdata/pos-2695.bmp 2 108 16 419 931 528 13 401 918
+rawdata/pos-2696.bmp 2 75 51 404 927 485 50 402 952
+rawdata/pos-2697.bmp 2 52 42 413 930 468 42 397 930
+rawdata/pos-2698.bmp 2 79 36 409 938 482 42 397 940
+rawdata/pos-2699.bmp 1 95 16 978 994
+rawdata/pos-2700.bmp 1 85 23 859 965
+rawdata/pos-2701.bmp 1 75 28 724 944
+rawdata/pos-2702.bmp 1 138 8 866 1026
+rawdata/pos-2703.bmp 1 73 21 855 981
+rawdata/pos-2704.bmp 1 86 35 709 799
+rawdata/pos-2705.bmp 2 84 15 814 907 499 196 206 437
+rawdata/pos-2706.bmp 2 79 9 829 931 519 204 200 461
+rawdata/pos-2707.bmp 1 90 8 814 898
+rawdata/pos-2708.bmp 1 95 16 813 935
+rawdata/pos-2709.bmp 2 71 13 1100 1161 549 386 113 129
+rawdata/pos-2710.bmp 2 39 15 998 1061 403 367 106 116
+rawdata/pos-2711.bmp 1 92 7 945 1064
+rawdata/pos-2712.bmp 1 108 8 893 1036
+rawdata/pos-2713.bmp 1 80 22 890 1011
+rawdata/pos-2714.bmp 1 104 44 745 906
+rawdata/pos-2715.bmp 1 185 17 458 1029
+rawdata/pos-2716.bmp 2 109 48 453 963 547 40 451 988
+rawdata/pos-2717.bmp 2 75 20 448 947 514 18 448 988
+rawdata/pos-2718.bmp 2 57 10 446 981 498 16 450 970
+rawdata/pos-2719.bmp 2 113 32 450 988 561 40 452 1024
+rawdata/pos-2720.bmp 2 103 15 448 997 554 10 449 1024
+rawdata/pos-2721.bmp 3 94 38 405 924 502 34 384 913 526 212 211 458
+rawdata/pos-2722.bmp 3 79 25 412 907 495 20 379 926 525 195 214 450
+rawdata/pos-2723.bmp 3 95 11 391 902 490 13 384 900 530 173 206 448
+rawdata/pos-2724.bmp 2 95 50 444 888 546 61 400 910
+rawdata/pos-2725.bmp 3 63 21 921 1033 343 500 141 167 389 542 68 80
+rawdata/pos-2726.bmp 3 60 13 415 926 480 19 392 929 501 204 216 452
+rawdata/pos-2727.bmp 1 68 41 719 965
+rawdata/pos-2728.bmp 1 76 35 898 870
+rawdata/pos-2729.bmp 2 48 4 863 898 651 218 159 305
+rawdata/pos-2730.bmp 1 49 13 884 855
+rawdata/pos-2731.bmp 1 34 23 875 871
+rawdata/pos-2732.bmp 1 24 13 902 883
+rawdata/pos-2733.bmp 2 72 40 810 800 499 262 177 207
+rawdata/pos-2734.bmp 2 69 28 815 838 490 264 92 198
+rawdata/pos-2735.bmp 1 66 26 801 820
+rawdata/pos-2736.bmp 1 124 16 897 1028
+rawdata/pos-2737.bmp 1 97 31 848 836
+rawdata/pos-2738.bmp 1 65 17 821 831
+rawdata/pos-2739.bmp 1 41 23 800 978
+rawdata/pos-2740.bmp 1 83 13 459 913
+rawdata/pos-2741.bmp 1 264 42 416 868
+rawdata/pos-2742.bmp 1 106 11 676 1022
+rawdata/pos-2743.bmp 1 68 98 613 688
+rawdata/pos-2744.bmp 1 88 21 948 1040
+rawdata/pos-2745.bmp 1 84 15 934 1023
+rawdata/pos-2746.bmp 1 109 9 927 1011
+rawdata/pos-2747.bmp 1 70 14 922 1022
+rawdata/pos-2748.bmp 1 86 13 912 1033
+rawdata/pos-2749.bmp 1 65 17 933 999
+rawdata/pos-2750.bmp 1 93 27 923 995
+rawdata/pos-2751.bmp 1 107 68 378 888
+rawdata/pos-2752.bmp 1 59 42 811 977
+rawdata/pos-2753.bmp 1 138 36 427 937
+rawdata/pos-2754.bmp 1 104 14 491 1077
+rawdata/pos-2755.bmp 1 77 10 504 1049
+rawdata/pos-2756.bmp 1 72 11 808 852
+rawdata/pos-2757.bmp 1 51 90 767 881
+rawdata/pos-2758.bmp 1 93 40 941 1023
+rawdata/pos-2759.bmp 1 57 37 721 782
+rawdata/pos-2760.bmp 1 87 25 798 823
+rawdata/pos-2761.bmp 1 31 32 831 916
+rawdata/pos-2762.bmp 1 36 36 797 902
+rawdata/pos-2763.bmp 1 68 64 885 988
+rawdata/pos-2764.bmp 1 54 63 818 1000
+rawdata/pos-2765.bmp 1 43 14 820 927
+rawdata/pos-2766.bmp 2 63 7 1055 1043 568 243 368 410
+rawdata/pos-2767.bmp 2 97 15 864 956 443 200 353 406
+rawdata/pos-2768.bmp 1 80 15 875 924
+rawdata/pos-2769.bmp 1 57 23 873 930
+rawdata/pos-2770.bmp 1 86 5 806 922
+rawdata/pos-2771.bmp 1 94 8 805 873
+rawdata/pos-2772.bmp 1 104 18 762 873
+rawdata/pos-2773.bmp 1 70 30 850 947
+rawdata/pos-2774.bmp 1 118 22 880 978
+rawdata/pos-2775.bmp 1 110 5 865 953
+rawdata/pos-2776.bmp 1 60 21 724 989
+rawdata/pos-2777.bmp 1 87 10 864 950
+rawdata/pos-2778.bmp 1 46 21 847 940
+rawdata/pos-2779.bmp 1 114 16 862 942
+rawdata/pos-2780.bmp 1 127 29 915 1059
+rawdata/pos-2781.bmp 1 72 11 864 922
+rawdata/pos-2782.bmp 1 160 22 496 1029
+rawdata/pos-2783.bmp 2 132 17 793 884 580 323 77 83
+rawdata/pos-2784.bmp 1 62 52 873 965
+rawdata/pos-2785.bmp 1 84 8 908 1001
+rawdata/pos-2786.bmp 1 100 22 455 862
+rawdata/pos-2787.bmp 1 145 8 444 893
+rawdata/pos-2788.bmp 1 74 35 922 1054
+rawdata/pos-2789.bmp 1 82 11 447 889
+rawdata/pos-2790.bmp 1 83 59 881 979
+rawdata/pos-2791.bmp 1 82 30 833 989
+rawdata/pos-2792.bmp 2 129 20 542 919 674 14 530 947
+rawdata/pos-2793.bmp 2 84 10 475 966 561 33 434 942
+rawdata/pos-2794.bmp 2 127 28 414 872 547 39 395 886
+rawdata/pos-2795.bmp 2 77 8 389 896 475 31 376 901
+rawdata/pos-2796.bmp 2 110 28 381 911 497 41 385 887
+rawdata/pos-2797.bmp 2 97 7 409 850 516 6 359 842
+rawdata/pos-2798.bmp 2 105 26 390 864 487 33 416 902
+rawdata/pos-2799.bmp 2 105 98 349 847 450 102 378 798
+rawdata/pos-2800.bmp 1 88 16 952 1042
+rawdata/pos-2801.bmp 2 95 84 346 864 441 93 367 839
+rawdata/pos-2802.bmp 1 72 33 841 1009
+rawdata/pos-2803.bmp 2 75 71 377 854 446 83 372 841
+rawdata/pos-2804.bmp 1 76 59 764 852
+rawdata/pos-2805.bmp 1 94 64 790 861
+rawdata/pos-2806.bmp 1 63 21 890 1018
+rawdata/pos-2807.bmp 1 96 21 890 1054
+rawdata/pos-2808.bmp 1 65 21 896 1014
+rawdata/pos-2809.bmp 1 134 12 787 929
+rawdata/pos-2810.bmp 1 76 3 820 941
+rawdata/pos-2811.bmp 1 65 68 780 936
+rawdata/pos-2812.bmp 1 90 16 939 1046
+rawdata/pos-2813.bmp 1 113 53 860 956
+rawdata/pos-2814.bmp 1 82 67 762 924
+rawdata/pos-2815.bmp 1 102 48 759 908
+rawdata/pos-2816.bmp 1 140 13 750 935
+rawdata/pos-2817.bmp 1 107 67 761 871
+rawdata/pos-2818.bmp 1 69 75 754 896
+rawdata/pos-2819.bmp 1 234 47 369 985
+rawdata/pos-2820.bmp 2 139 124 436 950 550 123 508 888
+rawdata/pos-2821.bmp 2 95 98 460 878 563 85 439 919
+rawdata/pos-2822.bmp 2 80 109 481 918 550 123 481 928
+rawdata/pos-2823.bmp 2 90 69 443 909 536 63 429 922
+rawdata/pos-2824.bmp 1 122 64 808 963
+rawdata/pos-2825.bmp 1 108 13 958 1046
+rawdata/pos-2826.bmp 2 87 62 442 925 522 63 450 910
+rawdata/pos-2827.bmp 1 140 56 1112 950
+rawdata/pos-2828.bmp 1 86 42 1020 978
+rawdata/pos-2829.bmp 1 95 37 992 983
+rawdata/pos-2830.bmp 1 88 85 950 890
+rawdata/pos-2831.bmp 1 119 67 911 926
+rawdata/pos-2832.bmp 1 106 38 434 1021
+rawdata/pos-2833.bmp 1 135 46 462 1023
+rawdata/pos-2834.bmp 2 87 44 1057 967 659 313 196 365
+rawdata/pos-2835.bmp 2 87 18 727 923 485 291 163 405
+rawdata/pos-2836.bmp 1 107 60 850 1004
+rawdata/pos-2837.bmp 1 89 44 1026 1006
+rawdata/pos-2838.bmp 1 102 45 817 970
+rawdata/pos-2839.bmp 1 76 32 1012 951
+rawdata/pos-2840.bmp 1 158 35 1048 1008
+rawdata/pos-2841.bmp 1 98 38 1053 990
+rawdata/pos-2842.bmp 2 102 28 1279 1035 607 312 407 371
+rawdata/pos-2843.bmp 2 78 20 535 985 601 22 537 969
+rawdata/pos-2844.bmp 2 48 28 546 1008 580 33 546 977
+rawdata/pos-2845.bmp 2 63 54 536 987 589 59 527 961
+rawdata/pos-2846.bmp 2 63 26 518 1001 573 32 533 982
+rawdata/pos-2847.bmp 1 86 61 874 972
+rawdata/pos-2848.bmp 2 91 115 500 943 235 262 309 657
+rawdata/pos-2849.bmp 1 80 94 494 979
+rawdata/pos-2850.bmp 1 55 73 856 944
+rawdata/pos-2851.bmp 1 47 91 491 967
+rawdata/pos-2852.bmp 1 86 33 842 1010
+rawdata/pos-2853.bmp 1 81 30 787 973
+rawdata/pos-2854.bmp 1 45 43 816 972
+rawdata/pos-2855.bmp 1 66 26 803 982
+rawdata/pos-2856.bmp 1 66 52 813 957
+rawdata/pos-2857.bmp 1 56 78 818 976
+rawdata/pos-2858.bmp 1 128 60 824 977
+rawdata/pos-2859.bmp 1 101 65 796 995
+rawdata/pos-2860.bmp 1 94 100 698 912
+rawdata/pos-2861.bmp 1 62 114 713 830
+rawdata/pos-2862.bmp 1 134 32 523 940
+rawdata/pos-2863.bmp 1 84 100 703 879
+rawdata/pos-2864.bmp 1 105 141 681 872
+rawdata/pos-2865.bmp 1 97 121 684 842
+rawdata/pos-2866.bmp 1 70 108 702 864
+rawdata/pos-2867.bmp 1 54 159 759 880
+rawdata/pos-2868.bmp 1 67 82 762 904
+rawdata/pos-2869.bmp 1 77 50 795 951
+rawdata/pos-2870.bmp 1 88 109 741 893
+rawdata/pos-2871.bmp 1 141 139 734 873
+rawdata/pos-2872.bmp 1 135 115 756 923
+rawdata/pos-2873.bmp 2 84 95 409 915 484 127 394 885
+rawdata/pos-2874.bmp 1 55 22 398 1036
+rawdata/pos-2875.bmp 1 90 61 507 967
+rawdata/pos-2876.bmp 2 208 111 408 876 594 114 414 879
+rawdata/pos-2877.bmp 2 128 145 388 892 522 163 395 865
+rawdata/pos-2878.bmp 2 128 111 391 885 514 102 379 878
+rawdata/pos-2879.bmp 2 109 66 373 869 486 70 386 871
+rawdata/pos-2880.bmp 1 92 101 883 979
+rawdata/pos-2881.bmp 2 190 91 377 820 557 76 378 860
+rawdata/pos-2882.bmp 2 243 124 394 858 626 115 375 871
+rawdata/pos-2883.bmp 2 224 118 368 867 581 105 367 877
+rawdata/pos-2884.bmp 2 290 62 365 932 656 80 370 935
+rawdata/pos-2885.bmp 2 109 70 378 927 480 60 373 946
+rawdata/pos-2886.bmp 2 110 43 430 1024 528 39 436 1009
+rawdata/pos-2887.bmp 1 118 6 508 977
+rawdata/pos-2888.bmp 1 118 6 508 977
+rawdata/pos-2889.bmp 1 210 102 559 825
+rawdata/pos-2890.bmp 1 175 56 617 919
+rawdata/pos-2891.bmp 1 53 14 892 886
+rawdata/pos-2892.bmp 1 174 67 639 953
+rawdata/pos-2893.bmp 1 203 54 628 903
+rawdata/pos-2894.bmp 1 204 63 640 903
+rawdata/pos-2895.bmp 1 76 40 725 1002
+rawdata/pos-2896.bmp 1 68 40 713 1012
+rawdata/pos-2897.bmp 1 85 24 752 1003
+rawdata/pos-2898.bmp 1 79 16 722 1009
+rawdata/pos-2899.bmp 1 162 4 510 976
+rawdata/pos-2900.bmp 1 111 17 690 1009
+rawdata/pos-2901.bmp 1 79 21 849 979
+rawdata/pos-2902.bmp 1 93 43 778 955
+rawdata/pos-2903.bmp 1 70 19 946 1050
+rawdata/pos-2904.bmp 1 85 28 885 1045
+rawdata/pos-2905.bmp 2 157 40 948 1046 380 273 239 548
+rawdata/pos-2906.bmp 1 93 27 899 1054
+rawdata/pos-2907.bmp 1 99 7 904 1037
+rawdata/pos-2908.bmp 1 102 10 555 1016
+rawdata/pos-2909.bmp 1 119 23 557 972
+rawdata/pos-2910.bmp 1 93 29 524 968
+rawdata/pos-2911.bmp 1 88 81 710 942
+rawdata/pos-2912.bmp 3 187 7 553 977 728 15 529 955 331 146 309 687
+rawdata/pos-2913.bmp 1 107 45 783 966
+rawdata/pos-2914.bmp 2 84 19 476 1043 549 40 548 959
+rawdata/pos-2915.bmp 2 143 27 466 1016 577 27 599 943
+rawdata/pos-2916.bmp 2 137 14 471 989 596 29 651 1007
+rawdata/pos-2917.bmp 2 127 20 453 972 568 10 518 999
+rawdata/pos-2918.bmp 1 117 40 654 1006
+rawdata/pos-2919.bmp 1 138 36 648 1047
+rawdata/pos-2920.bmp 1 114 28 631 1014
+rawdata/pos-2921.bmp 1 102 40 865 1008
+rawdata/pos-2922.bmp 1 61 26 869 1018
+rawdata/pos-2923.bmp 1 55 78 715 965
+rawdata/pos-2924.bmp 1 109 84 780 921
+rawdata/pos-2925.bmp 1 59 28 854 997
+rawdata/pos-2926.bmp 1 76 55 867 996
+rawdata/pos-2927.bmp 1 60 70 873 995
+rawdata/pos-2928.bmp 1 141 98 419 941
+rawdata/pos-2929.bmp 1 94 12 477 993
+rawdata/pos-2930.bmp 1 109 79 455 967
+rawdata/pos-2931.bmp 2 73 41 412 828 476 24 430 856
+rawdata/pos-2932.bmp 3 142 107 427 855 572 100 425 886 600 255 281 562
+rawdata/pos-2933.bmp 2 79 141 431 840 496 128 435 878
+rawdata/pos-2934.bmp 2 525 150 438 840 101 133 436 850
+rawdata/pos-2935.bmp 1 96 151 659 815
+rawdata/pos-2936.bmp 1 106 39 763 1066
+rawdata/pos-2937.bmp 1 106 39 763 1066
+rawdata/pos-2938.bmp 2 91 127 415 900 516 110 420 915
+rawdata/pos-2939.bmp 2 73 176 446 891 511 162 424 878
+rawdata/pos-2940.bmp 2 92 141 430 897 523 153 407 889
+rawdata/pos-2941.bmp 1 93 117 875 905
+rawdata/pos-2942.bmp 1 58 116 888 937
+rawdata/pos-2943.bmp 1 39 140 747 838
+rawdata/pos-2944.bmp 1 99 112 881 919
+rawdata/pos-2945.bmp 1 105 108 819 925
+rawdata/pos-2946.bmp 1 114 49 729 924
+rawdata/pos-2947.bmp 1 101 119 722 839
+rawdata/pos-2948.bmp 1 64 9 942 1076
+rawdata/pos-2949.bmp 1 143 39 892 1005
+rawdata/pos-2950.bmp 1 68 34 938 1025
+rawdata/pos-2951.bmp 1 65 38 966 1010
+rawdata/pos-2952.bmp 1 97 53 550 1006
+rawdata/pos-2953.bmp 1 142 75 455 970
+rawdata/pos-2954.bmp 1 124 41 448 999
+rawdata/pos-2955.bmp 2 100 28 514 1037 329 344 139 321
+rawdata/pos-2956.bmp 1 68 16 523 1025
+rawdata/pos-2957.bmp 1 268 46 493 1037
+rawdata/pos-2958.bmp 1 96 108 658 811
+rawdata/pos-2959.bmp 1 108 30 487 1048
+rawdata/pos-2960.bmp 1 67 14 533 1061
+rawdata/pos-2961.bmp 1 119 9 736 985
+rawdata/pos-2962.bmp 1 105 15 516 1042
+rawdata/pos-2963.bmp 1 110 6 584 992
+rawdata/pos-2964.bmp 1 57 41 906 934
+rawdata/pos-2965.bmp 1 103 183 851 831
+rawdata/pos-2966.bmp 1 102 190 830 859
+rawdata/pos-2967.bmp 1 68 69 837 890
+rawdata/pos-2968.bmp 1 83 120 811 838
+rawdata/pos-2969.bmp 1 69 160 684 788
+rawdata/pos-2970.bmp 1 116 48 883 988
+rawdata/pos-2971.bmp 1 104 81 871 919
+rawdata/pos-2972.bmp 2 95 63 907 931 643 353 83 157
+rawdata/pos-2973.bmp 1 97 31 765 1032
+rawdata/pos-2974.bmp 1 82 49 871 892
+rawdata/pos-2975.bmp 1 43 13 874 887
+rawdata/pos-2976.bmp 1 95 22 1100 1052
+rawdata/pos-2977.bmp 2 65 24 1116 1042 451 452 49 167
+rawdata/pos-2978.bmp 1 87 32 1078 1048
+rawdata/pos-2979.bmp 2 72 28 1119 1070 462 434 51 167
+rawdata/pos-2980.bmp 1 150 83 704 814
+rawdata/pos-2981.bmp 2 73 39 1064 1030 442 439 42 182
+rawdata/pos-2982.bmp 2 108 80 462 881 569 87 437 849
+rawdata/pos-2983.bmp 2 90 79 436 883 525 95 421 875
+rawdata/pos-2984.bmp 2 82 69 449 920 524 82 440 872
+rawdata/pos-2985.bmp 1 75 31 788 1041
+rawdata/pos-2986.bmp 2 36 66 458 945 488 56 480 919
+rawdata/pos-2987.bmp 2 81 79 458 887 531 70 412 911
+rawdata/pos-2988.bmp 2 72 90 444 903 519 106 434 910
+rawdata/pos-2989.bmp 1 72 42 521 956
+rawdata/pos-2990.bmp 1 103 78 541 952
+rawdata/pos-2991.bmp 1 94 95 664 792
+rawdata/pos-2992.bmp 1 130 63 636 974
+rawdata/pos-2993.bmp 1 155 7 510 957
+rawdata/pos-2994.bmp 1 92 25 544 989
+rawdata/pos-2995.bmp 1 119 66 493 973
+rawdata/pos-2996.bmp 1 60 52 843 1030
+rawdata/pos-2997.bmp 1 40 24 401 1012
+rawdata/pos-2998.bmp 2 40 45 334 855 375 49 349 854
+rawdata/pos-2999.bmp 1 80 34 822 1051
+rawdata/pos-3000.bmp 1 147 21 748 1015
+rawdata/pos-3001.bmp 1 148 41 731 1005
+rawdata/pos-3002.bmp 1 75 32 850 943
+rawdata/pos-3003.bmp 1 126 43 1103 1004
+rawdata/pos-3004.bmp 1 134 28 1138 1037
+rawdata/pos-3005.bmp 1 93 51 1136 1018
+rawdata/pos-3006.bmp 1 65 53 997 974
+rawdata/pos-3007.bmp 1 187 39 993 985
+rawdata/pos-3008.bmp 1 96 39 1095 1027
+rawdata/pos-3009.bmp 1 170 32 1068 1043
+rawdata/pos-3010.bmp 2 58 55 342 870 381 47 395 869
+rawdata/pos-3011.bmp 1 205 41 982 1001
+rawdata/pos-3012.bmp 1 36 32 1006 1032
+rawdata/pos-3013.bmp 1 119 24 481 1020
+rawdata/pos-3014.bmp 1 65 46 1008 967
+rawdata/pos-3015.bmp 1 39 22 982 1003
+rawdata/pos-3016.bmp 1 63 13 981 959
+rawdata/pos-3017.bmp 2 95 30 459 948 557 34 484 958
+rawdata/pos-3018.bmp 2 54 64 509 966 525 47 511 971
+rawdata/pos-3019.bmp 2 254 47 478 970 711 22 511 992
+rawdata/pos-3020.bmp 2 41 28 483 976 513 21 476 1026
+rawdata/pos-3021.bmp 2 84 55 460 970 551 38 478 1016
+rawdata/pos-3022.bmp 2 76 8 335 879 407 18 335 884
+rawdata/pos-3023.bmp 2 61 31 475 984 512 21 515 988
+rawdata/pos-3024.bmp 1 59 28 819 935
+rawdata/pos-3025.bmp 3 77 53 452 1000 529 47 466 1004 612 380 69 148
+rawdata/pos-3026.bmp 2 91 61 451 988 555 64 453 958
+rawdata/pos-3027.bmp 2 92 62 471 979 558 50 464 980
+rawdata/pos-3028.bmp 2 103 41 483 951 580 43 474 957
+rawdata/pos-3029.bmp 2 67 44 496 961 553 32 498 956
+rawdata/pos-3030.bmp 2 74 31 490 960 555 17 484 972
+rawdata/pos-3031.bmp 2 70 33 517 968 543 13 497 966
+rawdata/pos-3032.bmp 2 105 38 477 992 574 32 473 986
+rawdata/pos-3033.bmp 2 116 24 464 966 567 16 455 989
+rawdata/pos-3034.bmp 3 80 47 411 985 472 33 397 992 480 378 133 279
+rawdata/pos-3035.bmp 1 84 29 811 949
+rawdata/pos-3036.bmp 2 37 68 492 988 510 72 508 997
+rawdata/pos-3037.bmp 2 89 79 459 978 540 54 470 1019
+rawdata/pos-3038.bmp 3 79 77 446 921 518 62 432 916 267 257 220 437
+rawdata/pos-3039.bmp 2 98 32 437 923 530 47 426 925
+rawdata/pos-3040.bmp 2 80 32 446 930 522 25 419 940
+rawdata/pos-3041.bmp 2 45 13 475 948 477 2 471 938
+rawdata/pos-3042.bmp 2 73 26 466 956 484 15 478 937
+rawdata/pos-3043.bmp 1 156 18 540 1032
+rawdata/pos-3044.bmp 1 105 11 524 1031
+rawdata/pos-3045.bmp 1 96 12 549 1013
+rawdata/pos-3046.bmp 1 79 41 792 984
+rawdata/pos-3047.bmp 1 144 17 756 966
+rawdata/pos-3048.bmp 1 85 8 540 1060
+rawdata/pos-3049.bmp 1 81 19 586 1027
+rawdata/pos-3050.bmp 1 104 21 603 995
+rawdata/pos-3051.bmp 1 36 23 608 1056
+rawdata/pos-3052.bmp 1 43 9 591 1072
+rawdata/pos-3053.bmp 1 40 19 599 1025
+rawdata/pos-3054.bmp 1 56 20 591 1030
+rawdata/pos-3055.bmp 1 48 13 582 1039
+rawdata/pos-3056.bmp 2 91 77 382 834 471 82 387 825
+rawdata/pos-3057.bmp 1 129 13 756 907
+rawdata/pos-3058.bmp 1 64 43 801 1016
+rawdata/pos-3059.bmp 3 43 98 406 854 438 104 403 836 231 274 175 372
+rawdata/pos-3060.bmp 2 116 14 371 995 490 7 373 988
+rawdata/pos-3061.bmp 2 45 88 414 846 451 79 382 845
+rawdata/pos-3062.bmp 2 53 91 387 857 427 95 396 874
+rawdata/pos-3063.bmp 2 36 106 413 847 413 93 418 837
+rawdata/pos-3064.bmp 2 59 123 407 849 447 115 413 836
+rawdata/pos-3065.bmp 2 70 200 406 852 476 204 417 846
+rawdata/pos-3066.bmp 2 62 181 404 858 461 192 393 854
+rawdata/pos-3067.bmp 2 154 154 388 860 549 153 386 844
+rawdata/pos-3068.bmp 2 76 175 397 849 469 180 397 838
+rawdata/pos-3069.bmp 1 72 87 789 976
+rawdata/pos-3070.bmp 1 80 98 766 859
+rawdata/pos-3071.bmp 1 23 103 750 867
+rawdata/pos-3072.bmp 1 337 45 474 960
+rawdata/pos-3073.bmp 1 84 92 779 858
+rawdata/pos-3074.bmp 1 60 93 802 856
+rawdata/pos-3075.bmp 1 60 88 775 835
+rawdata/pos-3076.bmp 1 61 13 1032 1054
+rawdata/pos-3077.bmp 1 60 17 1030 1069
+rawdata/pos-3078.bmp 1 32 16 1056 1062
+rawdata/pos-3079.bmp 1 94 11 1033 1061
+rawdata/pos-3080.bmp 1 71 82 791 997
+rawdata/pos-3081.bmp 1 84 3 1021 1076
+rawdata/pos-3082.bmp 1 100 50 560 1011
+rawdata/pos-3083.bmp 1 61 70 548 1002
+rawdata/pos-3084.bmp 1 32 48 536 993
+rawdata/pos-3085.bmp 1 65 55 541 1027
+rawdata/pos-3086.bmp 1 112 13 588 1064
+rawdata/pos-3087.bmp 1 72 24 599 1053
+rawdata/pos-3088.bmp 1 91 30 628 1037
+rawdata/pos-3089.bmp 1 31 151 902 893
+rawdata/pos-3090.bmp 2 60 34 823 1014 374 397 159 353
+rawdata/pos-3091.bmp 1 75 87 786 968
+rawdata/pos-3092.bmp 1 35 28 830 967
+rawdata/pos-3093.bmp 1 61 9 860 1052
+rawdata/pos-3094.bmp 1 92 20 841 1045
+rawdata/pos-3095.bmp 1 110 30 849 1025
+rawdata/pos-3096.bmp 1 72 26 490 1022
+rawdata/pos-3097.bmp 1 67 14 789 1022
+rawdata/pos-3098.bmp 1 78 17 818 988
+rawdata/pos-3099.bmp 1 55 36 830 976
+rawdata/pos-3100.bmp 1 60 29 833 959
+rawdata/pos-3101.bmp 1 89 21 807 986
+rawdata/pos-3102.bmp 1 86 34 799 974
+rawdata/pos-3103.bmp 1 73 56 788 982
+rawdata/pos-3104.bmp 1 51 32 814 999
+rawdata/pos-3105.bmp 1 123 81 915 977
+rawdata/pos-3106.bmp 1 53 41 813 980
+rawdata/pos-3107.bmp 2 92 32 577 1043 660 23 551 1036
+rawdata/pos-3108.bmp 1 99 36 437 970
+rawdata/pos-3109.bmp 2 61 22 559 1045 594 19 572 1012
+rawdata/pos-3110.bmp 2 72 10 568 1030 621 17 578 994
+rawdata/pos-3111.bmp 2 54 18 585 978 605 5 542 975
+rawdata/pos-3112.bmp 2 55 49 478 923 535 35 492 968
+rawdata/pos-3113.bmp 1 74 78 754 910
+rawdata/pos-3114.bmp 2 58 48 462 921 534 52 459 927
+rawdata/pos-3115.bmp 2 14 51 481 904 487 40 479 917
+rawdata/pos-3116.bmp 2 41 35 500 872 508 21 491 886
+rawdata/pos-3117.bmp 2 79 68 480 929 536 75 490 931
+rawdata/pos-3118.bmp 2 63 40 477 936 527 39 505 928
+rawdata/pos-3119.bmp 1 96 14 559 967
+rawdata/pos-3120.bmp 1 48 42 412 1018
+rawdata/pos-3121.bmp 1 116 38 378 911
+rawdata/pos-3122.bmp 1 94 36 478 1007
+rawdata/pos-3123.bmp 1 116 51 582 932
+rawdata/pos-3124.bmp 1 90 30 755 904
+rawdata/pos-3125.bmp 1 78 74 549 937
+rawdata/pos-3126.bmp 1 81 76 422 842
+rawdata/pos-3127.bmp 1 59 243 243 658
+rawdata/pos-3128.bmp 1 153 12 657 1092
+rawdata/pos-3129.bmp 1 75 11 650 1109
+rawdata/pos-3130.bmp 2 83 11 667 1104 303 296 249 564
+rawdata/pos-3131.bmp 2 83 19 604 1040 295 212 260 557
+rawdata/pos-3132.bmp 1 63 16 488 1053
+rawdata/pos-3133.bmp 1 125 9 493 1084
+rawdata/pos-3134.bmp 1 174 150 388 929
+rawdata/pos-3135.bmp 1 233 15 472 1053
+rawdata/pos-3136.bmp 1 60 19 603 1033
+rawdata/pos-3137.bmp 1 89 21 596 1066
+rawdata/pos-3138.bmp 1 77 12 631 1038
+rawdata/pos-3139.bmp 1 52 63 516 919
+rawdata/pos-3140.bmp 1 40 84 463 865
+rawdata/pos-3141.bmp 1 53 115 495 849
+rawdata/pos-3142.bmp 1 63 27 553 1007
+rawdata/pos-3143.bmp 1 51 62 575 965
+rawdata/pos-3144.bmp 1 97 51 509 951
+rawdata/pos-3145.bmp 1 170 40 471 1056
+rawdata/pos-3146.bmp 1 64 28 905 1030
+rawdata/pos-3147.bmp 1 140 44 980 964
+rawdata/pos-3148.bmp 1 76 58 891 1006
+rawdata/pos-3149.bmp 1 104 22 903 1043
+rawdata/pos-3150.bmp 1 64 59 902 983
+rawdata/pos-3151.bmp 1 97 42 888 996
+rawdata/pos-3152.bmp 1 117 10 897 1002
+rawdata/pos-3153.bmp 1 98 4 885 990
+rawdata/pos-3154.bmp 2 70 16 917 1021 544 374 36 75
+rawdata/pos-3155.bmp 2 106 4 905 1009 579 353 36 73
+rawdata/pos-3156.bmp 1 87 19 907 995
+rawdata/pos-3157.bmp 3 230 10 882 986 581 278 67 234 462 282 86 238
+rawdata/pos-3158.bmp 1 92 21 445 1077
+rawdata/pos-3159.bmp 2 95 36 829 968 432 381 79 68
+rawdata/pos-3160.bmp 1 78 10 838 920
+rawdata/pos-3161.bmp 1 98 11 502 1014
+rawdata/pos-3162.bmp 1 85 108 697 787
+rawdata/pos-3163.bmp 1 62 47 816 979
+rawdata/pos-3164.bmp 1 78 48 822 951
+rawdata/pos-3165.bmp 1 102 16 836 982
+rawdata/pos-3166.bmp 1 84 22 846 982
+rawdata/pos-3167.bmp 1 119 20 833 958
+rawdata/pos-3168.bmp 1 83 19 802 944
+rawdata/pos-3169.bmp 1 137 36 869 974
+rawdata/pos-3170.bmp 1 69 16 879 1020
+rawdata/pos-3171.bmp 1 94 76 438 946
+rawdata/pos-3172.bmp 1 97 14 903 1046
+rawdata/pos-3173.bmp 1 40 22 891 1041
+rawdata/pos-3174.bmp 1 52 28 932 1041
+rawdata/pos-3175.bmp 1 64 28 922 1047
+rawdata/pos-3176.bmp 1 84 22 896 1022
+rawdata/pos-3177.bmp 1 65 14 909 1078
+rawdata/pos-3178.bmp 1 105 24 903 1052
+rawdata/pos-3179.bmp 1 91 9 811 1049
+rawdata/pos-3180.bmp 3 48 18 485 1037 534 15 484 1073 650 261 117 278
+rawdata/pos-3181.bmp 1 96 6 825 1042
+rawdata/pos-3182.bmp 1 98 27 784 998
+rawdata/pos-3183.bmp 1 46 57 406 964
+rawdata/pos-3184.bmp 1 81 47 840 1004
+rawdata/pos-3185.bmp 1 63 9 970 1071
+rawdata/pos-3186.bmp 1 45 21 1008 1097
+rawdata/pos-3187.bmp 1 179 51 1038 1061
+rawdata/pos-3188.bmp 1 44 36 478 944
+rawdata/pos-3189.bmp 1 77 27 497 991
+rawdata/pos-3190.bmp 1 122 16 562 1042
+rawdata/pos-3191.bmp 3 68 16 472 1053 560 9 461 1070 669 254 108 274
+rawdata/pos-3192.bmp 1 84 91 364 811
+rawdata/pos-3193.bmp 2 66 48 491 920 554 42 489 926
+rawdata/pos-3194.bmp 1 56 70 401 798
+rawdata/pos-3195.bmp 1 82 32 389 803
+rawdata/pos-3196.bmp 1 123 65 561 1049
+rawdata/pos-3197.bmp 1 93 43 519 1074
+rawdata/pos-3198.bmp 1 95 13 498 1049
+rawdata/pos-3199.bmp 3 74 54 881 976 393 319 287 295 445 380 130 144
+rawdata/pos-3200.bmp 2 140 26 797 888 501 355 124 158
+rawdata/pos-3201.bmp 1 162 29 778 880
+rawdata/pos-3202.bmp 2 53 16 476 1046 527 18 463 1073
+rawdata/pos-3203.bmp 1 98 43 796 866
+rawdata/pos-3204.bmp 1 98 44 766 862
+rawdata/pos-3205.bmp 1 33 44 949 907
+rawdata/pos-3206.bmp 1 82 98 736 828
+rawdata/pos-3207.bmp 1 60 50 738 851
+rawdata/pos-3208.bmp 2 65 14 951 1040 441 497 111 125
+rawdata/pos-3209.bmp 2 85 37 906 995 424 477 116 127
+rawdata/pos-3210.bmp 2 101 21 869 962 428 464 107 111
+rawdata/pos-3211.bmp 2 89 14 890 983 425 455 107 127
+rawdata/pos-3212.bmp 1 83 22 899 969
+rawdata/pos-3213.bmp 2 69 5 482 1054 554 13 487 1066
+rawdata/pos-3214.bmp 1 63 14 888 968
+rawdata/pos-3215.bmp 1 72 46 486 980
+rawdata/pos-3216.bmp 1 64 6 454 948
+rawdata/pos-3217.bmp 1 58 43 903 951
+rawdata/pos-3218.bmp 1 50 13 438 928
+rawdata/pos-3219.bmp 1 78 44 670 921
+rawdata/pos-3220.bmp 1 98 89 658 915
+rawdata/pos-3221.bmp 1 60 39 638 945
+rawdata/pos-3222.bmp 1 57 34 647 946
+rawdata/pos-3223.bmp 4 93 114 756 921 296 434 295 310 375 482 186 185 442 523 90 83
+rawdata/pos-3224.bmp 2 111 19 396 913 509 30 381 921
+rawdata/pos-3225.bmp 4 146 143 648 842 261 434 273 339 331 489 163 182 380 535 83 92
+rawdata/pos-3226.bmp 2 166 99 643 861 415 500 69 73
+rawdata/pos-3227.bmp 2 166 104 660 828 412 518 38 87
+rawdata/pos-3228.bmp 1 155 113 671 831
+rawdata/pos-3229.bmp 2 105 10 398 890 507 19 364 913
+rawdata/pos-3230.bmp 2 99 32 403 974 515 50 416 979
+rawdata/pos-3231.bmp 1 85 26 840 938
+rawdata/pos-3232.bmp 2 96 10 398 964 505 11 402 989
+rawdata/pos-3233.bmp 2 56 11 884 990 320 337 352 402
+rawdata/pos-3234.bmp 3 54 24 424 988 485 48 409 972 623 297 116 268
+rawdata/pos-3235.bmp 2 77 21 401 967 487 23 411 1015
+rawdata/pos-3236.bmp 3 113 2 468 1061 612 0 445 1070 638 309 76 279
+rawdata/pos-3237.bmp 2 97 12 509 1056 617 14 437 1132
+rawdata/pos-3238.bmp 2 96 4 507 1063 619 8 445 1083
+rawdata/pos-3239.bmp 2 128 4 507 1028 651 6 460 1033
+rawdata/pos-3240.bmp 1 152 27 890 1058
+rawdata/pos-3241.bmp 1 120 32 862 1009
+rawdata/pos-3242.bmp 1 100 55 877 992
+rawdata/pos-3243.bmp 1 85 54 833 951
+rawdata/pos-3244.bmp 1 106 18 785 911
+rawdata/pos-3245.bmp 1 80 72 822 932
+rawdata/pos-3246.bmp 1 61 82 847 943
+rawdata/pos-3247.bmp 1 135 81 826 976
+rawdata/pos-3248.bmp 1 135 5 444 985
+rawdata/pos-3249.bmp 1 115 5 499 1002
+rawdata/pos-3250.bmp 1 131 5 490 1011
+rawdata/pos-3251.bmp 2 81 18 430 924 253 252 159 375
+rawdata/pos-3252.bmp 1 113 23 410 884
+rawdata/pos-3253.bmp 1 97 27 430 903
+rawdata/pos-3254.bmp 1 73 76 776 909
+rawdata/pos-3255.bmp 1 120 60 788 913
+rawdata/pos-3256.bmp 1 63 28 876 948
+rawdata/pos-3257.bmp 1 106 55 640 860
+rawdata/pos-3258.bmp 1 98 117 622 864
+rawdata/pos-3259.bmp 1 12 7 733 1007
+rawdata/pos-3260.bmp 1 15 8 721 991
+rawdata/pos-3261.bmp 1 5 13 708 1005
+rawdata/pos-3262.bmp 1 33 20 495 1014
+rawdata/pos-3263.bmp 1 26 38 460 957
+rawdata/pos-3264.bmp 1 68 19 482 1030
+rawdata/pos-3265.bmp 1 82 13 505 1027
+rawdata/pos-3266.bmp 1 78 87 387 912
+rawdata/pos-3267.bmp 1 83 95 792 950
+rawdata/pos-3268.bmp 1 100 13 521 1014
+rawdata/pos-3269.bmp 1 53 36 842 979
+rawdata/pos-3270.bmp 1 102 29 525 981
+rawdata/pos-3271.bmp 1 55 39 818 876
+rawdata/pos-3272.bmp 1 74 16 550 985
+rawdata/pos-3273.bmp 1 57 19 447 945
+rawdata/pos-3274.bmp 1 91 42 462 922
+rawdata/pos-3275.bmp 1 73 35 498 1036
+rawdata/pos-3276.bmp 1 59 9 496 1052
+rawdata/pos-3277.bmp 1 45 7 515 1067
+rawdata/pos-3278.bmp 1 65 33 776 957
+rawdata/pos-3279.bmp 2 79 62 433 891 502 40 416 936
+rawdata/pos-3280.bmp 2 41 30 389 844 430 14 392 917
+rawdata/pos-3281.bmp 1 49 63 379 924
+rawdata/pos-3282.bmp 1 56 121 839 889
+rawdata/pos-3283.bmp 2 103 39 365 831 476 33 387 860
+rawdata/pos-3284.bmp 2 95 52 394 832 477 42 407 846
+rawdata/pos-3285.bmp 2 81 85 397 869 474 69 400 866
+rawdata/pos-3286.bmp 2 84 92 397 837 470 54 377 903
+rawdata/pos-3287.bmp 2 81 59 384 825 467 41 377 857
+rawdata/pos-3288.bmp 2 115 65 386 817 509 39 354 865
+rawdata/pos-3289.bmp 1 150 70 746 937
+rawdata/pos-3290.bmp 1 82 85 751 826
+rawdata/pos-3291.bmp 1 160 56 741 821
+rawdata/pos-3292.bmp 1 141 45 755 826
+rawdata/pos-3293.bmp 1 83 102 811 842
+rawdata/pos-3294.bmp 1 92 80 841 918
+rawdata/pos-3295.bmp 1 73 64 788 844
+rawdata/pos-3296.bmp 1 66 67 799 876
+rawdata/pos-3297.bmp 1 81 22 516 1062
+rawdata/pos-3298.bmp 1 64 17 880 995
+rawdata/pos-3299.bmp 2 26 15 877 1002 173 202 282 604
+rawdata/pos-3300.bmp 2 51 83 917 919 345 341 155 311
+rawdata/pos-3301.bmp 1 65 16 875 1024
+rawdata/pos-3302.bmp 1 70 21 858 969
+rawdata/pos-3303.bmp 1 97 39 857 993
+rawdata/pos-3304.bmp 1 53 35 872 1004
+rawdata/pos-3305.bmp 1 94 20 879 988
+rawdata/pos-3306.bmp 1 100 50 862 889
+rawdata/pos-3307.bmp 1 122 8 856 995
+rawdata/pos-3308.bmp 2 93 41 856 952 505 333 232 269
+rawdata/pos-3309.bmp 1 85 32 803 925
+rawdata/pos-3310.bmp 1 56 22 882 941
+rawdata/pos-3311.bmp 1 78 61 738 946
+rawdata/pos-3312.bmp 1 92 40 808 955
+rawdata/pos-3313.bmp 1 98 25 815 899
+rawdata/pos-3314.bmp 1 79 10 858 1003
+rawdata/pos-3315.bmp 1 74 74 887 959
+rawdata/pos-3316.bmp 1 76 44 807 898
+rawdata/pos-3317.bmp 1 75 32 810 911
+rawdata/pos-3318.bmp 1 122 20 738 991
+rawdata/pos-3319.bmp 1 89 15 808 930
+rawdata/pos-3320.bmp 1 123 94 822 917
+rawdata/pos-3321.bmp 2 65 9 460 970 513 12 426 950
+rawdata/pos-3322.bmp 1 45 88 766 905
+rawdata/pos-3323.bmp 2 41 17 463 990 484 25 417 943
+rawdata/pos-3324.bmp 2 60 41 446 966 494 53 424 952
+rawdata/pos-3325.bmp 2 84 9 437 954 515 18 428 945
+rawdata/pos-3326.bmp 2 68 12 424 979 513 17 421 992
+rawdata/pos-3327.bmp 2 73 4 426 972 508 12 414 971
+rawdata/pos-3328.bmp 1 124 12 476 989
+rawdata/pos-3329.bmp 1 148 10 457 974
+rawdata/pos-3330.bmp 1 77 16 760 982
+rawdata/pos-3331.bmp 1 59 46 412 860
+rawdata/pos-3332.bmp 1 96 14 404 870
+rawdata/pos-3333.bmp 3 44 15 922 1039 324 505 138 152 361 546 74 82
+rawdata/pos-3334.bmp 1 98 10 411 866
+rawdata/pos-3335.bmp 1 50 4 901 989
+rawdata/pos-3336.bmp 1 53 31 887 979
+rawdata/pos-3337.bmp 1 52 20 781 1006
+rawdata/pos-3338.bmp 1 6 10 760 944
+rawdata/pos-3339.bmp 1 53 17 918 1017
+rawdata/pos-3340.bmp 1 40 12 939 1008
+rawdata/pos-3341.bmp 1 88 29 922 1025
+rawdata/pos-3342.bmp 1 75 44 749 943
+rawdata/pos-3343.bmp 1 46 25 896 1028
+rawdata/pos-3344.bmp 1 115 12 916 1037
+rawdata/pos-3345.bmp 1 73 36 894 1024
+rawdata/pos-3346.bmp 2 59 26 439 958 488 27 422 963
+rawdata/pos-3347.bmp 2 87 22 417 940 499 20 418 947
+rawdata/pos-3348.bmp 2 105 17 423 921 515 12 430 922
+rawdata/pos-3349.bmp 2 72 49 421 957 482 44 417 967
+rawdata/pos-3350.bmp 2 39 37 425 940 454 37 411 935
+rawdata/pos-3351.bmp 2 83 33 399 949 480 30 417 961
+rawdata/pos-3352.bmp 1 113 33 964 983
+rawdata/pos-3353.bmp 1 87 25 848 976
+rawdata/pos-3354.bmp 1 82 39 725 935
+rawdata/pos-3355.bmp 1 135 6 877 1028
+rawdata/pos-3356.bmp 1 61 14 873 973
+rawdata/pos-3357.bmp 1 75 25 714 817
+rawdata/pos-3358.bmp 1 83 7 815 893
+rawdata/pos-3359.bmp 1 83 7 815 893
+rawdata/pos-3360.bmp 1 87 9 821 906
+rawdata/pos-3361.bmp 1 100 10 821 943
+rawdata/pos-3362.bmp 2 125 51 1006 1059 553 395 104 97
+rawdata/pos-3363.bmp 2 71 21 939 1082 410 376 100 100
+rawdata/pos-3364.bmp 1 98 7 923 1043
+rawdata/pos-3365.bmp 1 100 9 925 1051
+rawdata/pos-3366.bmp 1 93 12 886 1025
+rawdata/pos-3367.bmp 1 104 21 740 929
+rawdata/pos-3368.bmp 1 177 10 477 1047
+rawdata/pos-3369.bmp 2 99 46 461 985 548 41 448 982
+rawdata/pos-3370.bmp 2 72 2 456 977 513 10 456 982
+rawdata/pos-3371.bmp 2 50 4 460 990 495 7 448 983
+rawdata/pos-3372.bmp 2 114 31 443 1002 558 43 455 1001
+rawdata/pos-3373.bmp 2 97 15 458 1012 546 17 442 1021
+rawdata/pos-3374.bmp 3 82 32 408 907 499 43 405 918 526 213 201 444
+rawdata/pos-3375.bmp 3 91 25 388 891 495 12 381 915 528 188 193 450
+rawdata/pos-3376.bmp 3 93 9 392 887 524 171 197 443 491 4 390 899
+rawdata/pos-3377.bmp 1 86 31 892 938
+rawdata/pos-3378.bmp 3 92 13 886 1045 389 538 60 92 346 498 140 175
+rawdata/pos-3379.bmp 3 65 24 408 912 475 36 390 913 497 203 199 448
+rawdata/pos-3380.bmp 1 59 45 722 922
+rawdata/pos-3381.bmp 1 79 33 892 850
+rawdata/pos-3382.bmp 2 39 15 881 875 664 220 139 311
+rawdata/pos-3383.bmp 1 54 4 855 868
+rawdata/pos-3384.bmp 2 35 22 876 913 305 234 146 292
+rawdata/pos-3385.bmp 1 40 28 869 866
+rawdata/pos-3386.bmp 2 90 58 791 832 503 274 164 188
+rawdata/pos-3387.bmp 2 72 41 806 798 492 268 93 193
+rawdata/pos-3388.bmp 1 70 34 797 805
+rawdata/pos-3389.bmp 1 107 12 898 1034
+rawdata/pos-3390.bmp 1 99 32 844 807
+rawdata/pos-3391.bmp 1 81 35 778 804
+rawdata/pos-3392.bmp 1 45 36 806 982
+rawdata/pos-3393.bmp 1 103 45 406 888
+rawdata/pos-3394.bmp 1 259 41 420 878
+rawdata/pos-3395.bmp 1 94 14 628 1056
+rawdata/pos-3396.bmp 1 69 100 633 704
+rawdata/pos-3397.bmp 1 96 20 928 1017
+rawdata/pos-3398.bmp 1 93 17 919 1017
+rawdata/pos-3399.bmp 1 107 16 898 1008
+rawdata/pos-3400.bmp 1 68 5 893 1033
+rawdata/pos-3401.bmp 1 96 13 901 1034
+rawdata/pos-3402.bmp 1 89 13 896 1006
+rawdata/pos-3403.bmp 1 103 12 913 999
+rawdata/pos-3404.bmp 1 107 66 377 908
+rawdata/pos-3405.bmp 1 55 50 809 1000
+rawdata/pos-3406.bmp 1 149 26 409 929
+rawdata/pos-3407.bmp 1 102 1 469 1067
+rawdata/pos-3408.bmp 1 64 28 507 1043
+rawdata/pos-3409.bmp 1 69 4 801 842
+rawdata/pos-3410.bmp 1 52 86 774 850
+rawdata/pos-3411.bmp 1 99 32 923 1037
+rawdata/pos-3412.bmp 1 60 32 737 792
+rawdata/pos-3413.bmp 1 133 31 753 839
+rawdata/pos-3414.bmp 1 24 25 823 901
+rawdata/pos-3415.bmp 1 42 26 793 925
+rawdata/pos-3416.bmp 1 55 47 903 1015
+rawdata/pos-3417.bmp 1 61 71 801 981
+rawdata/pos-3418.bmp 1 31 15 827 905
+rawdata/pos-3419.bmp 2 104 16 1024 1027 574 242 363 421
+rawdata/pos-3420.bmp 2 97 14 851 939 447 210 346 398
+rawdata/pos-3421.bmp 2 79 15 859 929 614 218 172 392
+rawdata/pos-3422.bmp 2 62 29 874 915 330 311 149 309
+rawdata/pos-3423.bmp 1 87 11 792 910
+rawdata/pos-3424.bmp 2 89 13 797 861 487 188 170 382
+rawdata/pos-3425.bmp 1 93 5 776 916
+rawdata/pos-3426.bmp 1 63 30 844 960
+rawdata/pos-3427.bmp 1 103 11 882 983
+rawdata/pos-3428.bmp 1 103 3 887 972
+rawdata/pos-3429.bmp 1 50 37 725 971
+rawdata/pos-3430.bmp 1 74 10 891 969
+rawdata/pos-3431.bmp 1 39 16 872 983
+rawdata/pos-3432.bmp 1 102 9 882 951
+rawdata/pos-3433.bmp 1 131 40 918 1043
+rawdata/pos-3434.bmp 1 66 12 877 945
+rawdata/pos-3435.bmp 1 146 19 517 1036
+rawdata/pos-3436.bmp 1 116 11 831 926
+rawdata/pos-3437.bmp 1 50 39 875 985
+rawdata/pos-3438.bmp 1 74 13 934 983
+rawdata/pos-3439.bmp 1 91 18 470 875
+rawdata/pos-3440.bmp 1 129 11 469 865
+rawdata/pos-3441.bmp 1 40 25 978 1052
+rawdata/pos-3442.bmp 1 69 13 478 886
+rawdata/pos-3443.bmp 1 85 57 896 967
+rawdata/pos-3444.bmp 1 77 25 858 997
+rawdata/pos-3445.bmp 2 144 2 528 954 664 11 530 969
+rawdata/pos-3446.bmp 1 99 22 884 969
+rawdata/pos-3447.bmp 1 134 1 819 928
+rawdata/pos-3448.bmp 2 81 13 391 936 483 36 386 885
+rawdata/pos-3449.bmp 2 102 23 399 910 499 20 383 897
+rawdata/pos-3450.bmp 2 91 10 416 835 509 9 385 870
+rawdata/pos-3451.bmp 1 82 17 792 888
+rawdata/pos-3452.bmp 2 61 57 405 847 464 77 382 847
+rawdata/pos-3453.bmp 1 89 13 994 1063
+rawdata/pos-3454.bmp 2 89 78 359 864 444 75 370 819
+rawdata/pos-3455.bmp 1 58 27 842 980
+rawdata/pos-3456.bmp 2 69 63 382 880 435 72 398 836
+rawdata/pos-3457.bmp 2 68 61 404 833 451 59 396 861
+rawdata/pos-3458.bmp 2 99 70 409 863 483 65 382 867
+rawdata/pos-3459.bmp 1 61 19 911 1017
+rawdata/pos-3460.bmp 1 87 22 884 1027
+rawdata/pos-3461.bmp 1 60 8 911 1043
+rawdata/pos-3462.bmp 1 101 16 825 919
+rawdata/pos-3463.bmp 1 77 18 835 937
+rawdata/pos-3464.bmp 1 45 64 825 957
+rawdata/pos-3465.bmp 1 67 18 975 1045
+rawdata/pos-3466.bmp 1 96 43 904 983
+rawdata/pos-3467.bmp 1 69 35 846 977
+rawdata/pos-3468.bmp 1 90 43 778 910
+rawdata/pos-3469.bmp 1 128 5 764 943
+rawdata/pos-3470.bmp 1 113 35 764 944
+rawdata/pos-3471.bmp 1 73 71 751 901
+rawdata/pos-3472.bmp 1 229 37 360 1003
+rawdata/pos-3473.bmp 2 131 156 447 864 570 146 494 876
+rawdata/pos-3474.bmp 2 97 78 464 914 568 102 441 934
+rawdata/pos-3475.bmp 2 87 114 480 905 552 116 486 905
+rawdata/pos-3476.bmp 2 58 60 474 927 525 46 493 923
+rawdata/pos-3477.bmp 1 95 41 844 999
+rawdata/pos-3478.bmp 1 97 14 979 1037
+rawdata/pos-3479.bmp 2 68 29 466 981 524 69 469 913
+rawdata/pos-3480.bmp 1 188 47 1087 1012
+rawdata/pos-3481.bmp 1 66 34 1046 1026
+rawdata/pos-3482.bmp 1 65 14 1045 1010
+rawdata/pos-3483.bmp 1 65 55 973 962
+rawdata/pos-3484.bmp 1 96 42 958 938
+rawdata/pos-3485.bmp 1 101 37 456 1013
+rawdata/pos-3486.bmp 1 122 44 481 1031
+rawdata/pos-3487.bmp 2 73 30 1072 985 658 296 199 392
+rawdata/pos-3488.bmp 2 93 10 729 954 474 300 168 408
+rawdata/pos-3489.bmp 1 84 44 881 999
+rawdata/pos-3490.bmp 1 76 22 1070 1025
+rawdata/pos-3491.bmp 1 84 45 849 961
+rawdata/pos-3492.bmp 1 61 16 1035 975
+rawdata/pos-3493.bmp 1 118 29 1076 1013
+rawdata/pos-3494.bmp 1 105 49 1040 993
+rawdata/pos-3495.bmp 2 128 15 1244 1050 606 307 397 393
+rawdata/pos-3496.bmp 2 70 8 542 978 604 18 511 967
+rawdata/pos-3497.bmp 2 64 41 529 998 589 39 521 996
+rawdata/pos-3498.bmp 2 73 70 528 983 586 65 524 977
+rawdata/pos-3499.bmp 2 69 34 496 983 583 40 500 991
+rawdata/pos-3500.bmp 1 99 69 852 956
